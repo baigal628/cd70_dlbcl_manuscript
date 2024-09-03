@@ -3,7 +3,7 @@
 ## Content
 - data/
     
-    data used as input for analysis in jupiter notebooks.
+    data used as input for analysis in jupyter notebooks.
 
 - scripts/
 
