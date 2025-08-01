@@ -1,0 +1,73 @@
+new_annotation	genotype	clonality_median_per_cluster_per_genotype
+0_Naïve	Bcl6tg/+	0
+0_Naïve	CD70-/-	0
+0_Naïve	CD70-/-;Bcl6tg/+	0
+0_Naïve	WT	0
+1_Exhausted CTLs	Bcl6tg/+	0.137334137693391
+1_Exhausted CTLs	CD70-/-	0.00271764235882044
+1_Exhausted CTLs	CD70-/-;Bcl6tg/+	0.0388142111460723
+1_Exhausted CTLs	WT	0
+2_Th1/EM	Bcl6tg/+	0
+2_Th1/EM	CD70-/-	2.22044604925031e-16
+2_Th1/EM	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+2_Th1/EM	WT	0
+3_Effector Tregs	Bcl6tg/+	1.66533453693773e-16
+3_Effector Tregs	CD70-/-	0
+3_Effector Tregs	CD70-/-;Bcl6tg/+	0.00443846981359891
+3_Effector Tregs	WT	0
+4a_Exhausted CTLs	Bcl6tg/+	0.013154673276917
+4a_Exhausted CTLs	CD70-/-	0
+4a_Exhausted CTLs	CD70-/-;Bcl6tg/+	0.0653291990705571
+4a_Exhausted CTLs	WT	2.22044604925031e-16
+4b_Naïve	Bcl6tg/+	0
+4b_Naïve	CD70-/-	0
+4b_Naïve	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+4b_Naïve	WT	0
+5_Tfh	Bcl6tg/+	0.0118909084258794
+5_Tfh	CD70-/-	1.11022302462516e-16
+5_Tfh	CD70-/-;Bcl6tg/+	0.0041754157543924
+5_Tfh	WT	0.00337013500088201
+6_Activated CTLs	Bcl6tg/+	0.127569214402127
+6_Activated CTLs	CD70-/-	2.22044604925031e-16
+6_Activated CTLs	CD70-/-;Bcl6tg/+	0.0176631873736754
+6_Activated CTLs	WT	1.11022302462516e-16
+7_Follicular Tregs	Bcl6tg/+	2.22044604925031e-16
+7_Follicular Tregs	CD70-/-	0
+7_Follicular Tregs	CD70-/-;Bcl6tg/+	0.0210002113966763
+7_Follicular Tregs	WT	0
+8_Other	Bcl6tg/+	0.053605369642814
+8_Other	CD70-/-	0
+8_Other	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+8_Other	WT	2.22044604925031e-16
+9_NKT	Bcl6tg/+	0
+9_NKT	CD70-/-	0
+9_NKT	CD70-/-;Bcl6tg/+	1.11022302462516e-16
+9_NKT	WT	0
+10_Effector Tregs	Bcl6tg/+	0
+10_Effector Tregs	CD70-/-	0
+10_Effector Tregs	CD70-/-;Bcl6tg/+	0
+10_Effector Tregs	WT	0
+11_Cycling Tregs	Bcl6tg/+	2.22044604925031e-16
+11_Cycling Tregs	CD70-/-	0
+11_Cycling Tregs	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+11_Cycling Tregs	WT	0
+12_Cycling	Bcl6tg/+	0.114366917324743
+12_Cycling	CD70-/-	2.22044604925031e-16
+12_Cycling	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+12_Cycling	WT	2.22044604925031e-16
+13_Early activated CTLs	Bcl6tg/+	0.0370389352054856
+13_Early activated CTLs	CD70-/-	0
+13_Early activated CTLs	CD70-/-;Bcl6tg/+	0.0118909084258794
+13_Early activated CTLs	WT	0
+15_IFN-stimulated	Bcl6tg/+	0.0151380500658765
+15_IFN-stimulated	CD70-/-	0
+15_IFN-stimulated	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+15_IFN-stimulated	WT	2.22044604925031e-16
+17_Cycling	Bcl6tg/+	0.0820179762781594
+17_Cycling	CD70-/-	0
+17_Cycling	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+17_Cycling	WT	NA
+24_Cycling Tregs	Bcl6tg/+	0.103759374819711
+24_Cycling Tregs	CD70-/-	0
+24_Cycling Tregs	CD70-/-;Bcl6tg/+	0.0302761001317527
+24_Cycling Tregs	WT	0

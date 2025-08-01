@@ -1,0 +1,53 @@
+new_annotation	genotype	clonality_median_per_cluster_per_genotype
+0_Naïve	Bcl6tg/+	0
+0_Naïve	CD70-/-	0
+0_Naïve	CD70-/-;Bcl6tg/+	0
+0_Naïve	WT	0
+1_CM/EM	Bcl6tg/+	0.0380718229552595
+1_CM/EM	CD70-/-	0.00991458731196526
+1_CM/EM	CD70-/-;Bcl6tg/+	0.0133400413261352
+1_CM/EM	WT	0
+2_Exhausted CTLs	Bcl6tg/+	0.0397057000927351
+2_Exhausted CTLs	CD70-/-	0.0297201687029683
+2_Exhausted CTLs	CD70-/-;Bcl6tg/+	0.0329207445957817
+2_Exhausted CTLs	WT	0.0204302354529391
+3_Activated CTLs	Bcl6tg/+	0.0367756607251909
+3_Activated CTLs	CD70-/-	0.021162085840369
+3_Activated CTLs	CD70-/-;Bcl6tg/+	0.0355471579952042
+3_Activated CTLs	WT	0.0162726037405871
+4_Naïve	Bcl6tg/+	0
+4_Naïve	CD70-/-	0
+4_Naïve	CD70-/-;Bcl6tg/+	0
+4_Naïve	WT	0
+5_Other	Bcl6tg/+	2.22044604925031e-16
+5_Other	CD70-/-	0
+5_Other	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+5_Other	WT	0
+6_CM/EM	Bcl6tg/+	0
+6_CM/EM	CD70-/-	0
+6_CM/EM	CD70-/-;Bcl6tg/+	0
+6_CM/EM	WT	0
+7_CM/EM	Bcl6tg/+	2.22044604925031e-16
+7_CM/EM	CD70-/-	0
+7_CM/EM	CD70-/-;Bcl6tg/+	0
+7_CM/EM	WT	0
+8_Precursor exhausted CTLs	Bcl6tg/+	0.0088769396271976
+8_Precursor exhausted CTLs	CD70-/-	1.11022302462516e-16
+8_Precursor exhausted CTLs	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+8_Precursor exhausted CTLs	WT	0.0266491086832926
+9_Non-exhausted effectors	Bcl6tg/+	2.22044604925031e-16
+9_Non-exhausted effectors	CD70-/-	0.0390359525563188
+9_Non-exhausted effectors	CD70-/-;Bcl6tg/+	2.22044604925031e-16
+9_Non-exhausted effectors	WT	2.22044604925031e-16
+11_Cycling	Bcl6tg/+	0.0210835042788161
+11_Cycling	CD70-/-	0
+11_Cycling	CD70-/-;Bcl6tg/+	0.0384619130122918
+11_Cycling	WT	0.0151380500658765
+13_Early exhausted CTLs	Bcl6tg/+	0.0174324069266364
+13_Early exhausted CTLs	CD70-/-	2.22044604925031e-16
+13_Early exhausted CTLs	CD70-/-;Bcl6tg/+	0.0151413382124537
+13_Early exhausted CTLs	WT	0
+16_Terminally exhausted CTLs	Bcl6tg/+	0.0327039404800112
+16_Terminally exhausted CTLs	CD70-/-	0.0817041659455106
+16_Terminally exhausted CTLs	CD70-/-;Bcl6tg/+	0.0825938613729541
+16_Terminally exhausted CTLs	WT	NA

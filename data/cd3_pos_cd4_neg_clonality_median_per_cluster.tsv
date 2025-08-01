@@ -1,0 +1,14 @@
+new_annotation	clonality_median
+0_Naïve	0
+1_CM/EM	0.0035740668314479
+2_Exhausted CTLs	0.0325193112171065
+3_Activated CTLs	0.0285451766635753
+4_Naïve	0
+5_Other	0
+6_CM/EM	0
+7_CM/EM	0
+8_Precursor exhausted CTLs	2.22044604925031e-16
+9_Non-exhausted effectors	2.22044604925031e-16
+11_Cycling	0.00594545421293979
+13_Early exhausted CTLs	2.22044604925031e-16
+16_Terminally exhausted CTLs	0.0427880324313445

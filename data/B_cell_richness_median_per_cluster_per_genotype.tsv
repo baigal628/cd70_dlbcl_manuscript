@@ -1,0 +1,109 @@
+new_annotation	genotype	richness_median_per_cluster_per_genotype
+0_Follicular	Bcl6tg/+	32
+0_Follicular	CD70-/-	124
+0_Follicular	CD70-/-;Bcl6tg/+	44
+0_Follicular	WT	143
+1_Marginal Zone	Bcl6tg/+	10
+1_Marginal Zone	CD70-/-	80.5
+1_Marginal Zone	CD70-/-;Bcl6tg/+	22
+1_Marginal Zone	WT	64.5
+2_Transitional (T2)	Bcl6tg/+	27
+2_Transitional (T2)	CD70-/-	77
+2_Transitional (T2)	CD70-/-;Bcl6tg/+	24
+2_Transitional (T2)	WT	77
+3_Atypical CD21lowCD23low	Bcl6tg/+	5
+3_Atypical CD21lowCD23low	CD70-/-	35
+3_Atypical CD21lowCD23low	CD70-/-;Bcl6tg/+	9
+3_Atypical CD21lowCD23low	WT	34
+4_Atypical CD21-CD23-	Bcl6tg/+	6
+4_Atypical CD21-CD23-	CD70-/-	22.5
+4_Atypical CD21-CD23-	CD70-/-;Bcl6tg/+	7.5
+4_Atypical CD21-CD23-	WT	18.5
+5_Atypical Marginal Zone	Bcl6tg/+	6
+5_Atypical Marginal Zone	CD70-/-	21
+5_Atypical Marginal Zone	CD70-/-;Bcl6tg/+	6
+5_Atypical Marginal Zone	WT	18
+6_Follicular	Bcl6tg/+	8
+6_Follicular	CD70-/-	24
+6_Follicular	CD70-/-;Bcl6tg/+	14
+6_Follicular	WT	26
+7_Age-associated/autoimmune	Bcl6tg/+	6
+7_Age-associated/autoimmune	CD70-/-	22.5
+7_Age-associated/autoimmune	CD70-/-;Bcl6tg/+	11
+7_Age-associated/autoimmune	WT	18
+8_Age-associated/autoimmune	Bcl6tg/+	8.5
+8_Age-associated/autoimmune	CD70-/-	18.5
+8_Age-associated/autoimmune	CD70-/-;Bcl6tg/+	8
+8_Age-associated/autoimmune	WT	14.5
+9_Follicular Hspa1+	Bcl6tg/+	25
+9_Follicular Hspa1+	CD70-/-	30
+9_Follicular Hspa1+	CD70-/-;Bcl6tg/+	13.5
+9_Follicular Hspa1+	WT	34
+10_Follicular IFN-stimulated	Bcl6tg/+	15.5
+10_Follicular IFN-stimulated	CD70-/-	19.5
+10_Follicular IFN-stimulated	CD70-/-;Bcl6tg/+	15
+10_Follicular IFN-stimulated	WT	22
+11_Follicular	Bcl6tg/+	10
+11_Follicular	CD70-/-	23
+11_Follicular	CD70-/-;Bcl6tg/+	11.5
+11_Follicular	WT	34.5
+12_Follicular	Bcl6tg/+	10
+12_Follicular	CD70-/-	23
+12_Follicular	CD70-/-;Bcl6tg/+	14
+12_Follicular	WT	27.5
+13_Follicular	Bcl6tg/+	5
+13_Follicular	CD70-/-	10
+13_Follicular	CD70-/-;Bcl6tg/+	6
+13_Follicular	WT	14.5
+14_Follicular Serpina3+	Bcl6tg/+	10
+14_Follicular Serpina3+	CD70-/-	8
+14_Follicular Serpina3+	CD70-/-;Bcl6tg/+	10.5
+14_Follicular Serpina3+	WT	8
+15_Plasmablasts	Bcl6tg/+	6
+15_Plasmablasts	CD70-/-	23
+15_Plasmablasts	CD70-/-;Bcl6tg/+	6.5
+15_Plasmablasts	WT	12
+16_Other	Bcl6tg/+	4
+16_Other	CD70-/-	6
+16_Other	CD70-/-;Bcl6tg/+	4
+16_Other	WT	7
+17_Ig-restricted	Bcl6tg/+	12.5
+17_Ig-restricted	CD70-/-	9
+17_Ig-restricted	CD70-/-;Bcl6tg/+	4.5
+17_Ig-restricted	WT	7.5
+18_Cycling MHCII low	Bcl6tg/+	3
+18_Cycling MHCII low	CD70-/-	8
+18_Cycling MHCII low	CD70-/-;Bcl6tg/+	3
+18_Cycling MHCII low	WT	6.5
+19_Cycling MHCII low	Bcl6tg/+	3
+19_Cycling MHCII low	CD70-/-	4
+19_Cycling MHCII low	CD70-/-;Bcl6tg/+	4
+19_Cycling MHCII low	WT	4
+20_Ig-restricted	Bcl6tg/+	12
+20_Ig-restricted	CD70-/-	14
+20_Ig-restricted	CD70-/-;Bcl6tg/+	6
+20_Ig-restricted	WT	16
+21_Cycling MHCII low	Bcl6tg/+	2
+21_Cycling MHCII low	CD70-/-	4
+21_Cycling MHCII low	CD70-/-;Bcl6tg/+	3
+21_Cycling MHCII low	WT	4
+22_Pre-plasmablasts	Bcl6tg/+	3
+22_Pre-plasmablasts	CD70-/-	3.5
+22_Pre-plasmablasts	CD70-/-;Bcl6tg/+	4
+22_Pre-plasmablasts	WT	4
+23_Ig-restricted	Bcl6tg/+	9.5
+23_Ig-restricted	CD70-/-	10
+23_Ig-restricted	CD70-/-;Bcl6tg/+	5
+23_Ig-restricted	WT	11
+24_Follicular	Bcl6tg/+	10
+24_Follicular	CD70-/-	9.5
+24_Follicular	CD70-/-;Bcl6tg/+	4
+24_Follicular	WT	10.5
+25_Ig-restricted	Bcl6tg/+	6.5
+25_Ig-restricted	CD70-/-	6.5
+25_Ig-restricted	CD70-/-;Bcl6tg/+	3
+25_Ig-restricted	WT	6.5
+27_Light Zone	Bcl6tg/+	6
+27_Light Zone	CD70-/-	6.5
+27_Light Zone	CD70-/-;Bcl6tg/+	3
+27_Light Zone	WT	7

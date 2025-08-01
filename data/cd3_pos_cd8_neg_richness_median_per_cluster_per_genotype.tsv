@@ -1,0 +1,73 @@
+new_annotation	genotype	richness_median_per_cluster_per_genotype
+0_Naïve	Bcl6tg/+	13
+0_Naïve	CD70-/-	26
+0_Naïve	CD70-/-;Bcl6tg/+	18
+0_Naïve	WT	52
+1_Exhausted CTLs	Bcl6tg/+	14.5
+1_Exhausted CTLs	CD70-/-	8
+1_Exhausted CTLs	CD70-/-;Bcl6tg/+	24.5
+1_Exhausted CTLs	WT	9
+2_Th1/EM	Bcl6tg/+	12
+2_Th1/EM	CD70-/-	18
+2_Th1/EM	CD70-/-;Bcl6tg/+	13
+2_Th1/EM	WT	18.5
+3_Effector Tregs	Bcl6tg/+	6
+3_Effector Tregs	CD70-/-	11
+3_Effector Tregs	CD70-/-;Bcl6tg/+	6
+3_Effector Tregs	WT	7
+4a_Exhausted CTLs	Bcl6tg/+	5.5
+4a_Exhausted CTLs	CD70-/-	4
+4a_Exhausted CTLs	CD70-/-;Bcl6tg/+	5
+4a_Exhausted CTLs	WT	3
+4b_Naïve	Bcl6tg/+	13
+4b_Naïve	CD70-/-	11
+4b_Naïve	CD70-/-;Bcl6tg/+	3
+4b_Naïve	WT	9
+5_Tfh	Bcl6tg/+	7
+5_Tfh	CD70-/-	12
+5_Tfh	CD70-/-;Bcl6tg/+	9
+5_Tfh	WT	12
+6_Activated CTLs	Bcl6tg/+	6.5
+6_Activated CTLs	CD70-/-	5
+6_Activated CTLs	CD70-/-;Bcl6tg/+	8
+6_Activated CTLs	WT	4.5
+7_Follicular Tregs	Bcl6tg/+	3
+7_Follicular Tregs	CD70-/-	8
+7_Follicular Tregs	CD70-/-;Bcl6tg/+	4.5
+7_Follicular Tregs	WT	5
+8_Other	Bcl6tg/+	3
+8_Other	CD70-/-	4
+8_Other	CD70-/-;Bcl6tg/+	3
+8_Other	WT	3
+9_NKT	Bcl6tg/+	5
+9_NKT	CD70-/-	6.5
+9_NKT	CD70-/-;Bcl6tg/+	5.5
+9_NKT	WT	9
+10_Effector Tregs	Bcl6tg/+	4.5
+10_Effector Tregs	CD70-/-	6.5
+10_Effector Tregs	CD70-/-;Bcl6tg/+	5
+10_Effector Tregs	WT	6
+11_Cycling Tregs	Bcl6tg/+	4
+11_Cycling Tregs	CD70-/-	5
+11_Cycling Tregs	CD70-/-;Bcl6tg/+	4
+11_Cycling Tregs	WT	5
+12_Cycling	Bcl6tg/+	4
+12_Cycling	CD70-/-	4
+12_Cycling	CD70-/-;Bcl6tg/+	5
+12_Cycling	WT	3
+13_Early activated CTLs	Bcl6tg/+	4
+13_Early activated CTLs	CD70-/-	5.5
+13_Early activated CTLs	CD70-/-;Bcl6tg/+	5
+13_Early activated CTLs	WT	4
+15_IFN-stimulated	Bcl6tg/+	4
+15_IFN-stimulated	CD70-/-	4
+15_IFN-stimulated	CD70-/-;Bcl6tg/+	4
+15_IFN-stimulated	WT	3
+17_Cycling	Bcl6tg/+	3
+17_Cycling	CD70-/-	8
+17_Cycling	CD70-/-;Bcl6tg/+	3
+17_Cycling	WT	NA
+24_Cycling Tregs	Bcl6tg/+	3
+24_Cycling Tregs	CD70-/-	6
+24_Cycling Tregs	CD70-/-;Bcl6tg/+	3
+24_Cycling Tregs	WT	4

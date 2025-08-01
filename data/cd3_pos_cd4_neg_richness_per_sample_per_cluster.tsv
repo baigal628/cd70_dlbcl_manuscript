@@ -1,0 +1,1079 @@
+sample_id	age	genotype	new_annotation	richness
+234	6mos	WT	0_Naïve	116
+234	6mos	WT	1_CM/EM	30
+234	6mos	WT	11_Cycling	NA
+234	6mos	WT	4_Naïve	32
+234	6mos	WT	5_Other	6
+234	6mos	WT	9_Non-exhausted effectors	6
+234	6mos	WT	7_CM/EM	7
+234	6mos	WT	8_Precursor exhausted CTLs	NA
+234	6mos	WT	3_Activated CTLs	NA
+234	6mos	WT	13_Early exhausted CTLs	NA
+234	6mos	WT	6_CM/EM	8
+234	6mos	WT	2_Exhausted CTLs	NA
+257	6mos	WT	0_Naïve	106
+257	6mos	WT	1_CM/EM	32
+257	6mos	WT	4_Naïve	27
+257	6mos	WT	5_Other	8
+257	6mos	WT	6_CM/EM	11
+257	6mos	WT	7_CM/EM	4
+257	6mos	WT	2_Exhausted CTLs	NA
+257	6mos	WT	11_Cycling	NA
+257	6mos	WT	13_Early exhausted CTLs	NA
+257	6mos	WT	8_Precursor exhausted CTLs	NA
+257	6mos	WT	9_Non-exhausted effectors	NA
+010	6mos	WT	4_Naïve	15
+010	6mos	WT	0_Naïve	92
+010	6mos	WT	6_CM/EM	14
+010	6mos	WT	13_Early exhausted CTLs	NA
+010	6mos	WT	7_CM/EM	5
+010	6mos	WT	1_CM/EM	41
+010	6mos	WT	5_Other	NA
+010	6mos	WT	9_Non-exhausted effectors	NA
+010	6mos	WT	8_Precursor exhausted CTLs	NA
+C	6mos	WT	0_Naïve	89
+C	6mos	WT	1_CM/EM	28
+C	6mos	WT	13_Early exhausted CTLs	NA
+C	6mos	WT	4_Naïve	24
+C	6mos	WT	6_CM/EM	10
+C	6mos	WT	5_Other	7
+C	6mos	WT	7_CM/EM	3
+C	6mos	WT	9_Non-exhausted effectors	NA
+D	6mos	WT	4_Naïve	17
+D	6mos	WT	0_Naïve	45
+D	6mos	WT	7_CM/EM	6
+D	6mos	WT	8_Precursor exhausted CTLs	4
+D	6mos	WT	6_CM/EM	8
+D	6mos	WT	5_Other	7
+D	6mos	WT	1_CM/EM	21
+D	6mos	WT	2_Exhausted CTLs	3
+D	6mos	WT	13_Early exhausted CTLs	NA
+D	6mos	WT	3_Activated CTLs	3
+D	6mos	WT	9_Non-exhausted effectors	3
+D	6mos	WT	16_Terminally exhausted CTLs	NA
+D	6mos	WT	11_Cycling	NA
+262	6mos	WT	0_Naïve	39
+262	6mos	WT	5_Other	6
+262	6mos	WT	3_Activated CTLs	13
+262	6mos	WT	4_Naïve	6
+262	6mos	WT	8_Precursor exhausted CTLs	5
+262	6mos	WT	2_Exhausted CTLs	14
+262	6mos	WT	11_Cycling	5
+262	6mos	WT	9_Non-exhausted effectors	4
+262	6mos	WT	1_CM/EM	14
+262	6mos	WT	7_CM/EM	NA
+262	6mos	WT	6_CM/EM	4
+262	6mos	WT	13_Early exhausted CTLs	5
+262	6mos	WT	16_Terminally exhausted CTLs	NA
+137	6mos	CD70-/-	8_Precursor exhausted CTLs	10
+137	6mos	CD70-/-	0_Naïve	58
+137	6mos	CD70-/-	6_CM/EM	9
+137	6mos	CD70-/-	13_Early exhausted CTLs	NA
+137	6mos	CD70-/-	1_CM/EM	27
+137	6mos	CD70-/-	3_Activated CTLs	5
+137	6mos	CD70-/-	5_Other	NA
+137	6mos	CD70-/-	11_Cycling	4
+137	6mos	CD70-/-	2_Exhausted CTLs	5
+137	6mos	CD70-/-	4_Naïve	14
+137	6mos	CD70-/-	9_Non-exhausted effectors	NA
+137	6mos	CD70-/-	7_CM/EM	NA
+138	6mos	CD70-/-	0_Naïve	29
+138	6mos	CD70-/-	4_Naïve	13
+138	6mos	CD70-/-	9_Non-exhausted effectors	7
+138	6mos	CD70-/-	1_CM/EM	18
+138	6mos	CD70-/-	8_Precursor exhausted CTLs	6
+138	6mos	CD70-/-	7_CM/EM	7
+138	6mos	CD70-/-	2_Exhausted CTLs	5
+138	6mos	CD70-/-	3_Activated CTLs	10
+138	6mos	CD70-/-	6_CM/EM	5
+138	6mos	CD70-/-	16_Terminally exhausted CTLs	NA
+138	6mos	CD70-/-	13_Early exhausted CTLs	3
+138	6mos	CD70-/-	5_Other	5
+138	6mos	CD70-/-	11_Cycling	4
+140	6mos	CD70-/-	0_Naïve	95
+140	6mos	CD70-/-	1_CM/EM	21
+140	6mos	CD70-/-	4_Naïve	29
+140	6mos	CD70-/-	13_Early exhausted CTLs	NA
+140	6mos	CD70-/-	5_Other	4
+140	6mos	CD70-/-	6_CM/EM	9
+140	6mos	CD70-/-	7_CM/EM	5
+140	6mos	CD70-/-	9_Non-exhausted effectors	2
+140	6mos	CD70-/-	8_Precursor exhausted CTLs	NA
+140	6mos	CD70-/-	3_Activated CTLs	NA
+141	6mos	CD70-/-	5_Other	5
+141	6mos	CD70-/-	4_Naïve	16
+141	6mos	CD70-/-	13_Early exhausted CTLs	NA
+141	6mos	CD70-/-	0_Naïve	71
+141	6mos	CD70-/-	6_CM/EM	10
+141	6mos	CD70-/-	1_CM/EM	20
+141	6mos	CD70-/-	8_Precursor exhausted CTLs	3
+141	6mos	CD70-/-	3_Activated CTLs	NA
+141	6mos	CD70-/-	7_CM/EM	5
+141	6mos	CD70-/-	9_Non-exhausted effectors	3
+141	6mos	CD70-/-	2_Exhausted CTLs	NA
+141	6mos	CD70-/-	11_Cycling	NA
+110	6mos	CD70-/-	5_Other	7
+110	6mos	CD70-/-	1_CM/EM	27
+110	6mos	CD70-/-	0_Naïve	111
+110	6mos	CD70-/-	6_CM/EM	12
+110	6mos	CD70-/-	4_Naïve	14
+110	6mos	CD70-/-	3_Activated CTLs	NA
+110	6mos	CD70-/-	7_CM/EM	8
+110	6mos	CD70-/-	9_Non-exhausted effectors	NA
+110	6mos	CD70-/-	8_Precursor exhausted CTLs	NA
+110	6mos	CD70-/-	13_Early exhausted CTLs	NA
+111	6mos	CD70-/-	1_CM/EM	22
+111	6mos	CD70-/-	0_Naïve	104
+111	6mos	CD70-/-	11_Cycling	NA
+111	6mos	CD70-/-	4_Naïve	23
+111	6mos	CD70-/-	7_CM/EM	5
+111	6mos	CD70-/-	3_Activated CTLs	4
+111	6mos	CD70-/-	6_CM/EM	11
+111	6mos	CD70-/-	5_Other	4
+111	6mos	CD70-/-	8_Precursor exhausted CTLs	4
+111	6mos	CD70-/-	9_Non-exhausted effectors	NA
+111	6mos	CD70-/-	13_Early exhausted CTLs	NA
+111	6mos	CD70-/-	2_Exhausted CTLs	NA
+158	6mos	Bcl6tg/+	0_Naïve	79
+158	6mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+158	6mos	Bcl6tg/+	7_CM/EM	3
+158	6mos	Bcl6tg/+	4_Naïve	13
+158	6mos	Bcl6tg/+	1_CM/EM	18
+158	6mos	Bcl6tg/+	8_Precursor exhausted CTLs	NA
+158	6mos	Bcl6tg/+	6_CM/EM	9
+158	6mos	Bcl6tg/+	5_Other	NA
+158	6mos	Bcl6tg/+	3_Activated CTLs	NA
+158	6mos	Bcl6tg/+	2_Exhausted CTLs	NA
+159	6mos	Bcl6tg/+	0_Naïve	115
+159	6mos	Bcl6tg/+	4_Naïve	18
+159	6mos	Bcl6tg/+	1_CM/EM	31
+159	6mos	Bcl6tg/+	5_Other	NA
+159	6mos	Bcl6tg/+	7_CM/EM	5
+159	6mos	Bcl6tg/+	6_CM/EM	8
+159	6mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+159	6mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+159	6mos	Bcl6tg/+	2_Exhausted CTLs	NA
+160	6mos	Bcl6tg/+	5_Other	10
+160	6mos	Bcl6tg/+	4_Naïve	36
+160	6mos	Bcl6tg/+	1_CM/EM	22
+160	6mos	Bcl6tg/+	0_Naïve	114
+160	6mos	Bcl6tg/+	6_CM/EM	6
+160	6mos	Bcl6tg/+	7_CM/EM	6
+160	6mos	Bcl6tg/+	2_Exhausted CTLs	NA
+160	6mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+160	6mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+160	6mos	Bcl6tg/+	3_Activated CTLs	NA
+160	6mos	Bcl6tg/+	11_Cycling	NA
+161	6mos	Bcl6tg/+	6_CM/EM	9
+161	6mos	Bcl6tg/+	1_CM/EM	12
+161	6mos	Bcl6tg/+	0_Naïve	20
+161	6mos	Bcl6tg/+	3_Activated CTLs	NA
+161	6mos	Bcl6tg/+	4_Naïve	4
+161	6mos	Bcl6tg/+	5_Other	NA
+161	6mos	Bcl6tg/+	8_Precursor exhausted CTLs	NA
+161	6mos	Bcl6tg/+	7_CM/EM	4
+161	6mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+161	6mos	Bcl6tg/+	11_Cycling	NA
+161	6mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+161	6mos	Bcl6tg/+	2_Exhausted CTLs	NA
+032	6mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+032	6mos	Bcl6tg/+	0_Naïve	127
+032	6mos	Bcl6tg/+	1_CM/EM	41
+032	6mos	Bcl6tg/+	5_Other	6
+032	6mos	Bcl6tg/+	7_CM/EM	10
+032	6mos	Bcl6tg/+	4_Naïve	30
+032	6mos	Bcl6tg/+	9_Non-exhausted effectors	6
+032	6mos	Bcl6tg/+	3_Activated CTLs	3
+032	6mos	Bcl6tg/+	6_CM/EM	8
+032	6mos	Bcl6tg/+	8_Precursor exhausted CTLs	NA
+032	6mos	Bcl6tg/+	11_Cycling	NA
+032	6mos	Bcl6tg/+	2_Exhausted CTLs	NA
+033	6mos	Bcl6tg/+	4_Naïve	25
+033	6mos	Bcl6tg/+	5_Other	7
+033	6mos	Bcl6tg/+	0_Naïve	118
+033	6mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+033	6mos	Bcl6tg/+	1_CM/EM	32
+033	6mos	Bcl6tg/+	6_CM/EM	5
+033	6mos	Bcl6tg/+	7_CM/EM	3
+033	6mos	Bcl6tg/+	8_Precursor exhausted CTLs	NA
+033	6mos	Bcl6tg/+	3_Activated CTLs	NA
+033	6mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+033	6mos	Bcl6tg/+	2_Exhausted CTLs	NA
+145	6mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	6
+145	6mos	CD70-/-;Bcl6tg/+	0_Naïve	18
+145	6mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	22
+145	6mos	CD70-/-;Bcl6tg/+	1_CM/EM	33
+145	6mos	CD70-/-;Bcl6tg/+	4_Naïve	4
+145	6mos	CD70-/-;Bcl6tg/+	7_CM/EM	6
+145	6mos	CD70-/-;Bcl6tg/+	6_CM/EM	8
+145	6mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	13
+145	6mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	3
+145	6mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	9
+145	6mos	CD70-/-;Bcl6tg/+	11_Cycling	8
+145	6mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	5
+145	6mos	CD70-/-;Bcl6tg/+	5_Other	3
+146	6mos	CD70-/-;Bcl6tg/+	1_CM/EM	21
+146	6mos	CD70-/-;Bcl6tg/+	4_Naïve	8
+146	6mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	15
+146	6mos	CD70-/-;Bcl6tg/+	0_Naïve	36
+146	6mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	26
+146	6mos	CD70-/-;Bcl6tg/+	6_CM/EM	8
+146	6mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	4
+146	6mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	11
+146	6mos	CD70-/-;Bcl6tg/+	7_CM/EM	6
+146	6mos	CD70-/-;Bcl6tg/+	5_Other	3
+146	6mos	CD70-/-;Bcl6tg/+	11_Cycling	4
+146	6mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	4
+146	6mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	4
+211	6mos	CD70-/-;Bcl6tg/+	6_CM/EM	9
+211	6mos	CD70-/-;Bcl6tg/+	1_CM/EM	24
+211	6mos	CD70-/-;Bcl6tg/+	4_Naïve	15
+211	6mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	6
+211	6mos	CD70-/-;Bcl6tg/+	0_Naïve	42
+211	6mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	4
+211	6mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	4
+211	6mos	CD70-/-;Bcl6tg/+	5_Other	3
+211	6mos	CD70-/-;Bcl6tg/+	11_Cycling	NA
+211	6mos	CD70-/-;Bcl6tg/+	7_CM/EM	7
+211	6mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	NA
+211	6mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	3
+213	6mos	CD70-/-;Bcl6tg/+	1_CM/EM	8
+213	6mos	CD70-/-;Bcl6tg/+	4_Naïve	12
+213	6mos	CD70-/-;Bcl6tg/+	0_Naïve	42
+213	6mos	CD70-/-;Bcl6tg/+	5_Other	NA
+213	6mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+213	6mos	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+213	6mos	CD70-/-;Bcl6tg/+	6_CM/EM	4
+213	6mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	NA
+213	6mos	CD70-/-;Bcl6tg/+	11_Cycling	NA
+213	6mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	3
+213	6mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	NA
+213	6mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+213	6mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+280	6mos	CD70-/-;Bcl6tg/+	1_CM/EM	34
+280	6mos	CD70-/-;Bcl6tg/+	5_Other	7
+280	6mos	CD70-/-;Bcl6tg/+	4_Naïve	9
+280	6mos	CD70-/-;Bcl6tg/+	6_CM/EM	12
+280	6mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	NA
+280	6mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+280	6mos	CD70-/-;Bcl6tg/+	7_CM/EM	6
+280	6mos	CD70-/-;Bcl6tg/+	0_Naïve	44
+280	6mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	NA
+280	6mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+280	6mos	CD70-/-;Bcl6tg/+	11_Cycling	NA
+280	6mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+072	6mos	CD70-/-;Bcl6tg/+	7_CM/EM	3
+072	6mos	CD70-/-;Bcl6tg/+	1_CM/EM	10
+072	6mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	16
+072	6mos	CD70-/-;Bcl6tg/+	0_Naïve	29
+072	6mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+072	6mos	CD70-/-;Bcl6tg/+	6_CM/EM	7
+072	6mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	6
+072	6mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	5
+072	6mos	CD70-/-;Bcl6tg/+	4_Naïve	6
+072	6mos	CD70-/-;Bcl6tg/+	5_Other	3
+072	6mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+049	14mos	WT	1_CM/EM	32
+049	14mos	WT	6_CM/EM	14
+049	14mos	WT	4_Naïve	22
+049	14mos	WT	0_Naïve	112
+049	14mos	WT	13_Early exhausted CTLs	NA
+049	14mos	WT	5_Other	NA
+049	14mos	WT	9_Non-exhausted effectors	4
+049	14mos	WT	8_Precursor exhausted CTLs	6
+049	14mos	WT	2_Exhausted CTLs	5
+049	14mos	WT	7_CM/EM	7
+049	14mos	WT	3_Activated CTLs	5
+049	14mos	WT	11_Cycling	NA
+051	14mos	WT	1_CM/EM	48
+051	14mos	WT	0_Naïve	81
+051	14mos	WT	5_Other	3
+051	14mos	WT	7_CM/EM	11
+051	14mos	WT	4_Naïve	25
+051	14mos	WT	6_CM/EM	17
+051	14mos	WT	8_Precursor exhausted CTLs	NA
+051	14mos	WT	9_Non-exhausted effectors	5
+051	14mos	WT	13_Early exhausted CTLs	3
+051	14mos	WT	2_Exhausted CTLs	NA
+051	14mos	WT	3_Activated CTLs	NA
+051	14mos	WT	11_Cycling	NA
+113	14mos	WT	8_Precursor exhausted CTLs	8
+113	14mos	WT	2_Exhausted CTLs	5
+113	14mos	WT	1_CM/EM	6
+113	14mos	WT	9_Non-exhausted effectors	6
+113	14mos	WT	0_Naïve	15
+113	14mos	WT	3_Activated CTLs	7
+113	14mos	WT	7_CM/EM	4
+113	14mos	WT	4_Naïve	7
+113	14mos	WT	5_Other	2
+113	14mos	WT	6_CM/EM	6
+113	14mos	WT	13_Early exhausted CTLs	NA
+115	14mos	WT	0_Naïve	NA
+115	14mos	WT	3_Activated CTLs	NA
+115	14mos	WT	9_Non-exhausted effectors	NA
+115	14mos	WT	5_Other	NA
+115	14mos	WT	7_CM/EM	NA
+115	14mos	WT	2_Exhausted CTLs	4
+115	14mos	WT	4_Naïve	NA
+115	14mos	WT	6_CM/EM	NA
+115	14mos	WT	11_Cycling	NA
+115	14mos	WT	1_CM/EM	NA
+118	14mos	WT	0_Naïve	44
+118	14mos	WT	4_Naïve	10
+118	14mos	WT	13_Early exhausted CTLs	NA
+118	14mos	WT	3_Activated CTLs	4
+118	14mos	WT	7_CM/EM	8
+118	14mos	WT	5_Other	NA
+118	14mos	WT	11_Cycling	NA
+118	14mos	WT	1_CM/EM	16
+118	14mos	WT	6_CM/EM	5
+118	14mos	WT	8_Precursor exhausted CTLs	3
+118	14mos	WT	2_Exhausted CTLs	5
+118	14mos	WT	9_Non-exhausted effectors	2
+129	14mos	WT	0_Naïve	48
+129	14mos	WT	6_CM/EM	31
+129	14mos	WT	7_CM/EM	22
+129	14mos	WT	1_CM/EM	62
+129	14mos	WT	9_Non-exhausted effectors	2
+129	14mos	WT	4_Naïve	19
+129	14mos	WT	3_Activated CTLs	9
+129	14mos	WT	8_Precursor exhausted CTLs	10
+129	14mos	WT	13_Early exhausted CTLs	4
+129	14mos	WT	11_Cycling	NA
+129	14mos	WT	2_Exhausted CTLs	4
+129	14mos	WT	5_Other	NA
+079	14mos	CD70-/-	1_CM/EM	55
+079	14mos	CD70-/-	9_Non-exhausted effectors	NA
+079	14mos	CD70-/-	4_Naïve	14
+079	14mos	CD70-/-	0_Naïve	78
+079	14mos	CD70-/-	11_Cycling	NA
+079	14mos	CD70-/-	6_CM/EM	21
+079	14mos	CD70-/-	2_Exhausted CTLs	4
+079	14mos	CD70-/-	3_Activated CTLs	4
+079	14mos	CD70-/-	8_Precursor exhausted CTLs	5
+079	14mos	CD70-/-	5_Other	NA
+079	14mos	CD70-/-	7_CM/EM	6
+079	14mos	CD70-/-	13_Early exhausted CTLs	NA
+010b	14mos	CD70-/-	1_CM/EM	53
+010b	14mos	CD70-/-	0_Naïve	52
+010b	14mos	CD70-/-	9_Non-exhausted effectors	NA
+010b	14mos	CD70-/-	7_CM/EM	6
+010b	14mos	CD70-/-	4_Naïve	18
+010b	14mos	CD70-/-	6_CM/EM	15
+010b	14mos	CD70-/-	13_Early exhausted CTLs	3
+010b	14mos	CD70-/-	5_Other	4
+010b	14mos	CD70-/-	8_Precursor exhausted CTLs	NA
+008	14mos	CD70-/-	1_CM/EM	53
+008	14mos	CD70-/-	0_Naïve	26
+008	14mos	CD70-/-	7_CM/EM	6
+008	14mos	CD70-/-	13_Early exhausted CTLs	NA
+008	14mos	CD70-/-	4_Naïve	11
+008	14mos	CD70-/-	6_CM/EM	11
+008	14mos	CD70-/-	3_Activated CTLs	NA
+008	14mos	CD70-/-	11_Cycling	4
+008	14mos	CD70-/-	9_Non-exhausted effectors	6
+008	14mos	CD70-/-	5_Other	NA
+008	14mos	CD70-/-	2_Exhausted CTLs	NA
+008	14mos	CD70-/-	8_Precursor exhausted CTLs	NA
+075	14mos	CD70-/-	1_CM/EM	2
+075	14mos	CD70-/-	11_Cycling	1
+075	14mos	CD70-/-	0_Naïve	8
+075	14mos	CD70-/-	6_CM/EM	1
+075	14mos	CD70-/-	7_CM/EM	2
+075	14mos	CD70-/-	3_Activated CTLs	3
+075	14mos	CD70-/-	8_Precursor exhausted CTLs	3
+075	14mos	CD70-/-	9_Non-exhausted effectors	3
+075	14mos	CD70-/-	2_Exhausted CTLs	3
+075	14mos	CD70-/-	13_Early exhausted CTLs	1
+075	14mos	CD70-/-	5_Other	NA
+075	14mos	CD70-/-	4_Naïve	3
+076	14mos	CD70-/-	7_CM/EM	NA
+076	14mos	CD70-/-	5_Other	NA
+076	14mos	CD70-/-	6_CM/EM	NA
+076	14mos	CD70-/-	9_Non-exhausted effectors	NA
+076	14mos	CD70-/-	1_CM/EM	NA
+076	14mos	CD70-/-	3_Activated CTLs	NA
+076	14mos	CD70-/-	4_Naïve	NA
+126	14mos	CD70-/-	6_CM/EM	20
+126	14mos	CD70-/-	4_Naïve	11
+126	14mos	CD70-/-	7_CM/EM	18
+126	14mos	CD70-/-	3_Activated CTLs	4
+126	14mos	CD70-/-	0_Naïve	35
+126	14mos	CD70-/-	1_CM/EM	53
+126	14mos	CD70-/-	8_Precursor exhausted CTLs	5
+126	14mos	CD70-/-	5_Other	3
+126	14mos	CD70-/-	13_Early exhausted CTLs	3
+126	14mos	CD70-/-	2_Exhausted CTLs	NA
+126	14mos	CD70-/-	9_Non-exhausted effectors	NA
+035	14mos	Bcl6tg/+	2_Exhausted CTLs	7
+035	14mos	Bcl6tg/+	6_CM/EM	NA
+035	14mos	Bcl6tg/+	1_CM/EM	NA
+035	14mos	Bcl6tg/+	5_Other	NA
+035	14mos	Bcl6tg/+	7_CM/EM	NA
+035	14mos	Bcl6tg/+	3_Activated CTLs	NA
+035	14mos	Bcl6tg/+	4_Naïve	NA
+035	14mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+035	14mos	Bcl6tg/+	0_Naïve	NA
+035	14mos	Bcl6tg/+	8_Precursor exhausted CTLs	3
+035	14mos	Bcl6tg/+	16_Terminally exhausted CTLs	NA
+035	14mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+031	14mos	Bcl6tg/+	3_Activated CTLs	21
+031	14mos	Bcl6tg/+	2_Exhausted CTLs	37
+031	14mos	Bcl6tg/+	11_Cycling	9
+031	14mos	Bcl6tg/+	5_Other	3
+031	14mos	Bcl6tg/+	8_Precursor exhausted CTLs	8
+031	14mos	Bcl6tg/+	1_CM/EM	14
+031	14mos	Bcl6tg/+	4_Naïve	7
+031	14mos	Bcl6tg/+	13_Early exhausted CTLs	3
+031	14mos	Bcl6tg/+	7_CM/EM	5
+031	14mos	Bcl6tg/+	0_Naïve	17
+031	14mos	Bcl6tg/+	9_Non-exhausted effectors	3
+031	14mos	Bcl6tg/+	6_CM/EM	5
+031	14mos	Bcl6tg/+	16_Terminally exhausted CTLs	4
+032b	14mos	Bcl6tg/+	6_CM/EM	5
+032b	14mos	Bcl6tg/+	13_Early exhausted CTLs	8
+032b	14mos	Bcl6tg/+	1_CM/EM	12
+032b	14mos	Bcl6tg/+	3_Activated CTLs	26
+032b	14mos	Bcl6tg/+	2_Exhausted CTLs	66
+032b	14mos	Bcl6tg/+	5_Other	10
+032b	14mos	Bcl6tg/+	8_Precursor exhausted CTLs	9
+032b	14mos	Bcl6tg/+	9_Non-exhausted effectors	5
+032b	14mos	Bcl6tg/+	7_CM/EM	3
+032b	14mos	Bcl6tg/+	16_Terminally exhausted CTLs	12
+032b	14mos	Bcl6tg/+	4_Naïve	NA
+032b	14mos	Bcl6tg/+	0_Naïve	NA
+032b	14mos	Bcl6tg/+	11_Cycling	8
+036	14mos	Bcl6tg/+	1_CM/EM	35
+036	14mos	Bcl6tg/+	2_Exhausted CTLs	15
+036	14mos	Bcl6tg/+	8_Precursor exhausted CTLs	5
+036	14mos	Bcl6tg/+	11_Cycling	3
+036	14mos	Bcl6tg/+	6_CM/EM	7
+036	14mos	Bcl6tg/+	4_Naïve	5
+036	14mos	Bcl6tg/+	0_Naïve	4
+036	14mos	Bcl6tg/+	3_Activated CTLs	12
+036	14mos	Bcl6tg/+	9_Non-exhausted effectors	5
+036	14mos	Bcl6tg/+	7_CM/EM	12
+036	14mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+036	14mos	Bcl6tg/+	16_Terminally exhausted CTLs	NA
+036	14mos	Bcl6tg/+	5_Other	3
+083	14mos	Bcl6tg/+	13_Early exhausted CTLs	4
+083	14mos	Bcl6tg/+	1_CM/EM	4
+083	14mos	Bcl6tg/+	3_Activated CTLs	17
+083	14mos	Bcl6tg/+	0_Naïve	5
+083	14mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+083	14mos	Bcl6tg/+	5_Other	2
+083	14mos	Bcl6tg/+	7_CM/EM	2
+083	14mos	Bcl6tg/+	4_Naïve	1
+083	14mos	Bcl6tg/+	11_Cycling	2
+083	14mos	Bcl6tg/+	2_Exhausted CTLs	15
+083	14mos	Bcl6tg/+	8_Precursor exhausted CTLs	6
+083	14mos	Bcl6tg/+	6_CM/EM	1
+083	14mos	Bcl6tg/+	16_Terminally exhausted CTLs	NA
+089	14mos	CD70-/-;Bcl6tg/+	1_CM/EM	23
+089	14mos	CD70-/-;Bcl6tg/+	7_CM/EM	4
+089	14mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+089	14mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	6
+089	14mos	CD70-/-;Bcl6tg/+	6_CM/EM	5
+089	14mos	CD70-/-;Bcl6tg/+	4_Naïve	3
+089	14mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	21
+089	14mos	CD70-/-;Bcl6tg/+	0_Naïve	14
+089	14mos	CD70-/-;Bcl6tg/+	5_Other	NA
+089	14mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+089	14mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	7
+089	14mos	CD70-/-;Bcl6tg/+	11_Cycling	NA
+089	14mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	NA
+090	14mos	CD70-/-;Bcl6tg/+	0_Naïve	52
+090	14mos	CD70-/-;Bcl6tg/+	1_CM/EM	81
+090	14mos	CD70-/-;Bcl6tg/+	6_CM/EM	21
+090	14mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	5
+090	14mos	CD70-/-;Bcl6tg/+	4_Naïve	18
+090	14mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	5
+090	14mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	14
+090	14mos	CD70-/-;Bcl6tg/+	7_CM/EM	13
+090	14mos	CD70-/-;Bcl6tg/+	5_Other	6
+090	14mos	CD70-/-;Bcl6tg/+	11_Cycling	3
+090	14mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	9
+090	14mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+090	14mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	NA
+087	14mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	12
+087	14mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	14
+087	14mos	CD70-/-;Bcl6tg/+	6_CM/EM	9
+087	14mos	CD70-/-;Bcl6tg/+	7_CM/EM	6
+087	14mos	CD70-/-;Bcl6tg/+	1_CM/EM	33
+087	14mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	14
+087	14mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	1
+087	14mos	CD70-/-;Bcl6tg/+	0_Naïve	11
+087	14mos	CD70-/-;Bcl6tg/+	4_Naïve	3
+087	14mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	6
+087	14mos	CD70-/-;Bcl6tg/+	5_Other	7
+087	14mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	2
+100	14mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+100	14mos	CD70-/-;Bcl6tg/+	5_Other	NA
+100	14mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	11
+100	14mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	4
+100	14mos	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+100	14mos	CD70-/-;Bcl6tg/+	1_CM/EM	12
+100	14mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	5
+100	14mos	CD70-/-;Bcl6tg/+	11_Cycling	5
+100	14mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	1
+100	14mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	9
+100	14mos	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+100	14mos	CD70-/-;Bcl6tg/+	4_Naïve	NA
+100	14mos	CD70-/-;Bcl6tg/+	0_Naïve	NA
+106	14mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	5
+106	14mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	8
+106	14mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	4
+106	14mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	4
+106	14mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	15
+106	14mos	CD70-/-;Bcl6tg/+	0_Naïve	NA
+106	14mos	CD70-/-;Bcl6tg/+	1_CM/EM	6
+106	14mos	CD70-/-;Bcl6tg/+	11_Cycling	NA
+106	14mos	CD70-/-;Bcl6tg/+	5_Other	NA
+106	14mos	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+106	14mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+220	14mos	CD70-/-;Bcl6tg/+	1_CM/EM	23
+220	14mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	5
+220	14mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	5
+220	14mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	26
+220	14mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	19
+220	14mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+220	14mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	9
+220	14mos	CD70-/-;Bcl6tg/+	5_Other	2
+220	14mos	CD70-/-;Bcl6tg/+	0_Naïve	5
+220	14mos	CD70-/-;Bcl6tg/+	11_Cycling	6
+220	14mos	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+220	14mos	CD70-/-;Bcl6tg/+	4_Naïve	NA
+220	14mos	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+90b	14mos	CD70-/-;Bcl6tg/+	0_Naïve	7
+90b	14mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	14
+90b	14mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+90b	14mos	CD70-/-;Bcl6tg/+	5_Other	NA
+90b	14mos	CD70-/-;Bcl6tg/+	11_Cycling	9
+90b	14mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	3
+90b	14mos	CD70-/-;Bcl6tg/+	1_CM/EM	2
+90b	14mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	NA
+90b	14mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	11
+90b	14mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+90b	14mos	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+90b	14mos	CD70-/-;Bcl6tg/+	4_Naïve	NA
+90b	14mos	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+207	18mos	WT	3_Activated CTLs	11
+207	18mos	WT	5_Other	6
+207	18mos	WT	4_Naïve	NA
+207	18mos	WT	0_Naïve	NA
+207	18mos	WT	6_CM/EM	2
+207	18mos	WT	13_Early exhausted CTLs	3
+207	18mos	WT	8_Precursor exhausted CTLs	6
+207	18mos	WT	7_CM/EM	3
+207	18mos	WT	1_CM/EM	7
+207	18mos	WT	9_Non-exhausted effectors	NA
+207	18mos	WT	2_Exhausted CTLs	7
+207	18mos	WT	11_Cycling	NA
+217	18mos	WT	1_CM/EM	22
+217	18mos	WT	0_Naïve	5
+217	18mos	WT	2_Exhausted CTLs	NA
+217	18mos	WT	6_CM/EM	6
+217	18mos	WT	4_Naïve	NA
+217	18mos	WT	7_CM/EM	4
+217	18mos	WT	13_Early exhausted CTLs	NA
+217	18mos	WT	3_Activated CTLs	NA
+217	18mos	WT	8_Precursor exhausted CTLs	NA
+217	18mos	WT	5_Other	NA
+217	18mos	WT	9_Non-exhausted effectors	NA
+217	18mos	WT	11_Cycling	NA
+219	18mos	WT	5_Other	3
+219	18mos	WT	0_Naïve	22
+219	18mos	WT	16_Terminally exhausted CTLs	NA
+219	18mos	WT	4_Naïve	4
+219	18mos	WT	8_Precursor exhausted CTLs	7
+219	18mos	WT	1_CM/EM	29
+219	18mos	WT	2_Exhausted CTLs	8
+219	18mos	WT	6_CM/EM	8
+219	18mos	WT	9_Non-exhausted effectors	NA
+219	18mos	WT	11_Cycling	NA
+219	18mos	WT	3_Activated CTLs	9
+219	18mos	WT	7_CM/EM	3
+219	18mos	WT	13_Early exhausted CTLs	NA
+055	18mos	WT	6_CM/EM	25
+055	18mos	WT	1_CM/EM	56
+055	18mos	WT	11_Cycling	NA
+055	18mos	WT	7_CM/EM	10
+055	18mos	WT	0_Naïve	56
+055	18mos	WT	4_Naïve	8
+055	18mos	WT	8_Precursor exhausted CTLs	NA
+055	18mos	WT	2_Exhausted CTLs	NA
+055	18mos	WT	13_Early exhausted CTLs	5
+055	18mos	WT	3_Activated CTLs	5
+055	18mos	WT	5_Other	NA
+055	18mos	WT	9_Non-exhausted effectors	3
+050	18mos	WT	8_Precursor exhausted CTLs	4
+050	18mos	WT	0_Naïve	17
+050	18mos	WT	5_Other	5
+050	18mos	WT	9_Non-exhausted effectors	NA
+050	18mos	WT	4_Naïve	7
+050	18mos	WT	1_CM/EM	15
+050	18mos	WT	7_CM/EM	5
+050	18mos	WT	11_Cycling	3
+050	18mos	WT	2_Exhausted CTLs	2
+050	18mos	WT	6_CM/EM	14
+050	18mos	WT	13_Early exhausted CTLs	NA
+050	18mos	WT	3_Activated CTLs	4
+050	18mos	WT	16_Terminally exhausted CTLs	NA
+189	18mos	WT	4_Naïve	5
+189	18mos	WT	0_Naïve	12
+189	18mos	WT	6_CM/EM	NA
+189	18mos	WT	1_CM/EM	9
+189	18mos	WT	3_Activated CTLs	8
+189	18mos	WT	8_Precursor exhausted CTLs	6
+189	18mos	WT	2_Exhausted CTLs	6
+189	18mos	WT	7_CM/EM	NA
+189	18mos	WT	9_Non-exhausted effectors	4
+189	18mos	WT	5_Other	NA
+189	18mos	WT	13_Early exhausted CTLs	NA
+011	18mos	CD70-/-	2_Exhausted CTLs	9
+011	18mos	CD70-/-	3_Activated CTLs	5
+011	18mos	CD70-/-	0_Naïve	6
+011	18mos	CD70-/-	1_CM/EM	4
+011	18mos	CD70-/-	9_Non-exhausted effectors	4
+011	18mos	CD70-/-	11_Cycling	4
+011	18mos	CD70-/-	8_Precursor exhausted CTLs	NA
+011	18mos	CD70-/-	7_CM/EM	1
+011	18mos	CD70-/-	6_CM/EM	2
+011	18mos	CD70-/-	5_Other	NA
+011	18mos	CD70-/-	4_Naïve	NA
+011	18mos	CD70-/-	13_Early exhausted CTLs	NA
+011	18mos	CD70-/-	16_Terminally exhausted CTLs	NA
+152	18mos	CD70-/-	9_Non-exhausted effectors	NA
+152	18mos	CD70-/-	7_CM/EM	4
+152	18mos	CD70-/-	0_Naïve	20
+152	18mos	CD70-/-	1_CM/EM	27
+152	18mos	CD70-/-	6_CM/EM	6
+152	18mos	CD70-/-	8_Precursor exhausted CTLs	5
+152	18mos	CD70-/-	3_Activated CTLs	9
+152	18mos	CD70-/-	4_Naïve	NA
+152	18mos	CD70-/-	2_Exhausted CTLs	NA
+152	18mos	CD70-/-	5_Other	NA
+152	18mos	CD70-/-	13_Early exhausted CTLs	NA
+292	18mos	CD70-/-	1_CM/EM	28
+292	18mos	CD70-/-	0_Naïve	34
+292	18mos	CD70-/-	4_Naïve	6
+292	18mos	CD70-/-	8_Precursor exhausted CTLs	8
+292	18mos	CD70-/-	9_Non-exhausted effectors	7
+292	18mos	CD70-/-	3_Activated CTLs	6
+292	18mos	CD70-/-	11_Cycling	NA
+292	18mos	CD70-/-	6_CM/EM	7
+292	18mos	CD70-/-	7_CM/EM	5
+292	18mos	CD70-/-	5_Other	NA
+292	18mos	CD70-/-	13_Early exhausted CTLs	3
+292	18mos	CD70-/-	2_Exhausted CTLs	10
+225	18mos	CD70-/-	0_Naïve	4
+225	18mos	CD70-/-	9_Non-exhausted effectors	4
+225	18mos	CD70-/-	1_CM/EM	12
+225	18mos	CD70-/-	8_Precursor exhausted CTLs	6
+225	18mos	CD70-/-	7_CM/EM	3
+225	18mos	CD70-/-	13_Early exhausted CTLs	NA
+225	18mos	CD70-/-	5_Other	NA
+225	18mos	CD70-/-	2_Exhausted CTLs	6
+225	18mos	CD70-/-	6_CM/EM	6
+225	18mos	CD70-/-	4_Naïve	3
+225	18mos	CD70-/-	3_Activated CTLs	3
+225	18mos	CD70-/-	11_Cycling	NA
+002	18mos	CD70-/-	5_Other	3
+002	18mos	CD70-/-	1_CM/EM	19
+002	18mos	CD70-/-	9_Non-exhausted effectors	5
+002	18mos	CD70-/-	7_CM/EM	5
+002	18mos	CD70-/-	2_Exhausted CTLs	7
+002	18mos	CD70-/-	8_Precursor exhausted CTLs	8
+002	18mos	CD70-/-	0_Naïve	5
+002	18mos	CD70-/-	6_CM/EM	6
+002	18mos	CD70-/-	4_Naïve	3
+002	18mos	CD70-/-	3_Activated CTLs	12
+002	18mos	CD70-/-	13_Early exhausted CTLs	NA
+002	18mos	CD70-/-	11_Cycling	NA
+186	18mos	CD70-/-	4_Naïve	NA
+186	18mos	CD70-/-	2_Exhausted CTLs	11
+186	18mos	CD70-/-	3_Activated CTLs	4
+186	18mos	CD70-/-	8_Precursor exhausted CTLs	NA
+186	18mos	CD70-/-	0_Naïve	NA
+186	18mos	CD70-/-	5_Other	NA
+186	18mos	CD70-/-	1_CM/EM	4
+186	18mos	CD70-/-	9_Non-exhausted effectors	7
+186	18mos	CD70-/-	6_CM/EM	NA
+186	18mos	CD70-/-	16_Terminally exhausted CTLs	2
+186	18mos	CD70-/-	11_Cycling	5
+186	18mos	CD70-/-	13_Early exhausted CTLs	NA
+186	18mos	CD70-/-	7_CM/EM	NA
+030	18mos	Bcl6tg/+	1_CM/EM	5
+030	18mos	Bcl6tg/+	0_Naïve	4
+030	18mos	Bcl6tg/+	3_Activated CTLs	NA
+030	18mos	Bcl6tg/+	5_Other	2
+030	18mos	Bcl6tg/+	8_Precursor exhausted CTLs	4
+030	18mos	Bcl6tg/+	4_Naïve	NA
+030	18mos	Bcl6tg/+	16_Terminally exhausted CTLs	NA
+030	18mos	Bcl6tg/+	6_CM/EM	3
+030	18mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+030	18mos	Bcl6tg/+	2_Exhausted CTLs	6
+030	18mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+030	18mos	Bcl6tg/+	7_CM/EM	NA
+030	18mos	Bcl6tg/+	11_Cycling	NA
+037	18mos	Bcl6tg/+	6_CM/EM	NA
+037	18mos	Bcl6tg/+	5_Other	4
+037	18mos	Bcl6tg/+	2_Exhausted CTLs	20
+037	18mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+037	18mos	Bcl6tg/+	16_Terminally exhausted CTLs	8
+037	18mos	Bcl6tg/+	3_Activated CTLs	13
+037	18mos	Bcl6tg/+	8_Precursor exhausted CTLs	5
+037	18mos	Bcl6tg/+	13_Early exhausted CTLs	5
+037	18mos	Bcl6tg/+	11_Cycling	11
+037	18mos	Bcl6tg/+	7_CM/EM	NA
+037	18mos	Bcl6tg/+	0_Naïve	NA
+037	18mos	Bcl6tg/+	1_CM/EM	NA
+037	18mos	Bcl6tg/+	4_Naïve	NA
+201	18mos	Bcl6tg/+	1_CM/EM	31
+201	18mos	Bcl6tg/+	4_Naïve	NA
+201	18mos	Bcl6tg/+	6_CM/EM	7
+201	18mos	Bcl6tg/+	7_CM/EM	6
+201	18mos	Bcl6tg/+	3_Activated CTLs	3
+201	18mos	Bcl6tg/+	2_Exhausted CTLs	6
+201	18mos	Bcl6tg/+	9_Non-exhausted effectors	5
+201	18mos	Bcl6tg/+	0_Naïve	15
+201	18mos	Bcl6tg/+	8_Precursor exhausted CTLs	5
+201	18mos	Bcl6tg/+	5_Other	NA
+201	18mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+201	18mos	Bcl6tg/+	11_Cycling	NA
+199	18mos	Bcl6tg/+	6_CM/EM	6
+199	18mos	Bcl6tg/+	7_CM/EM	11
+199	18mos	Bcl6tg/+	0_Naïve	13
+199	18mos	Bcl6tg/+	2_Exhausted CTLs	27
+199	18mos	Bcl6tg/+	9_Non-exhausted effectors	5
+199	18mos	Bcl6tg/+	1_CM/EM	17
+199	18mos	Bcl6tg/+	3_Activated CTLs	14
+199	18mos	Bcl6tg/+	8_Precursor exhausted CTLs	10
+199	18mos	Bcl6tg/+	13_Early exhausted CTLs	4
+199	18mos	Bcl6tg/+	4_Naïve	3
+199	18mos	Bcl6tg/+	11_Cycling	5
+199	18mos	Bcl6tg/+	5_Other	5
+199	18mos	Bcl6tg/+	16_Terminally exhausted CTLs	4
+211b	18mos	Bcl6tg/+	2_Exhausted CTLs	6
+211b	18mos	Bcl6tg/+	5_Other	4
+211b	18mos	Bcl6tg/+	8_Precursor exhausted CTLs	6
+211b	18mos	Bcl6tg/+	0_Naïve	4
+211b	18mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+211b	18mos	Bcl6tg/+	3_Activated CTLs	4
+211b	18mos	Bcl6tg/+	16_Terminally exhausted CTLs	NA
+211b	18mos	Bcl6tg/+	4_Naïve	3
+211b	18mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+211b	18mos	Bcl6tg/+	1_CM/EM	NA
+211b	18mos	Bcl6tg/+	6_CM/EM	NA
+211b	18mos	Bcl6tg/+	7_CM/EM	NA
+262b	18mos	Bcl6tg/+	8_Precursor exhausted CTLs	13
+262b	18mos	Bcl6tg/+	1_CM/EM	35
+262b	18mos	Bcl6tg/+	4_Naïve	4
+262b	18mos	Bcl6tg/+	2_Exhausted CTLs	57
+262b	18mos	Bcl6tg/+	0_Naïve	12
+262b	18mos	Bcl6tg/+	16_Terminally exhausted CTLs	9
+262b	18mos	Bcl6tg/+	3_Activated CTLs	27
+262b	18mos	Bcl6tg/+	7_CM/EM	7
+262b	18mos	Bcl6tg/+	6_CM/EM	18
+262b	18mos	Bcl6tg/+	5_Other	3
+262b	18mos	Bcl6tg/+	9_Non-exhausted effectors	3
+262b	18mos	Bcl6tg/+	11_Cycling	7
+262b	18mos	Bcl6tg/+	13_Early exhausted CTLs	6
+004	18mos	CD70-/-;Bcl6tg/+	7_CM/EM	4
+004	18mos	CD70-/-;Bcl6tg/+	5_Other	NA
+004	18mos	CD70-/-;Bcl6tg/+	1_CM/EM	16
+004	18mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	3
+004	18mos	CD70-/-;Bcl6tg/+	4_Naïve	NA
+004	18mos	CD70-/-;Bcl6tg/+	0_Naïve	5
+004	18mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	19
+004	18mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	3
+004	18mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	7
+004	18mos	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+004	18mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	3
+004	18mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	2
+004	18mos	CD70-/-;Bcl6tg/+	11_Cycling	NA
+084	18mos	CD70-/-;Bcl6tg/+	1_CM/EM	35
+084	18mos	CD70-/-;Bcl6tg/+	6_CM/EM	14
+084	18mos	CD70-/-;Bcl6tg/+	7_CM/EM	6
+084	18mos	CD70-/-;Bcl6tg/+	0_Naïve	23
+084	18mos	CD70-/-;Bcl6tg/+	5_Other	6
+084	18mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	13
+084	18mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	6
+084	18mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	10
+084	18mos	CD70-/-;Bcl6tg/+	4_Naïve	6
+084	18mos	CD70-/-;Bcl6tg/+	11_Cycling	6
+084	18mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	8
+084	18mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	3
+084	18mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	2
+059	18mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	15
+059	18mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	8
+059	18mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	14
+059	18mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+059	18mos	CD70-/-;Bcl6tg/+	6_CM/EM	3
+059	18mos	CD70-/-;Bcl6tg/+	1_CM/EM	9
+059	18mos	CD70-/-;Bcl6tg/+	7_CM/EM	2
+059	18mos	CD70-/-;Bcl6tg/+	5_Other	5
+059	18mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	4
+059	18mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	NA
+059	18mos	CD70-/-;Bcl6tg/+	11_Cycling	4
+059	18mos	CD70-/-;Bcl6tg/+	4_Naïve	NA
+086	18mos	CD70-/-;Bcl6tg/+	6_CM/EM	10
+086	18mos	CD70-/-;Bcl6tg/+	1_CM/EM	24
+086	18mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	4
+086	18mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+086	18mos	CD70-/-;Bcl6tg/+	0_Naïve	15
+086	18mos	CD70-/-;Bcl6tg/+	7_CM/EM	8
+086	18mos	CD70-/-;Bcl6tg/+	4_Naïve	5
+086	18mos	CD70-/-;Bcl6tg/+	5_Other	3
+086	18mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+086	18mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	3
+086	18mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+086	18mos	CD70-/-;Bcl6tg/+	11_Cycling	NA
+056	18mos	CD70-/-;Bcl6tg/+	6_CM/EM	5
+056	18mos	CD70-/-;Bcl6tg/+	7_CM/EM	4
+056	18mos	CD70-/-;Bcl6tg/+	1_CM/EM	34
+056	18mos	CD70-/-;Bcl6tg/+	4_Naïve	NA
+056	18mos	CD70-/-;Bcl6tg/+	5_Other	NA
+056	18mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+056	18mos	CD70-/-;Bcl6tg/+	0_Naïve	3
+056	18mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+056	18mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	NA
+056	18mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+056	18mos	CD70-/-;Bcl6tg/+	11_Cycling	NA
+056	18mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	NA
+058	18mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	5
+058	18mos	CD70-/-;Bcl6tg/+	1_CM/EM	11
+058	18mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	13
+058	18mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	13
+058	18mos	CD70-/-;Bcl6tg/+	5_Other	7
+058	18mos	CD70-/-;Bcl6tg/+	7_CM/EM	3
+058	18mos	CD70-/-;Bcl6tg/+	6_CM/EM	4
+058	18mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	9
+058	18mos	CD70-/-;Bcl6tg/+	4_Naïve	NA
+058	18mos	CD70-/-;Bcl6tg/+	11_Cycling	2
+058	18mos	CD70-/-;Bcl6tg/+	0_Naïve	NA
+058	18mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+012	sick	CD70-/-	0_Naïve	93
+012	sick	CD70-/-	1_CM/EM	99
+012	sick	CD70-/-	7_CM/EM	16
+012	sick	CD70-/-	9_Non-exhausted effectors	3
+012	sick	CD70-/-	4_Naïve	23
+012	sick	CD70-/-	6_CM/EM	26
+012	sick	CD70-/-	5_Other	5
+012	sick	CD70-/-	8_Precursor exhausted CTLs	3
+012	sick	CD70-/-	13_Early exhausted CTLs	NA
+012	sick	CD70-/-	11_Cycling	3
+012	sick	CD70-/-	3_Activated CTLs	NA
+012	sick	CD70-/-	2_Exhausted CTLs	NA
+288	sick	CD70-/-	2_Exhausted CTLs	9
+288	sick	CD70-/-	3_Activated CTLs	9
+288	sick	CD70-/-	1_CM/EM	NA
+288	sick	CD70-/-	13_Early exhausted CTLs	4
+288	sick	CD70-/-	9_Non-exhausted effectors	NA
+288	sick	CD70-/-	4_Naïve	NA
+288	sick	CD70-/-	5_Other	NA
+288	sick	CD70-/-	11_Cycling	5
+288	sick	CD70-/-	0_Naïve	NA
+288	sick	CD70-/-	8_Precursor exhausted CTLs	NA
+288	sick	CD70-/-	16_Terminally exhausted CTLs	NA
+177	sick	Bcl6tg/+	5_Other	8
+177	sick	Bcl6tg/+	2_Exhausted CTLs	40
+177	sick	Bcl6tg/+	16_Terminally exhausted CTLs	15
+177	sick	Bcl6tg/+	3_Activated CTLs	16
+177	sick	Bcl6tg/+	13_Early exhausted CTLs	6
+177	sick	Bcl6tg/+	8_Precursor exhausted CTLs	NA
+177	sick	Bcl6tg/+	4_Naïve	NA
+177	sick	Bcl6tg/+	11_Cycling	14
+177	sick	Bcl6tg/+	6_CM/EM	4
+177	sick	Bcl6tg/+	0_Naïve	NA
+177	sick	Bcl6tg/+	1_CM/EM	NA
+177	sick	Bcl6tg/+	9_Non-exhausted effectors	3
+177	sick	Bcl6tg/+	7_CM/EM	NA
+195	sick	Bcl6tg/+	11_Cycling	12
+195	sick	Bcl6tg/+	5_Other	NA
+195	sick	Bcl6tg/+	1_CM/EM	NA
+195	sick	Bcl6tg/+	2_Exhausted CTLs	15
+195	sick	Bcl6tg/+	3_Activated CTLs	12
+195	sick	Bcl6tg/+	13_Early exhausted CTLs	5
+195	sick	Bcl6tg/+	4_Naïve	NA
+195	sick	Bcl6tg/+	16_Terminally exhausted CTLs	7
+195	sick	Bcl6tg/+	9_Non-exhausted effectors	NA
+195	sick	Bcl6tg/+	7_CM/EM	NA
+195	sick	Bcl6tg/+	8_Precursor exhausted CTLs	5
+195	sick	Bcl6tg/+	6_CM/EM	NA
+026	sick	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	NA
+026	sick	CD70-/-;Bcl6tg/+	11_Cycling	4
+026	sick	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	2
+026	sick	CD70-/-;Bcl6tg/+	0_Naïve	1
+026	sick	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+026	sick	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+026	sick	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	2
+026	sick	CD70-/-;Bcl6tg/+	3_Activated CTLs	NA
+026	sick	CD70-/-;Bcl6tg/+	5_Other	NA
+026	sick	CD70-/-;Bcl6tg/+	4_Naïve	NA
+179	sick	CD70-/-;Bcl6tg/+	1_CM/EM	NA
+179	sick	CD70-/-;Bcl6tg/+	3_Activated CTLs	NA
+179	sick	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	NA
+179	sick	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	4
+179	sick	CD70-/-;Bcl6tg/+	11_Cycling	NA
+179	sick	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+179	sick	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+179	sick	CD70-/-;Bcl6tg/+	5_Other	NA
+179	sick	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+179	sick	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+121	sick	CD70-/-;Bcl6tg/+	11_Cycling	28
+121	sick	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	30
+121	sick	CD70-/-;Bcl6tg/+	3_Activated CTLs	19
+121	sick	CD70-/-;Bcl6tg/+	5_Other	NA
+121	sick	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	4
+121	sick	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	13
+121	sick	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+121	sick	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+121	sick	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	6
+121	sick	CD70-/-;Bcl6tg/+	1_CM/EM	NA
+121	sick	CD70-/-;Bcl6tg/+	4_Naïve	NA
+121	sick	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+121	sick	CD70-/-;Bcl6tg/+	0_Naïve	NA
+062	sick	CD70-/-;Bcl6tg/+	3_Activated CTLs	9
+062	sick	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	8
+062	sick	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	8
+062	sick	CD70-/-;Bcl6tg/+	11_Cycling	10
+062	sick	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	22
+062	sick	CD70-/-;Bcl6tg/+	5_Other	3
+062	sick	CD70-/-;Bcl6tg/+	4_Naïve	NA
+062	sick	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	3
+062	sick	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+062	sick	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+062	sick	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+062	sick	CD70-/-;Bcl6tg/+	1_CM/EM	NA
+191	18mos	Bcl6tg/+	2_Exhausted CTLs	13
+191	18mos	Bcl6tg/+	11_Cycling	10
+191	18mos	Bcl6tg/+	7_CM/EM	1
+191	18mos	Bcl6tg/+	16_Terminally exhausted CTLs	4
+191	18mos	Bcl6tg/+	1_CM/EM	1
+191	18mos	Bcl6tg/+	5_Other	4
+191	18mos	Bcl6tg/+	3_Activated CTLs	11
+191	18mos	Bcl6tg/+	4_Naïve	NA
+191	18mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+191	18mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+191	18mos	Bcl6tg/+	0_Naïve	NA
+191	18mos	Bcl6tg/+	8_Precursor exhausted CTLs	3
+191	18mos	Bcl6tg/+	6_CM/EM	NA
+254	18mos	Bcl6tg/+	7_CM/EM	5
+254	18mos	Bcl6tg/+	16_Terminally exhausted CTLs	5
+254	18mos	Bcl6tg/+	4_Naïve	4
+254	18mos	Bcl6tg/+	9_Non-exhausted effectors	NA
+254	18mos	Bcl6tg/+	1_CM/EM	7
+254	18mos	Bcl6tg/+	2_Exhausted CTLs	9
+254	18mos	Bcl6tg/+	11_Cycling	5
+254	18mos	Bcl6tg/+	6_CM/EM	NA
+254	18mos	Bcl6tg/+	3_Activated CTLs	8
+254	18mos	Bcl6tg/+	8_Precursor exhausted CTLs	NA
+254	18mos	Bcl6tg/+	0_Naïve	NA
+254	18mos	Bcl6tg/+	5_Other	5
+254	18mos	Bcl6tg/+	13_Early exhausted CTLs	NA
+109	18mos	CD70-/-;Bcl6tg/+	3_Activated CTLs	7
+109	18mos	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	7
+109	18mos	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	4
+109	18mos	CD70-/-;Bcl6tg/+	4_Naïve	NA
+109	18mos	CD70-/-;Bcl6tg/+	7_CM/EM	3
+109	18mos	CD70-/-;Bcl6tg/+	5_Other	3
+109	18mos	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	5
+109	18mos	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+109	18mos	CD70-/-;Bcl6tg/+	11_Cycling	5
+109	18mos	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+109	18mos	CD70-/-;Bcl6tg/+	1_CM/EM	NA
+109	18mos	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+192	sick	Bcl6tg/+	1_CM/EM	NA
+192	sick	Bcl6tg/+	3_Activated CTLs	NA
+192	sick	Bcl6tg/+	16_Terminally exhausted CTLs	NA
+192	sick	Bcl6tg/+	5_Other	NA
+192	sick	Bcl6tg/+	13_Early exhausted CTLs	NA
+192	sick	Bcl6tg/+	2_Exhausted CTLs	NA
+192	sick	Bcl6tg/+	11_Cycling	NA
+192	sick	Bcl6tg/+	7_CM/EM	NA
+184	sick	Bcl6tg/+	2_Exhausted CTLs	16
+184	sick	Bcl6tg/+	11_Cycling	5
+184	sick	Bcl6tg/+	8_Precursor exhausted CTLs	NA
+184	sick	Bcl6tg/+	16_Terminally exhausted CTLs	9
+184	sick	Bcl6tg/+	3_Activated CTLs	13
+184	sick	Bcl6tg/+	13_Early exhausted CTLs	6
+184	sick	Bcl6tg/+	5_Other	NA
+184	sick	Bcl6tg/+	1_CM/EM	NA
+184	sick	Bcl6tg/+	9_Non-exhausted effectors	NA
+184	sick	Bcl6tg/+	7_CM/EM	NA
+184	sick	Bcl6tg/+	0_Naïve	NA
+256	sick	Bcl6tg/+	0_Naïve	25
+256	sick	Bcl6tg/+	3_Activated CTLs	16
+256	sick	Bcl6tg/+	4_Naïve	6
+256	sick	Bcl6tg/+	7_CM/EM	6
+256	sick	Bcl6tg/+	5_Other	4
+256	sick	Bcl6tg/+	8_Precursor exhausted CTLs	14
+256	sick	Bcl6tg/+	6_CM/EM	7
+256	sick	Bcl6tg/+	1_CM/EM	26
+256	sick	Bcl6tg/+	13_Early exhausted CTLs	4
+256	sick	Bcl6tg/+	9_Non-exhausted effectors	1
+256	sick	Bcl6tg/+	2_Exhausted CTLs	14
+256	sick	Bcl6tg/+	11_Cycling	6
+256	sick	Bcl6tg/+	16_Terminally exhausted CTLs	NA
+200	sick	Bcl6tg/+	5_Other	4
+200	sick	Bcl6tg/+	1_CM/EM	1
+200	sick	Bcl6tg/+	2_Exhausted CTLs	56
+200	sick	Bcl6tg/+	16_Terminally exhausted CTLs	14
+200	sick	Bcl6tg/+	3_Activated CTLs	42
+200	sick	Bcl6tg/+	8_Precursor exhausted CTLs	10
+200	sick	Bcl6tg/+	13_Early exhausted CTLs	18
+200	sick	Bcl6tg/+	11_Cycling	18
+200	sick	Bcl6tg/+	4_Naïve	NA
+200	sick	Bcl6tg/+	7_CM/EM	3
+200	sick	Bcl6tg/+	6_CM/EM	NA
+200	sick	Bcl6tg/+	0_Naïve	NA
+200	sick	Bcl6tg/+	9_Non-exhausted effectors	NA
+021	sick	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	6
+021	sick	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	14
+021	sick	CD70-/-;Bcl6tg/+	4_Naïve	NA
+021	sick	CD70-/-;Bcl6tg/+	11_Cycling	7
+021	sick	CD70-/-;Bcl6tg/+	0_Naïve	NA
+021	sick	CD70-/-;Bcl6tg/+	1_CM/EM	3
+021	sick	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+021	sick	CD70-/-;Bcl6tg/+	3_Activated CTLs	20
+021	sick	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	3
+021	sick	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	10
+021	sick	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+021	sick	CD70-/-;Bcl6tg/+	5_Other	NA
+021	sick	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+107	sick	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	NA
+107	sick	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	9
+107	sick	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+107	sick	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	4
+107	sick	CD70-/-;Bcl6tg/+	3_Activated CTLs	7
+107	sick	CD70-/-;Bcl6tg/+	5_Other	NA
+107	sick	CD70-/-;Bcl6tg/+	11_Cycling	NA
+107	sick	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+107	sick	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+041	sick	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	11
+041	sick	CD70-/-;Bcl6tg/+	5_Other	5
+041	sick	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	2
+041	sick	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+041	sick	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	7
+041	sick	CD70-/-;Bcl6tg/+	3_Activated CTLs	10
+041	sick	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	NA
+041	sick	CD70-/-;Bcl6tg/+	1_CM/EM	NA
+041	sick	CD70-/-;Bcl6tg/+	11_Cycling	9
+041	sick	CD70-/-;Bcl6tg/+	0_Naïve	NA
+041	sick	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	NA
+041	sick	CD70-/-;Bcl6tg/+	4_Naïve	NA
+041	sick	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+116	sick	CD70-/-;Bcl6tg/+	11_Cycling	48
+116	sick	CD70-/-;Bcl6tg/+	13_Early exhausted CTLs	20
+116	sick	CD70-/-;Bcl6tg/+	2_Exhausted CTLs	30
+116	sick	CD70-/-;Bcl6tg/+	1_CM/EM	5
+116	sick	CD70-/-;Bcl6tg/+	3_Activated CTLs	17
+116	sick	CD70-/-;Bcl6tg/+	7_CM/EM	NA
+116	sick	CD70-/-;Bcl6tg/+	16_Terminally exhausted CTLs	8
+116	sick	CD70-/-;Bcl6tg/+	6_CM/EM	NA
+116	sick	CD70-/-;Bcl6tg/+	5_Other	3
+116	sick	CD70-/-;Bcl6tg/+	4_Naïve	NA
+116	sick	CD70-/-;Bcl6tg/+	8_Precursor exhausted CTLs	6
+116	sick	CD70-/-;Bcl6tg/+	0_Naïve	3
+116	sick	CD70-/-;Bcl6tg/+	9_Non-exhausted effectors	3

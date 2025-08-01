@@ -1,0 +1,109 @@
+new_annotation	genotype	entropy_median_per_cluster_per_genotype
+0_Follicular	Bcl6tg/+	3.46524738297581
+0_Follicular	CD70-/-	4.81727940007889
+0_Follicular	CD70-/-;Bcl6tg/+	3.7758559484121
+0_Follicular	WT	4.95303261191504
+1_Marginal Zone	Bcl6tg/+	2.03175921856927
+1_Marginal Zone	CD70-/-	4.38570860121207
+1_Marginal Zone	CD70-/-;Bcl6tg/+	2.13990555134994
+1_Marginal Zone	WT	4.15660375132331
+2_Transitional (T2)	Bcl6tg/+	3.29583686600433
+2_Transitional (T2)	CD70-/-	4.34346798300167
+2_Transitional (T2)	CD70-/-;Bcl6tg/+	3.1313335816367
+2_Transitional (T2)	WT	4.34380542185369
+3_Atypical CD21lowCD23low	Bcl6tg/+	1.09861228866811
+3_Atypical CD21lowCD23low	CD70-/-	3.53907374282987
+3_Atypical CD21lowCD23low	CD70-/-;Bcl6tg/+	0.842549968194505
+3_Atypical CD21lowCD23low	WT	3.52075916161241
+4_Atypical CD21-CD23-	Bcl6tg/+	1.11965469638574
+4_Atypical CD21-CD23-	CD70-/-	3.04628656554597
+4_Atypical CD21-CD23-	CD70-/-;Bcl6tg/+	0.788786701056044
+4_Atypical CD21-CD23-	WT	2.9174053685313
+5_Atypical Marginal Zone	Bcl6tg/+	0.951970331216251
+5_Atypical Marginal Zone	CD70-/-	3.04338736345615
+5_Atypical Marginal Zone	CD70-/-;Bcl6tg/+	0.668811197392024
+5_Atypical Marginal Zone	WT	2.83321334405622
+6_Follicular	Bcl6tg/+	2.04319187054512
+6_Follicular	CD70-/-	3.15536153529274
+6_Follicular	CD70-/-;Bcl6tg/+	2.63905732961526
+6_Follicular	WT	3.25512917026157
+7_Age-associated/autoimmune	Bcl6tg/+	1.09599350311238
+7_Age-associated/autoimmune	CD70-/-	3.04138731189101
+7_Age-associated/autoimmune	CD70-/-;Bcl6tg/+	1.91116108119347
+7_Age-associated/autoimmune	WT	2.88092393797552
+8_Age-associated/autoimmune	Bcl6tg/+	1.087046651581
+8_Age-associated/autoimmune	CD70-/-	2.69312447385256
+8_Age-associated/autoimmune	CD70-/-;Bcl6tg/+	0.981330640581536
+8_Age-associated/autoimmune	WT	2.47525623488751
+9_Follicular Hspa1+	Bcl6tg/+	3.2188758248682
+9_Follicular Hspa1+	CD70-/-	3.38926803154579
+9_Follicular Hspa1+	CD70-/-;Bcl6tg/+	2.59647842544511
+9_Follicular Hspa1+	WT	3.52592781147795
+10_Follicular IFN-stimulated	Bcl6tg/+	2.6882018466628
+10_Follicular IFN-stimulated	CD70-/-	2.96744709780979
+10_Follicular IFN-stimulated	CD70-/-;Bcl6tg/+	2.68594532466979
+10_Follicular IFN-stimulated	WT	3.09000832682629
+11_Follicular	Bcl6tg/+	1.79175946922805
+11_Follicular	CD70-/-	3.13549421592915
+11_Follicular	CD70-/-;Bcl6tg/+	2.44140096129319
+11_Follicular	WT	3.54085429305279
+12_Follicular	Bcl6tg/+	2.30258509299405
+12_Follicular	CD70-/-	3.13549421592915
+12_Follicular	CD70-/-;Bcl6tg/+	2.61563057702755
+12_Follicular	WT	3.31003660326518
+13_Follicular	Bcl6tg/+	1.6094379124341
+13_Follicular	CD70-/-	2.30258509299405
+13_Follicular	CD70-/-;Bcl6tg/+	1.6384499229317
+13_Follicular	WT	2.67355376535873
+14_Follicular Serpina3+	Bcl6tg/+	2.30258509299405
+14_Follicular Serpina3+	CD70-/-	2.07944154167984
+14_Follicular Serpina3+	CD70-/-;Bcl6tg/+	2.33598360634436
+14_Follicular Serpina3+	WT	2.07944154167984
+15_Plasmablasts	Bcl6tg/+	1.58825957086371
+15_Plasmablasts	CD70-/-	2.92956106628675
+15_Plasmablasts	CD70-/-;Bcl6tg/+	1.41336324233034
+15_Plasmablasts	WT	2.39789527279837
+16_Other	Bcl6tg/+	1.38629436111989
+16_Other	CD70-/-	1.56071040904141
+16_Other	CD70-/-;Bcl6tg/+	1.38629436111989
+16_Other	WT	1.94591014905531
+17_Ig-restricted	Bcl6tg/+	2.52492800362477
+17_Ig-restricted	CD70-/-	2.19722457733622
+17_Ig-restricted	CD70-/-;Bcl6tg/+	1.38629436111989
+17_Ig-restricted	WT	2.01267584536757
+18_Cycling MHCII low	Bcl6tg/+	0.689018284538721
+18_Cycling MHCII low	CD70-/-	1.94591014905531
+18_Cycling MHCII low	CD70-/-;Bcl6tg/+	0.666516851644312
+18_Cycling MHCII low	WT	1.86883480914168
+19_Cycling MHCII low	Bcl6tg/+	0.867563228481461
+19_Cycling MHCII low	CD70-/-	1.35923670066501
+19_Cycling MHCII low	CD70-/-;Bcl6tg/+	0.92075837786778
+19_Cycling MHCII low	WT	1.38629436111989
+20_Ig-restricted	Bcl6tg/+	2.484906649788
+20_Ig-restricted	CD70-/-	2.63649977928187
+20_Ig-restricted	CD70-/-;Bcl6tg/+	1.79175946922805
+20_Ig-restricted	WT	2.77258872223978
+21_Cycling MHCII low	Bcl6tg/+	0.501919596689587
+21_Cycling MHCII low	CD70-/-	1.27703425946614
+21_Cycling MHCII low	CD70-/-;Bcl6tg/+	0.649451936717502
+21_Cycling MHCII low	WT	1.35402510055111
+22_Pre-plasmablasts	Bcl6tg/+	0.729168486218908
+22_Pre-plasmablasts	CD70-/-	1.09861228866811
+22_Pre-plasmablasts	CD70-/-;Bcl6tg/+	0.99599522898622
+22_Pre-plasmablasts	WT	1.38629436111989
+23_Ig-restricted	Bcl6tg/+	2.1783544133448
+23_Ig-restricted	CD70-/-	2.30258509299405
+23_Ig-restricted	CD70-/-;Bcl6tg/+	1.6094379124341
+23_Ig-restricted	WT	2.39789527279837
+24_Follicular	Bcl6tg/+	2.30258509299405
+24_Follicular	CD70-/-	2.23327037493805
+24_Follicular	CD70-/-;Bcl6tg/+	1.38629436111989
+24_Follicular	WT	2.35024018289621
+25_Ig-restricted	Bcl6tg/+	1.84443972705697
+25_Ig-restricted	CD70-/-	1.86883480914168
+25_Ig-restricted	CD70-/-;Bcl6tg/+	1.06916652975401
+25_Ig-restricted	WT	1.86883480914168
+27_Light Zone	Bcl6tg/+	1.79175946922805
+27_Light Zone	CD70-/-	1.86883480914168
+27_Light Zone	CD70-/-;Bcl6tg/+	1.09861228866811
+27_Light Zone	WT	1.94591014905531

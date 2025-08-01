@@ -1,0 +1,53 @@
+new_annotation	genotype	richness_median_per_cluster_per_genotype
+0_Naïve	Bcl6tg/+	17
+0_Naïve	CD70-/-	35
+0_Naïve	CD70-/-;Bcl6tg/+	15
+0_Naïve	WT	46.5
+1_CM/EM	Bcl6tg/+	17.5
+1_CM/EM	CD70-/-	24.5
+1_CM/EM	CD70-/-;Bcl6tg/+	21
+1_CM/EM	WT	28
+2_Exhausted CTLs	Bcl6tg/+	15
+2_Exhausted CTLs	CD70-/-	6.5
+2_Exhausted CTLs	CD70-/-;Bcl6tg/+	14
+2_Exhausted CTLs	WT	5
+3_Activated CTLs	Bcl6tg/+	13
+3_Activated CTLs	CD70-/-	5
+3_Activated CTLs	CD70-/-;Bcl6tg/+	9
+3_Activated CTLs	WT	7
+4_Naïve	Bcl6tg/+	5.5
+4_Naïve	CD70-/-	14
+4_Naïve	CD70-/-;Bcl6tg/+	6
+4_Naïve	WT	15
+5_Other	Bcl6tg/+	4
+5_Other	CD70-/-	4
+5_Other	CD70-/-;Bcl6tg/+	3
+5_Other	WT	6
+6_CM/EM	Bcl6tg/+	6.5
+6_CM/EM	CD70-/-	9
+6_CM/EM	CD70-/-;Bcl6tg/+	8
+6_CM/EM	WT	9
+7_CM/EM	Bcl6tg/+	5
+7_CM/EM	CD70-/-	5
+7_CM/EM	CD70-/-;Bcl6tg/+	6
+7_CM/EM	WT	5
+8_Precursor exhausted CTLs	Bcl6tg/+	6
+8_Precursor exhausted CTLs	CD70-/-	5
+8_Precursor exhausted CTLs	CD70-/-;Bcl6tg/+	6
+8_Precursor exhausted CTLs	WT	6
+9_Non-exhausted effectors	Bcl6tg/+	5
+9_Non-exhausted effectors	CD70-/-	4
+9_Non-exhausted effectors	CD70-/-;Bcl6tg/+	4
+9_Non-exhausted effectors	WT	4
+11_Cycling	Bcl6tg/+	7.5
+11_Cycling	CD70-/-	4
+11_Cycling	CD70-/-;Bcl6tg/+	6
+11_Cycling	WT	4
+13_Early exhausted CTLs	Bcl6tg/+	5
+13_Early exhausted CTLs	CD70-/-	3
+13_Early exhausted CTLs	CD70-/-;Bcl6tg/+	4
+13_Early exhausted CTLs	WT	4
+16_Terminally exhausted CTLs	Bcl6tg/+	8
+16_Terminally exhausted CTLs	CD70-/-	2
+16_Terminally exhausted CTLs	CD70-/-;Bcl6tg/+	4
+16_Terminally exhausted CTLs	WT	NA

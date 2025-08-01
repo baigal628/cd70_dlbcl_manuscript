@@ -1,0 +1,1603 @@
+sample_id	age	genotype	new_annotation	entropy
+234	6mos	WT	4b_Naïve	3.2188758248682
+234	6mos	WT	9_NKT	2.70805020110221
+234	6mos	WT	0_Naïve	4.99464231694465
+234	6mos	WT	8_Other	1.09861228866811
+234	6mos	WT	2_Th1/EM	3.13549421592915
+234	6mos	WT	10_Effector Tregs	1.79175946922805
+234	6mos	WT	6_Activated CTLs	1.6094379124341
+234	6mos	WT	3_Effector Tregs	1.38629436111989
+234	6mos	WT	1_Exhausted CTLs	2.19722457733622
+234	6mos	WT	12_Cycling	1.6094379124341
+234	6mos	WT	11_Cycling Tregs	1.38629436111989
+234	6mos	WT	13_Early activated CTLs	1.6094379124341
+234	6mos	WT	7_Follicular Tregs	1.38629436111989
+234	6mos	WT	5_Tfh	2.07944154167984
+234	6mos	WT	4a_Exhausted CTLs	NA
+234	6mos	WT	15_IFN-stimulated	1.79175946922805
+234	6mos	WT	24_Cycling Tregs	1.38629436111989
+234	6mos	WT	17_Cycling	NA
+257	6mos	WT	15_IFN-stimulated	1.09861228866811
+257	6mos	WT	0_Naïve	4.70048036579242
+257	6mos	WT	4b_Naïve	3.09104245335832
+257	6mos	WT	4a_Exhausted CTLs	NA
+257	6mos	WT	2_Th1/EM	2.70805020110221
+257	6mos	WT	1_Exhausted CTLs	2.19722457733622
+257	6mos	WT	11_Cycling Tregs	1.6094379124341
+257	6mos	WT	9_NKT	2.63905732961526
+257	6mos	WT	7_Follicular Tregs	NA
+257	6mos	WT	5_Tfh	1.38629436111989
+257	6mos	WT	13_Early activated CTLs	1.38629436111989
+257	6mos	WT	10_Effector Tregs	1.79175946922805
+257	6mos	WT	6_Activated CTLs	NA
+257	6mos	WT	3_Effector Tregs	1.94591014905531
+257	6mos	WT	8_Other	1.09861228866811
+257	6mos	WT	17_Cycling	NA
+257	6mos	WT	12_Cycling	NA
+257	6mos	WT	24_Cycling Tregs	NA
+010	6mos	WT	0_Naïve	4.55387689160054
+010	6mos	WT	3_Effector Tregs	1.79175946922805
+010	6mos	WT	2_Th1/EM	2.89037175789616
+010	6mos	WT	9_NKT	1.94591014905531
+010	6mos	WT	4b_Naïve	2.07944154167984
+010	6mos	WT	10_Effector Tregs	1.79175946922805
+010	6mos	WT	11_Cycling Tregs	1.6094379124341
+010	6mos	WT	15_IFN-stimulated	1.94591014905531
+010	6mos	WT	13_Early activated CTLs	1.6094379124341
+010	6mos	WT	5_Tfh	1.6094379124341
+010	6mos	WT	1_Exhausted CTLs	1.09861228866811
+010	6mos	WT	7_Follicular Tregs	1.09861228866811
+010	6mos	WT	6_Activated CTLs	NA
+010	6mos	WT	12_Cycling	NA
+010	6mos	WT	17_Cycling	NA
+010	6mos	WT	8_Other	NA
+010	6mos	WT	24_Cycling Tregs	NA
+C	6mos	WT	0_Naïve	4.85981240436167
+C	6mos	WT	2_Th1/EM	2.94443897916644
+C	6mos	WT	9_NKT	2.19722457733622
+C	6mos	WT	15_IFN-stimulated	1.38629436111989
+C	6mos	WT	4b_Naïve	2.19722457733622
+C	6mos	WT	10_Effector Tregs	1.6094379124341
+C	6mos	WT	3_Effector Tregs	1.94591014905531
+C	6mos	WT	11_Cycling Tregs	1.6094379124341
+C	6mos	WT	5_Tfh	1.6094379124341
+C	6mos	WT	12_Cycling	NA
+C	6mos	WT	1_Exhausted CTLs	1.09861228866811
+C	6mos	WT	6_Activated CTLs	NA
+C	6mos	WT	8_Other	NA
+C	6mos	WT	13_Early activated CTLs	NA
+C	6mos	WT	7_Follicular Tregs	1.6094379124341
+D	6mos	WT	10_Effector Tregs	NA
+D	6mos	WT	0_Naïve	4.27666611901606
+D	6mos	WT	4b_Naïve	2.56494935746154
+D	6mos	WT	8_Other	1.09861228866811
+D	6mos	WT	3_Effector Tregs	1.79175946922805
+D	6mos	WT	15_IFN-stimulated	1.09861228866811
+D	6mos	WT	1_Exhausted CTLs	2.82156380786037
+D	6mos	WT	2_Th1/EM	2.70805020110221
+D	6mos	WT	9_NKT	1.79175946922805
+D	6mos	WT	11_Cycling Tregs	NA
+D	6mos	WT	13_Early activated CTLs	1.09861228866811
+D	6mos	WT	6_Activated CTLs	1.09861228866811
+D	6mos	WT	5_Tfh	NA
+D	6mos	WT	7_Follicular Tregs	1.38629436111989
+D	6mos	WT	24_Cycling Tregs	NA
+D	6mos	WT	4a_Exhausted CTLs	NA
+262	6mos	WT	2_Th1/EM	3.3322045101752
+262	6mos	WT	15_IFN-stimulated	1.09861228866811
+262	6mos	WT	10_Effector Tregs	1.94591014905531
+262	6mos	WT	5_Tfh	2.484906649788
+262	6mos	WT	1_Exhausted CTLs	3.34573471528009
+262	6mos	WT	0_Naïve	3.95124371858143
+262	6mos	WT	7_Follicular Tregs	1.3667110520552
+262	6mos	WT	6_Activated CTLs	1.79175946922805
+262	6mos	WT	4a_Exhausted CTLs	1.09861228866811
+262	6mos	WT	4b_Naïve	2.07944154167984
+262	6mos	WT	9_NKT	2.70805020110221
+262	6mos	WT	8_Other	1.09861228866811
+262	6mos	WT	3_Effector Tregs	2.07944154167984
+262	6mos	WT	24_Cycling Tregs	1.6094379124341
+262	6mos	WT	17_Cycling	NA
+262	6mos	WT	13_Early activated CTLs	1.90615474653985
+262	6mos	WT	11_Cycling Tregs	2.07944154167984
+262	6mos	WT	12_Cycling	1.09861228866811
+137	6mos	CD70-/-	1_Exhausted CTLs	2.07944154167984
+137	6mos	CD70-/-	13_Early activated CTLs	1.79175946922805
+137	6mos	CD70-/-	2_Th1/EM	3.43398720448515
+137	6mos	CD70-/-	9_NKT	2.39789527279837
+137	6mos	CD70-/-	5_Tfh	2.99573227355399
+137	6mos	CD70-/-	10_Effector Tregs	2.19722457733622
+137	6mos	CD70-/-	0_Naïve	4.00733318523247
+137	6mos	CD70-/-	3_Effector Tregs	2.99573227355399
+137	6mos	CD70-/-	4b_Naïve	NA
+137	6mos	CD70-/-	7_Follicular Tregs	2.54003630382098
+137	6mos	CD70-/-	12_Cycling	1.09861228866811
+137	6mos	CD70-/-	6_Activated CTLs	1.38629436111989
+137	6mos	CD70-/-	15_IFN-stimulated	1.79175946922805
+137	6mos	CD70-/-	4a_Exhausted CTLs	NA
+137	6mos	CD70-/-	11_Cycling Tregs	1.79175946922805
+137	6mos	CD70-/-	17_Cycling	NA
+137	6mos	CD70-/-	24_Cycling Tregs	NA
+137	6mos	CD70-/-	8_Other	1.38629436111989
+138	6mos	CD70-/-	0_Naïve	3.85014760171006
+138	6mos	CD70-/-	7_Follicular Tregs	2.39789527279837
+138	6mos	CD70-/-	4b_Naïve	1.09861228866811
+138	6mos	CD70-/-	1_Exhausted CTLs	2.16395565688206
+138	6mos	CD70-/-	2_Th1/EM	2.30258509299405
+138	6mos	CD70-/-	13_Early activated CTLs	2.484906649788
+138	6mos	CD70-/-	3_Effector Tregs	2.77258872223978
+138	6mos	CD70-/-	5_Tfh	2.19722457733622
+138	6mos	CD70-/-	9_NKT	NA
+138	6mos	CD70-/-	8_Other	NA
+138	6mos	CD70-/-	15_IFN-stimulated	2.19722457733622
+138	6mos	CD70-/-	10_Effector Tregs	1.79175946922805
+138	6mos	CD70-/-	6_Activated CTLs	1.09861228866811
+138	6mos	CD70-/-	12_Cycling	NA
+138	6mos	CD70-/-	11_Cycling Tregs	1.09861228866811
+138	6mos	CD70-/-	24_Cycling Tregs	NA
+138	6mos	CD70-/-	4a_Exhausted CTLs	NA
+138	6mos	CD70-/-	17_Cycling	NA
+140	6mos	CD70-/-	0_Naïve	4.53928431937823
+140	6mos	CD70-/-	9_NKT	2.30258509299405
+140	6mos	CD70-/-	15_IFN-stimulated	2.07944154167984
+140	6mos	CD70-/-	4b_Naïve	1.94591014905531
+140	6mos	CD70-/-	8_Other	NA
+140	6mos	CD70-/-	3_Effector Tregs	1.38629436111989
+140	6mos	CD70-/-	12_Cycling	NA
+140	6mos	CD70-/-	2_Th1/EM	2.87147611805487
+140	6mos	CD70-/-	7_Follicular Tregs	1.79175946922805
+140	6mos	CD70-/-	4a_Exhausted CTLs	NA
+140	6mos	CD70-/-	17_Cycling	NA
+140	6mos	CD70-/-	10_Effector Tregs	2.07944154167984
+140	6mos	CD70-/-	5_Tfh	2.30258509299405
+140	6mos	CD70-/-	24_Cycling Tregs	NA
+140	6mos	CD70-/-	13_Early activated CTLs	1.6094379124341
+140	6mos	CD70-/-	11_Cycling Tregs	1.6094379124341
+140	6mos	CD70-/-	1_Exhausted CTLs	1.09861228866811
+140	6mos	CD70-/-	6_Activated CTLs	NA
+141	6mos	CD70-/-	2_Th1/EM	3.2188758248682
+141	6mos	CD70-/-	0_Naïve	3.98898404656427
+141	6mos	CD70-/-	8_Other	1.38629436111989
+141	6mos	CD70-/-	9_NKT	2.77258872223978
+141	6mos	CD70-/-	3_Effector Tregs	2.63905732961526
+141	6mos	CD70-/-	10_Effector Tregs	2.19722457733622
+141	6mos	CD70-/-	1_Exhausted CTLs	2.19722457733622
+141	6mos	CD70-/-	4b_Naïve	2.39789527279837
+141	6mos	CD70-/-	7_Follicular Tregs	1.38629436111989
+141	6mos	CD70-/-	17_Cycling	NA
+141	6mos	CD70-/-	6_Activated CTLs	NA
+141	6mos	CD70-/-	11_Cycling Tregs	1.38629436111989
+141	6mos	CD70-/-	5_Tfh	1.94591014905531
+141	6mos	CD70-/-	13_Early activated CTLs	1.6094379124341
+141	6mos	CD70-/-	12_Cycling	1.38629436111989
+141	6mos	CD70-/-	4a_Exhausted CTLs	NA
+141	6mos	CD70-/-	15_IFN-stimulated	1.09861228866811
+141	6mos	CD70-/-	24_Cycling Tregs	NA
+110	6mos	CD70-/-	0_Naïve	4.82527957075211
+110	6mos	CD70-/-	10_Effector Tregs	2.39789527279837
+110	6mos	CD70-/-	1_Exhausted CTLs	1.90615474653985
+110	6mos	CD70-/-	2_Th1/EM	2.30258509299405
+110	6mos	CD70-/-	8_Other	NA
+110	6mos	CD70-/-	12_Cycling	NA
+110	6mos	CD70-/-	3_Effector Tregs	1.74786809746676
+110	6mos	CD70-/-	4b_Naïve	2.45831132968308
+110	6mos	CD70-/-	6_Activated CTLs	NA
+110	6mos	CD70-/-	13_Early activated CTLs	NA
+110	6mos	CD70-/-	9_NKT	1.94591014905531
+110	6mos	CD70-/-	11_Cycling Tregs	2.19722457733622
+110	6mos	CD70-/-	15_IFN-stimulated	1.38629436111989
+110	6mos	CD70-/-	4a_Exhausted CTLs	NA
+110	6mos	CD70-/-	7_Follicular Tregs	NA
+110	6mos	CD70-/-	5_Tfh	1.94591014905531
+110	6mos	CD70-/-	17_Cycling	NA
+110	6mos	CD70-/-	24_Cycling Tregs	NA
+111	6mos	CD70-/-	0_Naïve	4.48440639965116
+111	6mos	CD70-/-	4b_Naïve	2.56494935746154
+111	6mos	CD70-/-	1_Exhausted CTLs	1.79175946922805
+111	6mos	CD70-/-	10_Effector Tregs	1.6094379124341
+111	6mos	CD70-/-	11_Cycling Tregs	1.6094379124341
+111	6mos	CD70-/-	7_Follicular Tregs	2.39789527279837
+111	6mos	CD70-/-	9_NKT	2.484906649788
+111	6mos	CD70-/-	2_Th1/EM	2.30258509299405
+111	6mos	CD70-/-	12_Cycling	NA
+111	6mos	CD70-/-	15_IFN-stimulated	1.79175946922805
+111	6mos	CD70-/-	8_Other	NA
+111	6mos	CD70-/-	3_Effector Tregs	2.484906649788
+111	6mos	CD70-/-	13_Early activated CTLs	2.07944154167984
+111	6mos	CD70-/-	5_Tfh	2.13833305950803
+111	6mos	CD70-/-	6_Activated CTLs	NA
+111	6mos	CD70-/-	4a_Exhausted CTLs	NA
+111	6mos	CD70-/-	17_Cycling	NA
+158	6mos	Bcl6tg/+	4b_Naïve	NA
+158	6mos	Bcl6tg/+	0_Naïve	4.61512051684126
+158	6mos	Bcl6tg/+	3_Effector Tregs	NA
+158	6mos	Bcl6tg/+	9_NKT	1.94591014905531
+158	6mos	Bcl6tg/+	8_Other	NA
+158	6mos	Bcl6tg/+	13_Early activated CTLs	NA
+158	6mos	Bcl6tg/+	2_Th1/EM	2.19722457733622
+158	6mos	Bcl6tg/+	7_Follicular Tregs	1.38629436111989
+158	6mos	Bcl6tg/+	1_Exhausted CTLs	NA
+158	6mos	Bcl6tg/+	5_Tfh	1.09861228866811
+158	6mos	Bcl6tg/+	10_Effector Tregs	1.09861228866811
+158	6mos	Bcl6tg/+	11_Cycling Tregs	1.38629436111989
+158	6mos	Bcl6tg/+	24_Cycling Tregs	NA
+158	6mos	Bcl6tg/+	15_IFN-stimulated	1.09861228866811
+158	6mos	Bcl6tg/+	17_Cycling	NA
+158	6mos	Bcl6tg/+	6_Activated CTLs	NA
+159	6mos	Bcl6tg/+	0_Naïve	4.77912349311153
+159	6mos	Bcl6tg/+	9_NKT	1.6094379124341
+159	6mos	Bcl6tg/+	2_Th1/EM	1.94591014905531
+159	6mos	Bcl6tg/+	15_IFN-stimulated	1.38629436111989
+159	6mos	Bcl6tg/+	4b_Naïve	2.77258872223978
+159	6mos	Bcl6tg/+	7_Follicular Tregs	1.09861228866811
+159	6mos	Bcl6tg/+	10_Effector Tregs	2.19722457733622
+159	6mos	Bcl6tg/+	5_Tfh	1.38629436111989
+159	6mos	Bcl6tg/+	24_Cycling Tregs	NA
+159	6mos	Bcl6tg/+	1_Exhausted CTLs	2.19722457733622
+159	6mos	Bcl6tg/+	8_Other	NA
+159	6mos	Bcl6tg/+	11_Cycling Tregs	1.09861228866811
+159	6mos	Bcl6tg/+	4a_Exhausted CTLs	NA
+159	6mos	Bcl6tg/+	13_Early activated CTLs	1.09861228866811
+159	6mos	Bcl6tg/+	3_Effector Tregs	1.38629436111989
+159	6mos	Bcl6tg/+	6_Activated CTLs	NA
+159	6mos	Bcl6tg/+	17_Cycling	NA
+159	6mos	Bcl6tg/+	12_Cycling	NA
+160	6mos	Bcl6tg/+	0_Naïve	4.85203026391962
+160	6mos	Bcl6tg/+	2_Th1/EM	2.70805020110221
+160	6mos	Bcl6tg/+	1_Exhausted CTLs	1.6094379124341
+160	6mos	Bcl6tg/+	9_NKT	2.07944154167984
+160	6mos	Bcl6tg/+	11_Cycling Tregs	1.79175946922805
+160	6mos	Bcl6tg/+	4b_Naïve	3.2188758248682
+160	6mos	Bcl6tg/+	8_Other	1.38629436111989
+160	6mos	Bcl6tg/+	15_IFN-stimulated	NA
+160	6mos	Bcl6tg/+	13_Early activated CTLs	NA
+160	6mos	Bcl6tg/+	7_Follicular Tregs	1.38629436111989
+160	6mos	Bcl6tg/+	5_Tfh	1.79175946922805
+160	6mos	Bcl6tg/+	6_Activated CTLs	NA
+160	6mos	Bcl6tg/+	12_Cycling	NA
+160	6mos	Bcl6tg/+	10_Effector Tregs	1.6094379124341
+160	6mos	Bcl6tg/+	3_Effector Tregs	1.09861228866811
+160	6mos	Bcl6tg/+	24_Cycling Tregs	NA
+161	6mos	Bcl6tg/+	0_Naïve	3.81343874586123
+161	6mos	Bcl6tg/+	9_NKT	2.39789527279837
+161	6mos	Bcl6tg/+	2_Th1/EM	2.77258872223978
+161	6mos	Bcl6tg/+	17_Cycling	NA
+161	6mos	Bcl6tg/+	3_Effector Tregs	1.79175946922805
+161	6mos	Bcl6tg/+	5_Tfh	1.94591014905531
+161	6mos	Bcl6tg/+	15_IFN-stimulated	1.6094379124341
+161	6mos	Bcl6tg/+	7_Follicular Tregs	1.79175946922805
+161	6mos	Bcl6tg/+	4b_Naïve	NA
+161	6mos	Bcl6tg/+	11_Cycling Tregs	1.6094379124341
+161	6mos	Bcl6tg/+	10_Effector Tregs	1.6094379124341
+161	6mos	Bcl6tg/+	13_Early activated CTLs	1.38629436111989
+161	6mos	Bcl6tg/+	8_Other	NA
+161	6mos	Bcl6tg/+	6_Activated CTLs	1.09861228866811
+161	6mos	Bcl6tg/+	1_Exhausted CTLs	NA
+161	6mos	Bcl6tg/+	12_Cycling	NA
+161	6mos	Bcl6tg/+	4a_Exhausted CTLs	NA
+032	6mos	Bcl6tg/+	0_Naïve	4.51085950651685
+032	6mos	Bcl6tg/+	4b_Naïve	2.56494935746154
+032	6mos	Bcl6tg/+	2_Th1/EM	3.29133615279534
+032	6mos	Bcl6tg/+	8_Other	1.09861228866811
+032	6mos	Bcl6tg/+	11_Cycling Tregs	1.38629436111989
+032	6mos	Bcl6tg/+	9_NKT	2.484906649788
+032	6mos	Bcl6tg/+	10_Effector Tregs	2.484906649788
+032	6mos	Bcl6tg/+	5_Tfh	2.56494935746154
+032	6mos	Bcl6tg/+	6_Activated CTLs	1.09861228866811
+032	6mos	Bcl6tg/+	7_Follicular Tregs	1.6094379124341
+032	6mos	Bcl6tg/+	13_Early activated CTLs	1.38629436111989
+032	6mos	Bcl6tg/+	1_Exhausted CTLs	1.38629436111989
+032	6mos	Bcl6tg/+	4a_Exhausted CTLs	NA
+032	6mos	Bcl6tg/+	3_Effector Tregs	1.94591014905531
+032	6mos	Bcl6tg/+	15_IFN-stimulated	1.38629436111989
+032	6mos	Bcl6tg/+	17_Cycling	NA
+032	6mos	Bcl6tg/+	24_Cycling Tregs	NA
+032	6mos	Bcl6tg/+	12_Cycling	NA
+033	6mos	Bcl6tg/+	8_Other	NA
+033	6mos	Bcl6tg/+	0_Naïve	4.86753445045558
+033	6mos	Bcl6tg/+	1_Exhausted CTLs	2.39789527279837
+033	6mos	Bcl6tg/+	10_Effector Tregs	2.484906649788
+033	6mos	Bcl6tg/+	9_NKT	1.38629436111989
+033	6mos	Bcl6tg/+	2_Th1/EM	2.97850842052724
+033	6mos	Bcl6tg/+	4b_Naïve	2.89037175789616
+033	6mos	Bcl6tg/+	13_Early activated CTLs	1.09861228866811
+033	6mos	Bcl6tg/+	15_IFN-stimulated	1.38629436111989
+033	6mos	Bcl6tg/+	3_Effector Tregs	1.38629436111989
+033	6mos	Bcl6tg/+	7_Follicular Tregs	1.6094379124341
+033	6mos	Bcl6tg/+	5_Tfh	1.90615474653985
+033	6mos	Bcl6tg/+	4a_Exhausted CTLs	NA
+033	6mos	Bcl6tg/+	11_Cycling Tregs	1.38629436111989
+033	6mos	Bcl6tg/+	17_Cycling	NA
+033	6mos	Bcl6tg/+	6_Activated CTLs	NA
+033	6mos	Bcl6tg/+	24_Cycling Tregs	NA
+033	6mos	Bcl6tg/+	12_Cycling	NA
+145	6mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	2.07944154167984
+145	6mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.50096614844841
+145	6mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	3.12242459833306
+145	6mos	CD70-/-;Bcl6tg/+	2_Th1/EM	3.76120011569356
+145	6mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	NA
+145	6mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.72273535896601
+145	6mos	CD70-/-;Bcl6tg/+	0_Naïve	3.85014760171006
+145	6mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	2.36938211969468
+145	6mos	CD70-/-;Bcl6tg/+	5_Tfh	3.48558716105381
+145	6mos	CD70-/-;Bcl6tg/+	8_Other	NA
+145	6mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	2.27186851269656
+145	6mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	2.19722457733622
+145	6mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	2.07944154167984
+145	6mos	CD70-/-;Bcl6tg/+	17_Cycling	1.56071040904141
+145	6mos	CD70-/-;Bcl6tg/+	4b_Naïve	1.09861228866811
+145	6mos	CD70-/-;Bcl6tg/+	12_Cycling	1.09861228866811
+145	6mos	CD70-/-;Bcl6tg/+	9_NKT	NA
+145	6mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.09861228866811
+146	6mos	CD70-/-;Bcl6tg/+	0_Naïve	4.04305126783455
+146	6mos	CD70-/-;Bcl6tg/+	9_NKT	2.19722457733622
+146	6mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	2.20478541691352
+146	6mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.72896071194659
+146	6mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	2.4410152780267
+146	6mos	CD70-/-;Bcl6tg/+	2_Th1/EM	3.28269399727806
+146	6mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	2.30258509299405
+146	6mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.94591014905531
+146	6mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.6094379124341
+146	6mos	CD70-/-;Bcl6tg/+	5_Tfh	3.07522054805437
+146	6mos	CD70-/-;Bcl6tg/+	8_Other	1.09861228866811
+146	6mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+146	6mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.6094379124341
+146	6mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.38629436111989
+146	6mos	CD70-/-;Bcl6tg/+	12_Cycling	1.09861228866811
+146	6mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+146	6mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	2.07944154167984
+146	6mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+211	6mos	CD70-/-;Bcl6tg/+	0_Naïve	3.85014760171006
+211	6mos	CD70-/-;Bcl6tg/+	4b_Naïve	1.79175946922805
+211	6mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.79175946922805
+211	6mos	CD70-/-;Bcl6tg/+	2_Th1/EM	2.07944154167984
+211	6mos	CD70-/-;Bcl6tg/+	9_NKT	2.45831132968308
+211	6mos	CD70-/-;Bcl6tg/+	5_Tfh	1.79175946922805
+211	6mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	NA
+211	6mos	CD70-/-;Bcl6tg/+	8_Other	NA
+211	6mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.09861228866811
+211	6mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.79175946922805
+211	6mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.38629436111989
+211	6mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+211	6mos	CD70-/-;Bcl6tg/+	12_Cycling	NA
+211	6mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA
+211	6mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.79175946922805
+211	6mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	1.09861228866811
+211	6mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+211	6mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	NA
+213	6mos	CD70-/-;Bcl6tg/+	2_Th1/EM	3.09104245335832
+213	6mos	CD70-/-;Bcl6tg/+	0_Naïve	4.00733318523247
+213	6mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	2.54003630382098
+213	6mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.09861228866811
+213	6mos	CD70-/-;Bcl6tg/+	9_NKT	1.09861228866811
+213	6mos	CD70-/-;Bcl6tg/+	4b_Naïve	1.6094379124341
+213	6mos	CD70-/-;Bcl6tg/+	12_Cycling	NA
+213	6mos	CD70-/-;Bcl6tg/+	5_Tfh	2.56494935746154
+213	6mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	2.30258509299405
+213	6mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	1.6094379124341
+213	6mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.6094379124341
+213	6mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	NA
+213	6mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	NA
+213	6mos	CD70-/-;Bcl6tg/+	8_Other	NA
+213	6mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.38629436111989
+213	6mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+213	6mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	NA
+213	6mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+280	6mos	CD70-/-;Bcl6tg/+	0_Naïve	3.82065197700538
+280	6mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	1.6094379124341
+280	6mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.79175946922805
+280	6mos	CD70-/-;Bcl6tg/+	8_Other	NA
+280	6mos	CD70-/-;Bcl6tg/+	9_NKT	1.56071040904141
+280	6mos	CD70-/-;Bcl6tg/+	2_Th1/EM	2.30258509299405
+280	6mos	CD70-/-;Bcl6tg/+	5_Tfh	2.09827373952525
+280	6mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.09861228866811
+280	6mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	1.09861228866811
+280	6mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	NA
+280	6mos	CD70-/-;Bcl6tg/+	4b_Naïve	1.03972077083992
+280	6mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+280	6mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+280	6mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+280	6mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	NA
+280	6mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	NA
+280	6mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.09861228866811
+072	6mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.22388606849131
+072	6mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+072	6mos	CD70-/-;Bcl6tg/+	9_NKT	2.07944154167984
+072	6mos	CD70-/-;Bcl6tg/+	2_Th1/EM	2.39789527279837
+072	6mos	CD70-/-;Bcl6tg/+	5_Tfh	2.68594532466979
+072	6mos	CD70-/-;Bcl6tg/+	0_Naïve	3.71357206670431
+072	6mos	CD70-/-;Bcl6tg/+	8_Other	NA
+072	6mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	NA
+072	6mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.67698777432242
+072	6mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	1.33217904021012
+072	6mos	CD70-/-;Bcl6tg/+	4b_Naïve	1.09861228866811
+072	6mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+072	6mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+072	6mos	CD70-/-;Bcl6tg/+	12_Cycling	1.09861228866811
+072	6mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.79175946922805
+072	6mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	2.07944154167984
+072	6mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.6094379124341
+072	6mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+049	14mos	WT	0_Naïve	4.48863636973214
+049	14mos	WT	11_Cycling Tregs	2.07944154167984
+049	14mos	WT	7_Follicular Tregs	2.19722457733622
+049	14mos	WT	9_NKT	2.83321334405622
+049	14mos	WT	3_Effector Tregs	2.91249440333105
+049	14mos	WT	2_Th1/EM	3.3087777575875
+049	14mos	WT	13_Early activated CTLs	1.38629436111989
+049	14mos	WT	5_Tfh	3.25364628288288
+049	14mos	WT	10_Effector Tregs	1.94591014905531
+049	14mos	WT	24_Cycling Tregs	NA
+049	14mos	WT	1_Exhausted CTLs	2.19722457733622
+049	14mos	WT	8_Other	1.09861228866811
+049	14mos	WT	6_Activated CTLs	1.09861228866811
+049	14mos	WT	15_IFN-stimulated	1.09861228866811
+049	14mos	WT	4b_Naïve	1.94591014905531
+049	14mos	WT	17_Cycling	NA
+049	14mos	WT	12_Cycling	NA
+051	14mos	WT	2_Th1/EM	2.56494935746154
+051	14mos	WT	4b_Naïve	2.63905732961526
+051	14mos	WT	0_Naïve	4.51085950651685
+051	14mos	WT	9_NKT	2.19722457733622
+051	14mos	WT	10_Effector Tregs	1.79175946922805
+051	14mos	WT	7_Follicular Tregs	1.38629436111989
+051	14mos	WT	5_Tfh	1.03972077083992
+051	14mos	WT	8_Other	1.09861228866811
+051	14mos	WT	3_Effector Tregs	1.94591014905531
+051	14mos	WT	1_Exhausted CTLs	2.484906649788
+051	14mos	WT	17_Cycling	NA
+051	14mos	WT	6_Activated CTLs	NA
+051	14mos	WT	13_Early activated CTLs	NA
+051	14mos	WT	15_IFN-stimulated	NA
+051	14mos	WT	11_Cycling Tregs	NA
+051	14mos	WT	4a_Exhausted CTLs	NA
+051	14mos	WT	24_Cycling Tregs	NA
+051	14mos	WT	12_Cycling	NA
+113	14mos	WT	0_Naïve	3.2188758248682
+113	14mos	WT	2_Th1/EM	2.63905732961526
+113	14mos	WT	4a_Exhausted CTLs	NA
+113	14mos	WT	3_Effector Tregs	1.09861228866811
+113	14mos	WT	5_Tfh	2.61563057702755
+113	14mos	WT	1_Exhausted CTLs	2.19722457733622
+113	14mos	WT	13_Early activated CTLs	1.09861228866811
+113	14mos	WT	8_Other	NA
+113	14mos	WT	9_NKT	1.6094379124341
+113	14mos	WT	7_Follicular Tregs	1.79175946922805
+113	14mos	WT	6_Activated CTLs	0.735621939758795
+113	14mos	WT	10_Effector Tregs	1.6094379124341
+113	14mos	WT	4b_Naïve	NA
+113	14mos	WT	15_IFN-stimulated	1.09861228866811
+113	14mos	WT	17_Cycling	NA
+113	14mos	WT	12_Cycling	NA
+113	14mos	WT	24_Cycling Tregs	NA
+113	14mos	WT	11_Cycling Tregs	NA
+115	14mos	WT	10_Effector Tregs	NA
+115	14mos	WT	12_Cycling	NA
+115	14mos	WT	11_Cycling Tregs	1.09861228866811
+115	14mos	WT	8_Other	NA
+115	14mos	WT	1_Exhausted CTLs	NA
+115	14mos	WT	3_Effector Tregs	NA
+115	14mos	WT	5_Tfh	1.79175946922805
+115	14mos	WT	7_Follicular Tregs	1.09861228866811
+115	14mos	WT	2_Th1/EM	1.38629436111989
+115	14mos	WT	15_IFN-stimulated	NA
+115	14mos	WT	6_Activated CTLs	NA
+115	14mos	WT	17_Cycling	NA
+115	14mos	WT	9_NKT	NA
+115	14mos	WT	24_Cycling Tregs	NA
+115	14mos	WT	4a_Exhausted CTLs	NA
+115	14mos	WT	0_Naïve	NA
+115	14mos	WT	13_Early activated CTLs	NA
+118	14mos	WT	2_Th1/EM	3.12029156530128
+118	14mos	WT	4b_Naïve	NA
+118	14mos	WT	3_Effector Tregs	2.30258509299405
+118	14mos	WT	10_Effector Tregs	NA
+118	14mos	WT	0_Naïve	3.36729582998647
+118	14mos	WT	5_Tfh	2.68594532466979
+118	14mos	WT	1_Exhausted CTLs	1.6094379124341
+118	14mos	WT	9_NKT	NA
+118	14mos	WT	6_Activated CTLs	NA
+118	14mos	WT	7_Follicular Tregs	1.6094379124341
+118	14mos	WT	8_Other	NA
+118	14mos	WT	4a_Exhausted CTLs	NA
+118	14mos	WT	11_Cycling Tregs	NA
+118	14mos	WT	13_Early activated CTLs	1.38629436111989
+118	14mos	WT	17_Cycling	NA
+118	14mos	WT	24_Cycling Tregs	NA
+118	14mos	WT	15_IFN-stimulated	NA
+118	14mos	WT	12_Cycling	NA
+129	14mos	WT	9_NKT	2.56494935746154
+129	14mos	WT	1_Exhausted CTLs	2.19722457733622
+129	14mos	WT	5_Tfh	3.42241420401473
+129	14mos	WT	2_Th1/EM	3.61091791264422
+129	14mos	WT	4a_Exhausted CTLs	NA
+129	14mos	WT	3_Effector Tregs	2.77258872223978
+129	14mos	WT	7_Follicular Tregs	1.6094379124341
+129	14mos	WT	0_Naïve	3.68887945411394
+129	14mos	WT	6_Activated CTLs	1.56071040904141
+129	14mos	WT	10_Effector Tregs	1.6094379124341
+129	14mos	WT	13_Early activated CTLs	1.38629436111989
+129	14mos	WT	4b_Naïve	NA
+129	14mos	WT	17_Cycling	NA
+129	14mos	WT	8_Other	NA
+129	14mos	WT	11_Cycling Tregs	1.38629436111989
+129	14mos	WT	15_IFN-stimulated	NA
+129	14mos	WT	24_Cycling Tregs	NA
+129	14mos	WT	12_Cycling	NA
+079	14mos	CD70-/-	0_Naïve	4.27666611901606
+079	14mos	CD70-/-	2_Th1/EM	3.62801563687016
+079	14mos	CD70-/-	1_Exhausted CTLs	2.04319187054512
+079	14mos	CD70-/-	15_IFN-stimulated	NA
+079	14mos	CD70-/-	9_NKT	2.39789527279837
+079	14mos	CD70-/-	7_Follicular Tregs	2.484906649788
+079	14mos	CD70-/-	3_Effector Tregs	2.45831132968308
+079	14mos	CD70-/-	5_Tfh	3.16498553777791
+079	14mos	CD70-/-	8_Other	NA
+079	14mos	CD70-/-	10_Effector Tregs	2.30258509299405
+079	14mos	CD70-/-	11_Cycling Tregs	1.33217904021012
+079	14mos	CD70-/-	13_Early activated CTLs	1.79175946922805
+079	14mos	CD70-/-	24_Cycling Tregs	NA
+079	14mos	CD70-/-	4a_Exhausted CTLs	NA
+079	14mos	CD70-/-	4b_Naïve	NA
+079	14mos	CD70-/-	6_Activated CTLs	NA
+079	14mos	CD70-/-	17_Cycling	NA
+010b	14mos	CD70-/-	0_Naïve	4.06044301054642
+010b	14mos	CD70-/-	2_Th1/EM	2.79851325694329
+010b	14mos	CD70-/-	9_NKT	1.79175946922805
+010b	14mos	CD70-/-	12_Cycling	NA
+010b	14mos	CD70-/-	13_Early activated CTLs	1.09861228866811
+010b	14mos	CD70-/-	4b_Naïve	2.56494935746154
+010b	14mos	CD70-/-	7_Follicular Tregs	2.07944154167984
+010b	14mos	CD70-/-	6_Activated CTLs	NA
+010b	14mos	CD70-/-	3_Effector Tregs	1.6094379124341
+010b	14mos	CD70-/-	8_Other	1.09861228866811
+010b	14mos	CD70-/-	5_Tfh	1.94591014905531
+010b	14mos	CD70-/-	10_Effector Tregs	1.09861228866811
+010b	14mos	CD70-/-	11_Cycling Tregs	1.79175946922805
+010b	14mos	CD70-/-	24_Cycling Tregs	NA
+010b	14mos	CD70-/-	15_IFN-stimulated	NA
+010b	14mos	CD70-/-	1_Exhausted CTLs	NA
+010b	14mos	CD70-/-	4a_Exhausted CTLs	NA
+010b	14mos	CD70-/-	17_Cycling	NA
+008	14mos	CD70-/-	5_Tfh	3.04439022811584
+008	14mos	CD70-/-	2_Th1/EM	3.31949257615475
+008	14mos	CD70-/-	0_Naïve	3.25809653802148
+008	14mos	CD70-/-	10_Effector Tregs	1.94591014905531
+008	14mos	CD70-/-	7_Follicular Tregs	2.45831132968308
+008	14mos	CD70-/-	9_NKT	2.19722457733622
+008	14mos	CD70-/-	1_Exhausted CTLs	1.09861228866811
+008	14mos	CD70-/-	4b_Naïve	NA
+008	14mos	CD70-/-	3_Effector Tregs	2.36938211969468
+008	14mos	CD70-/-	4a_Exhausted CTLs	NA
+008	14mos	CD70-/-	6_Activated CTLs	1.09861228866811
+008	14mos	CD70-/-	12_Cycling	NA
+008	14mos	CD70-/-	13_Early activated CTLs	1.09861228866811
+008	14mos	CD70-/-	11_Cycling Tregs	1.09861228866811
+008	14mos	CD70-/-	15_IFN-stimulated	NA
+008	14mos	CD70-/-	17_Cycling	NA
+008	14mos	CD70-/-	8_Other	1.38629436111989
+075	14mos	CD70-/-	0_Naïve	2.56494935746154
+075	14mos	CD70-/-	3_Effector Tregs	2.19722457733622
+075	14mos	CD70-/-	5_Tfh	2.87147611805487
+075	14mos	CD70-/-	17_Cycling	NA
+075	14mos	CD70-/-	2_Th1/EM	2.56494935746154
+075	14mos	CD70-/-	1_Exhausted CTLs	2.65702007761329
+075	14mos	CD70-/-	11_Cycling Tregs	NA
+075	14mos	CD70-/-	6_Activated CTLs	NA
+075	14mos	CD70-/-	15_IFN-stimulated	NA
+075	14mos	CD70-/-	10_Effector Tregs	1.38629436111989
+075	14mos	CD70-/-	13_Early activated CTLs	1.38629436111989
+075	14mos	CD70-/-	7_Follicular Tregs	1.38629436111989
+075	14mos	CD70-/-	9_NKT	1.09861228866811
+075	14mos	CD70-/-	24_Cycling Tregs	NA
+075	14mos	CD70-/-	12_Cycling	NA
+075	14mos	CD70-/-	8_Other	NA
+075	14mos	CD70-/-	4a_Exhausted CTLs	NA
+075	14mos	CD70-/-	4b_Naïve	NA
+076	14mos	CD70-/-	2_Th1/EM	1.6094379124341
+076	14mos	CD70-/-	1_Exhausted CTLs	1.09861228866811
+076	14mos	CD70-/-	12_Cycling	NA
+076	14mos	CD70-/-	7_Follicular Tregs	NA
+076	14mos	CD70-/-	5_Tfh	1.94591014905531
+076	14mos	CD70-/-	6_Activated CTLs	NA
+076	14mos	CD70-/-	3_Effector Tregs	NA
+076	14mos	CD70-/-	15_IFN-stimulated	NA
+076	14mos	CD70-/-	10_Effector Tregs	NA
+076	14mos	CD70-/-	8_Other	NA
+076	14mos	CD70-/-	9_NKT	1.38629436111989
+076	14mos	CD70-/-	24_Cycling Tregs	NA
+076	14mos	CD70-/-	13_Early activated CTLs	1.09861228866811
+076	14mos	CD70-/-	4b_Naïve	NA
+076	14mos	CD70-/-	4a_Exhausted CTLs	NA
+076	14mos	CD70-/-	0_Naïve	NA
+126	14mos	CD70-/-	2_Th1/EM	3.2760976031671
+126	14mos	CD70-/-	9_NKT	2.07944154167984
+126	14mos	CD70-/-	8_Other	1.03972077083992
+126	14mos	CD70-/-	13_Early activated CTLs	2.07944154167984
+126	14mos	CD70-/-	5_Tfh	2.45831132968308
+126	14mos	CD70-/-	6_Activated CTLs	0.636514168294813
+126	14mos	CD70-/-	7_Follicular Tregs	2.07944154167984
+126	14mos	CD70-/-	0_Naïve	3.7758559484121
+126	14mos	CD70-/-	11_Cycling Tregs	1.38629436111989
+126	14mos	CD70-/-	1_Exhausted CTLs	1.94591014905531
+126	14mos	CD70-/-	15_IFN-stimulated	1.09861228866811
+126	14mos	CD70-/-	10_Effector Tregs	1.38629436111989
+126	14mos	CD70-/-	4b_Naïve	NA
+126	14mos	CD70-/-	17_Cycling	NA
+126	14mos	CD70-/-	3_Effector Tregs	1.03972077083992
+126	14mos	CD70-/-	4a_Exhausted CTLs	NA
+126	14mos	CD70-/-	12_Cycling	0.636514168294813
+035	14mos	Bcl6tg/+	4a_Exhausted CTLs	0.757904841974457
+035	14mos	Bcl6tg/+	6_Activated CTLs	1.45080502008392
+035	14mos	Bcl6tg/+	10_Effector Tregs	1.38629436111989
+035	14mos	Bcl6tg/+	15_IFN-stimulated	1.33217904021012
+035	14mos	Bcl6tg/+	9_NKT	1.3896811919839
+035	14mos	Bcl6tg/+	1_Exhausted CTLs	0.959954992960796
+035	14mos	Bcl6tg/+	3_Effector Tregs	1.94591014905531
+035	14mos	Bcl6tg/+	5_Tfh	1.56071040904141
+035	14mos	Bcl6tg/+	13_Early activated CTLs	1.242453324894
+035	14mos	Bcl6tg/+	2_Th1/EM	2.56494935746154
+035	14mos	Bcl6tg/+	0_Naïve	1.94591014905531
+035	14mos	Bcl6tg/+	17_Cycling	NA
+035	14mos	Bcl6tg/+	8_Other	1.15374194270109
+035	14mos	Bcl6tg/+	12_Cycling	NA
+035	14mos	Bcl6tg/+	11_Cycling Tregs	1.09861228866811
+035	14mos	Bcl6tg/+	24_Cycling Tregs	NA
+035	14mos	Bcl6tg/+	7_Follicular Tregs	NA
+035	14mos	Bcl6tg/+	4b_Naïve	NA
+031	14mos	Bcl6tg/+	4a_Exhausted CTLs	1.94591014905531
+031	14mos	Bcl6tg/+	8_Other	1.79175946922805
+031	14mos	Bcl6tg/+	24_Cycling Tregs	0.562335144618808
+031	14mos	Bcl6tg/+	3_Effector Tregs	2.33837170480357
+031	14mos	Bcl6tg/+	17_Cycling	1.33217904021012
+031	14mos	Bcl6tg/+	6_Activated CTLs	2.30258509299405
+031	14mos	Bcl6tg/+	1_Exhausted CTLs	3.75194420920751
+031	14mos	Bcl6tg/+	7_Follicular Tregs	0
+031	14mos	Bcl6tg/+	0_Naïve	2.63905732961526
+031	14mos	Bcl6tg/+	9_NKT	1.09861228866811
+031	14mos	Bcl6tg/+	13_Early activated CTLs	1.94591014905531
+031	14mos	Bcl6tg/+	2_Th1/EM	2.19722457733622
+031	14mos	Bcl6tg/+	10_Effector Tregs	1.09861228866811
+031	14mos	Bcl6tg/+	5_Tfh	1.79175946922805
+031	14mos	Bcl6tg/+	15_IFN-stimulated	1.79175946922805
+031	14mos	Bcl6tg/+	12_Cycling	1.09861228866811
+031	14mos	Bcl6tg/+	4b_Naïve	NA
+031	14mos	Bcl6tg/+	11_Cycling Tregs	1.6094379124341
+032b	14mos	Bcl6tg/+	1_Exhausted CTLs	1.85042932308563
+032b	14mos	Bcl6tg/+	4a_Exhausted CTLs	1.16076171878841
+032b	14mos	Bcl6tg/+	0_Naïve	3.02634560851796
+032b	14mos	Bcl6tg/+	6_Activated CTLs	1.67512766337662
+032b	14mos	Bcl6tg/+	13_Early activated CTLs	2.80978347800405
+032b	14mos	Bcl6tg/+	5_Tfh	2.79851325694329
+032b	14mos	Bcl6tg/+	7_Follicular Tregs	1.07354284640852
+032b	14mos	Bcl6tg/+	8_Other	1.45080502008392
+032b	14mos	Bcl6tg/+	2_Th1/EM	3.5157396511717
+032b	14mos	Bcl6tg/+	3_Effector Tregs	2.61563057702755
+032b	14mos	Bcl6tg/+	15_IFN-stimulated	2.2523542313692
+032b	14mos	Bcl6tg/+	11_Cycling Tregs	1.90615474653985
+032b	14mos	Bcl6tg/+	10_Effector Tregs	NA
+032b	14mos	Bcl6tg/+	17_Cycling	1.6094379124341
+032b	14mos	Bcl6tg/+	9_NKT	1.6094379124341
+032b	14mos	Bcl6tg/+	12_Cycling	1.94593477575611
+032b	14mos	Bcl6tg/+	4b_Naïve	NA
+032b	14mos	Bcl6tg/+	24_Cycling Tregs	1.38629436111989
+036	14mos	Bcl6tg/+	3_Effector Tregs	3.2188758248682
+036	14mos	Bcl6tg/+	5_Tfh	2.54003630382098
+036	14mos	Bcl6tg/+	10_Effector Tregs	1.6094379124341
+036	14mos	Bcl6tg/+	8_Other	0.950270539233235
+036	14mos	Bcl6tg/+	6_Activated CTLs	1.39068262781295
+036	14mos	Bcl6tg/+	1_Exhausted CTLs	2.24563262655315
+036	14mos	Bcl6tg/+	2_Th1/EM	2.97850842052724
+036	14mos	Bcl6tg/+	24_Cycling Tregs	1.33217904021012
+036	14mos	Bcl6tg/+	15_IFN-stimulated	1.56071040904141
+036	14mos	Bcl6tg/+	4b_Naïve	NA
+036	14mos	Bcl6tg/+	12_Cycling	1.03972077083992
+036	14mos	Bcl6tg/+	4a_Exhausted CTLs	1.94591014905531
+036	14mos	Bcl6tg/+	17_Cycling	1.09861228866811
+036	14mos	Bcl6tg/+	9_NKT	1.6094379124341
+036	14mos	Bcl6tg/+	0_Naïve	2.39789527279837
+036	14mos	Bcl6tg/+	7_Follicular Tregs	1.09861228866811
+036	14mos	Bcl6tg/+	11_Cycling Tregs	1.79175946922805
+036	14mos	Bcl6tg/+	13_Early activated CTLs	1.6094379124341
+083	14mos	Bcl6tg/+	4b_Naïve	NA
+083	14mos	Bcl6tg/+	6_Activated CTLs	2.95467321230482
+083	14mos	Bcl6tg/+	2_Th1/EM	1.90615474653985
+083	14mos	Bcl6tg/+	1_Exhausted CTLs	3.6927245977755
+083	14mos	Bcl6tg/+	8_Other	1.09861228866811
+083	14mos	Bcl6tg/+	4a_Exhausted CTLs	1.94591014905531
+083	14mos	Bcl6tg/+	7_Follicular Tregs	NA
+083	14mos	Bcl6tg/+	10_Effector Tregs	NA
+083	14mos	Bcl6tg/+	11_Cycling Tregs	NA
+083	14mos	Bcl6tg/+	9_NKT	NA
+083	14mos	Bcl6tg/+	15_IFN-stimulated	NA
+083	14mos	Bcl6tg/+	13_Early activated CTLs	2.47995552054452
+083	14mos	Bcl6tg/+	3_Effector Tregs	1.6094379124341
+083	14mos	Bcl6tg/+	0_Naïve	1.38629436111989
+083	14mos	Bcl6tg/+	17_Cycling	NA
+083	14mos	Bcl6tg/+	12_Cycling	1.79175946922805
+083	14mos	Bcl6tg/+	5_Tfh	NA
+083	14mos	Bcl6tg/+	24_Cycling Tregs	NA
+089	14mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.91698694808793
+089	14mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	2.39789527279837
+089	14mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	2.61563057702755
+089	14mos	CD70-/-;Bcl6tg/+	2_Th1/EM	2.50702643555742
+089	14mos	CD70-/-;Bcl6tg/+	5_Tfh	2.61563057702755
+089	14mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.09861228866811
+089	14mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.09861228866811
+089	14mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	1.74786809746676
+089	14mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.09861228866811
+089	14mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.03972077083992
+089	14mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.6094379124341
+089	14mos	CD70-/-;Bcl6tg/+	8_Other	NA
+089	14mos	CD70-/-;Bcl6tg/+	9_NKT	1.79175946922805
+089	14mos	CD70-/-;Bcl6tg/+	0_Naïve	2.484906649788
+089	14mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.09861228866811
+089	14mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+089	14mos	CD70-/-;Bcl6tg/+	12_Cycling	NA
+089	14mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+090	14mos	CD70-/-;Bcl6tg/+	2_Th1/EM	3.29583686600433
+090	14mos	CD70-/-;Bcl6tg/+	0_Naïve	3.93171712917139
+090	14mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.6094379124341
+090	14mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.79175946922805
+090	14mos	CD70-/-;Bcl6tg/+	9_NKT	2.30258509299405
+090	14mos	CD70-/-;Bcl6tg/+	5_Tfh	2.63905732961526
+090	14mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.38865078264192
+090	14mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	2.35167330190463
+090	14mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+090	14mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.79175946922805
+090	14mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	2.02532622077007
+090	14mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	2.16395565688206
+090	14mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.38629436111989
+090	14mos	CD70-/-;Bcl6tg/+	8_Other	NA
+090	14mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA
+090	14mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+090	14mos	CD70-/-;Bcl6tg/+	12_Cycling	NA
+090	14mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+087	14mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	1.45809476531046
+087	14mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	0.895332665968091
+087	14mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.61203926556964
+087	14mos	CD70-/-;Bcl6tg/+	2_Th1/EM	2.87821830667085
+087	14mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	2.30258509299405
+087	14mos	CD70-/-;Bcl6tg/+	0_Naïve	3.2188758248682
+087	14mos	CD70-/-;Bcl6tg/+	8_Other	1.32966134885476
+087	14mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+087	14mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	2.27186851269656
+087	14mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+087	14mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA
+087	14mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+087	14mos	CD70-/-;Bcl6tg/+	9_NKT	2.07944154167984
+087	14mos	CD70-/-;Bcl6tg/+	5_Tfh	1.94591014905531
+087	14mos	CD70-/-;Bcl6tg/+	12_Cycling	1.38629436111989
+087	14mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+087	14mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.74786809746676
+087	14mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	NA
+100	14mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	2.914880643991
+100	14mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.09861228866811
+100	14mos	CD70-/-;Bcl6tg/+	9_NKT	1.38629436111989
+100	14mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	2.33708182876098
+100	14mos	CD70-/-;Bcl6tg/+	2_Th1/EM	3.40119738166216
+100	14mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.35708011679881
+100	14mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.09861228866811
+100	14mos	CD70-/-;Bcl6tg/+	5_Tfh	2.30461938482067
+100	14mos	CD70-/-;Bcl6tg/+	8_Other	1.09861228866811
+100	14mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	2.04319187054512
+100	14mos	CD70-/-;Bcl6tg/+	0_Naïve	3.3322045101752
+100	14mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.83759170737142
+100	14mos	CD70-/-;Bcl6tg/+	17_Cycling	1.56071040904141
+100	14mos	CD70-/-;Bcl6tg/+	12_Cycling	1.94593477575611
+100	14mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.47080847632211
+100	14mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	0.562335144618808
+100	14mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.15374194270109
+100	14mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+106	14mos	CD70-/-;Bcl6tg/+	2_Th1/EM	3.89699817453712
+106	14mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	3.09104245335832
+106	14mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	4.41253336722656
+106	14mos	CD70-/-;Bcl6tg/+	8_Other	1.79175946922805
+106	14mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	3.98216366567861
+106	14mos	CD70-/-;Bcl6tg/+	0_Naïve	3.83454322649981
+106	14mos	CD70-/-;Bcl6tg/+	5_Tfh	3.2444926304073
+106	14mos	CD70-/-;Bcl6tg/+	9_NKT	3.04452243772342
+106	14mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	2.99573227355399
+106	14mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	2.70805020110221
+106	14mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.09861228866811
+106	14mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+106	14mos	CD70-/-;Bcl6tg/+	12_Cycling	NA
+106	14mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.94591014905531
+106	14mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	1.09861228866811
+106	14mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.90615474653985
+106	14mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+106	14mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+220	14mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	2.98530907332619
+220	14mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.38629436111989
+220	14mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.09861228866811
+220	14mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+220	14mos	CD70-/-;Bcl6tg/+	17_Cycling	1.09861228866811
+220	14mos	CD70-/-;Bcl6tg/+	8_Other	NA
+220	14mos	CD70-/-;Bcl6tg/+	2_Th1/EM	1.79175946922805
+220	14mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.09861228866811
+220	14mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.38629436111989
+220	14mos	CD70-/-;Bcl6tg/+	5_Tfh	1.38629436111989
+220	14mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.03972077083992
+220	14mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.09861228866811
+220	14mos	CD70-/-;Bcl6tg/+	12_Cycling	1.09861228866811
+220	14mos	CD70-/-;Bcl6tg/+	9_NKT	NA
+220	14mos	CD70-/-;Bcl6tg/+	0_Naïve	1.09861228866811
+220	14mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+90b	14mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+90b	14mos	CD70-/-;Bcl6tg/+	2_Th1/EM	2.75166661693152
+90b	14mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.09861228866811
+90b	14mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	0.537368801781397
+90b	14mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	2.04319187054512
+90b	14mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.91040603178482
+90b	14mos	CD70-/-;Bcl6tg/+	5_Tfh	1.96617551714957
+90b	14mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.6094379124341
+90b	14mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	2.27186851269656
+90b	14mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	2.16395565688206
+90b	14mos	CD70-/-;Bcl6tg/+	8_Other	NA
+90b	14mos	CD70-/-;Bcl6tg/+	0_Naïve	NA
+90b	14mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.09861228866811
+90b	14mos	CD70-/-;Bcl6tg/+	12_Cycling	2.04319187054512
+90b	14mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.38629436111989
+90b	14mos	CD70-/-;Bcl6tg/+	17_Cycling	1.09861228866811
+90b	14mos	CD70-/-;Bcl6tg/+	9_NKT	NA
+90b	14mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+207	18mos	WT	7_Follicular Tregs	2.45831132968308
+207	18mos	WT	5_Tfh	3.09104245335832
+207	18mos	WT	6_Activated CTLs	NA
+207	18mos	WT	11_Cycling Tregs	1.09861228866811
+207	18mos	WT	3_Effector Tregs	2.30258509299405
+207	18mos	WT	15_IFN-stimulated	1.09861228866811
+207	18mos	WT	1_Exhausted CTLs	2.04319187054512
+207	18mos	WT	2_Th1/EM	2.54003630382098
+207	18mos	WT	10_Effector Tregs	1.09861228866811
+207	18mos	WT	4b_Naïve	NA
+207	18mos	WT	8_Other	NA
+207	18mos	WT	9_NKT	1.6094379124341
+207	18mos	WT	0_Naïve	2.30258509299405
+207	18mos	WT	4a_Exhausted CTLs	NA
+207	18mos	WT	24_Cycling Tregs	1.09861228866811
+207	18mos	WT	13_Early activated CTLs	1.38629436111989
+207	18mos	WT	17_Cycling	NA
+207	18mos	WT	12_Cycling	1.09861228866811
+217	18mos	WT	9_NKT	1.09861228866811
+217	18mos	WT	5_Tfh	1.56071040904141
+217	18mos	WT	1_Exhausted CTLs	NA
+217	18mos	WT	0_Naïve	2.07944154167984
+217	18mos	WT	10_Effector Tregs	NA
+217	18mos	WT	2_Th1/EM	1.09861228866811
+217	18mos	WT	8_Other	NA
+217	18mos	WT	3_Effector Tregs	1.09861228866811
+217	18mos	WT	13_Early activated CTLs	NA
+217	18mos	WT	4a_Exhausted CTLs	NA
+217	18mos	WT	7_Follicular Tregs	NA
+217	18mos	WT	6_Activated CTLs	NA
+217	18mos	WT	24_Cycling Tregs	NA
+217	18mos	WT	15_IFN-stimulated	NA
+217	18mos	WT	17_Cycling	NA
+217	18mos	WT	4b_Naïve	NA
+217	18mos	WT	11_Cycling Tregs	NA
+219	18mos	WT	10_Effector Tregs	1.38629436111989
+219	18mos	WT	0_Naïve	2.89037175789616
+219	18mos	WT	8_Other	NA
+219	18mos	WT	2_Th1/EM	2.99573227355399
+219	18mos	WT	1_Exhausted CTLs	2.07944154167984
+219	18mos	WT	13_Early activated CTLs	1.79175946922805
+219	18mos	WT	5_Tfh	2.87147611805487
+219	18mos	WT	11_Cycling Tregs	NA
+219	18mos	WT	24_Cycling Tregs	NA
+219	18mos	WT	9_NKT	NA
+219	18mos	WT	3_Effector Tregs	1.94591014905531
+219	18mos	WT	7_Follicular Tregs	NA
+219	18mos	WT	4a_Exhausted CTLs	NA
+219	18mos	WT	6_Activated CTLs	1.6094379124341
+219	18mos	WT	15_IFN-stimulated	NA
+219	18mos	WT	4b_Naïve	NA
+219	18mos	WT	17_Cycling	NA
+055	18mos	WT	0_Naïve	4.64439089914137
+055	18mos	WT	5_Tfh	2.70805020110221
+055	18mos	WT	3_Effector Tregs	2.30258509299405
+055	18mos	WT	10_Effector Tregs	1.94591014905531
+055	18mos	WT	2_Th1/EM	2.77258872223978
+055	18mos	WT	9_NKT	2.30258509299405
+055	18mos	WT	13_Early activated CTLs	1.94591014905531
+055	18mos	WT	8_Other	NA
+055	18mos	WT	4b_Naïve	2.07944154167984
+055	18mos	WT	1_Exhausted CTLs	1.6094379124341
+055	18mos	WT	6_Activated CTLs	NA
+055	18mos	WT	17_Cycling	NA
+055	18mos	WT	11_Cycling Tregs	1.6094379124341
+055	18mos	WT	7_Follicular Tregs	1.79175946922805
+055	18mos	WT	4a_Exhausted CTLs	NA
+055	18mos	WT	15_IFN-stimulated	NA
+055	18mos	WT	24_Cycling Tregs	NA
+050	18mos	WT	1_Exhausted CTLs	2.19722457733622
+050	18mos	WT	0_Naïve	3.43398720448515
+050	18mos	WT	4b_Naïve	NA
+050	18mos	WT	10_Effector Tregs	1.6094379124341
+050	18mos	WT	5_Tfh	2.94123168672176
+050	18mos	WT	7_Follicular Tregs	2.07944154167984
+050	18mos	WT	9_NKT	2.30258509299405
+050	18mos	WT	8_Other	NA
+050	18mos	WT	2_Th1/EM	3.3322045101752
+050	18mos	WT	13_Early activated CTLs	1.38629436111989
+050	18mos	WT	11_Cycling Tregs	NA
+050	18mos	WT	12_Cycling	NA
+050	18mos	WT	15_IFN-stimulated	NA
+050	18mos	WT	6_Activated CTLs	1.38629436111989
+050	18mos	WT	4a_Exhausted CTLs	NA
+050	18mos	WT	3_Effector Tregs	1.79175946922805
+050	18mos	WT	17_Cycling	NA
+189	18mos	WT	0_Naïve	3.17805383034795
+189	18mos	WT	2_Th1/EM	3.27168932232303
+189	18mos	WT	10_Effector Tregs	1.94591014905531
+189	18mos	WT	3_Effector Tregs	2.63905732961526
+189	18mos	WT	1_Exhausted CTLs	2.61563057702755
+189	18mos	WT	5_Tfh	2.45831132968308
+189	18mos	WT	7_Follicular Tregs	2.39789527279837
+189	18mos	WT	6_Activated CTLs	NA
+189	18mos	WT	8_Other	1.09861228866811
+189	18mos	WT	4b_Naïve	NA
+189	18mos	WT	9_NKT	1.38629436111989
+189	18mos	WT	15_IFN-stimulated	NA
+189	18mos	WT	4a_Exhausted CTLs	1.09861228866811
+189	18mos	WT	17_Cycling	NA
+189	18mos	WT	11_Cycling Tregs	1.79175946922805
+189	18mos	WT	13_Early activated CTLs	1.94591014905531
+189	18mos	WT	12_Cycling	NA
+189	18mos	WT	24_Cycling Tregs	NA
+011	18mos	CD70-/-	5_Tfh	3.36729582998647
+011	18mos	CD70-/-	4a_Exhausted CTLs	2.36938211969468
+011	18mos	CD70-/-	2_Th1/EM	3.42241420401473
+011	18mos	CD70-/-	1_Exhausted CTLs	3.79708724136859
+011	18mos	CD70-/-	7_Follicular Tregs	1.94591014905531
+011	18mos	CD70-/-	11_Cycling Tregs	NA
+011	18mos	CD70-/-	15_IFN-stimulated	1.38629436111989
+011	18mos	CD70-/-	6_Activated CTLs	2.41019420936877
+011	18mos	CD70-/-	0_Naïve	2.75166661693152
+011	18mos	CD70-/-	13_Early activated CTLs	2.19722457733622
+011	18mos	CD70-/-	3_Effector Tregs	2.61563057702755
+011	18mos	CD70-/-	8_Other	1.6094379124341
+011	18mos	CD70-/-	24_Cycling Tregs	NA
+011	18mos	CD70-/-	9_NKT	1.6094379124341
+011	18mos	CD70-/-	10_Effector Tregs	1.94591014905531
+011	18mos	CD70-/-	17_Cycling	NA
+011	18mos	CD70-/-	12_Cycling	1.79175946922805
+011	18mos	CD70-/-	4b_Naïve	NA
+152	18mos	CD70-/-	5_Tfh	2.36938211969468
+152	18mos	CD70-/-	0_Naïve	1.94591014905531
+152	18mos	CD70-/-	13_Early activated CTLs	NA
+152	18mos	CD70-/-	8_Other	NA
+152	18mos	CD70-/-	2_Th1/EM	2.89037175789616
+152	18mos	CD70-/-	4b_Naïve	NA
+152	18mos	CD70-/-	7_Follicular Tregs	1.6094379124341
+152	18mos	CD70-/-	10_Effector Tregs	NA
+152	18mos	CD70-/-	1_Exhausted CTLs	2.484906649788
+152	18mos	CD70-/-	15_IFN-stimulated	NA
+152	18mos	CD70-/-	3_Effector Tregs	1.94591014905531
+152	18mos	CD70-/-	11_Cycling Tregs	1.6094379124341
+152	18mos	CD70-/-	6_Activated CTLs	NA
+152	18mos	CD70-/-	12_Cycling	1.38629436111989
+152	18mos	CD70-/-	9_NKT	NA
+152	18mos	CD70-/-	4a_Exhausted CTLs	NA
+152	18mos	CD70-/-	17_Cycling	NA
+292	18mos	CD70-/-	0_Naïve	3.13549421592915
+292	18mos	CD70-/-	2_Th1/EM	2.89037175789616
+292	18mos	CD70-/-	1_Exhausted CTLs	3.6011047291706
+292	18mos	CD70-/-	3_Effector Tregs	2.39789527279837
+292	18mos	CD70-/-	4a_Exhausted CTLs	1.79175946922805
+292	18mos	CD70-/-	13_Early activated CTLs	2.07944154167984
+292	18mos	CD70-/-	5_Tfh	2.70805020110221
+292	18mos	CD70-/-	6_Activated CTLs	2.77258872223978
+292	18mos	CD70-/-	8_Other	NA
+292	18mos	CD70-/-	4b_Naïve	NA
+292	18mos	CD70-/-	10_Effector Tregs	1.6094379124341
+292	18mos	CD70-/-	9_NKT	1.6094379124341
+292	18mos	CD70-/-	15_IFN-stimulated	NA
+292	18mos	CD70-/-	12_Cycling	1.09861228866811
+292	18mos	CD70-/-	11_Cycling Tregs	1.94591014905531
+292	18mos	CD70-/-	7_Follicular Tregs	1.09861228866811
+292	18mos	CD70-/-	24_Cycling Tregs	NA
+292	18mos	CD70-/-	17_Cycling	NA
+225	18mos	CD70-/-	2_Th1/EM	2.75166661693152
+225	18mos	CD70-/-	10_Effector Tregs	1.09861228866811
+225	18mos	CD70-/-	7_Follicular Tregs	1.79175946922805
+225	18mos	CD70-/-	5_Tfh	2.19722457733622
+225	18mos	CD70-/-	9_NKT	1.56071040904141
+225	18mos	CD70-/-	13_Early activated CTLs	1.38629436111989
+225	18mos	CD70-/-	6_Activated CTLs	NA
+225	18mos	CD70-/-	12_Cycling	1.09861228866811
+225	18mos	CD70-/-	0_Naïve	2.19722457733622
+225	18mos	CD70-/-	1_Exhausted CTLs	1.94591014905531
+225	18mos	CD70-/-	3_Effector Tregs	1.56071040904141
+225	18mos	CD70-/-	4a_Exhausted CTLs	NA
+225	18mos	CD70-/-	15_IFN-stimulated	NA
+225	18mos	CD70-/-	8_Other	1.09861228866811
+225	18mos	CD70-/-	11_Cycling Tregs	1.09861228866811
+225	18mos	CD70-/-	24_Cycling Tregs	NA
+225	18mos	CD70-/-	4b_Naïve	NA
+225	18mos	CD70-/-	17_Cycling	NA
+002	18mos	CD70-/-	1_Exhausted CTLs	2.16395565688206
+002	18mos	CD70-/-	13_Early activated CTLs	1.6094379124341
+002	18mos	CD70-/-	2_Th1/EM	3.31949257615475
+002	18mos	CD70-/-	11_Cycling Tregs	NA
+002	18mos	CD70-/-	6_Activated CTLs	1.6094379124341
+002	18mos	CD70-/-	3_Effector Tregs	2.07944154167984
+002	18mos	CD70-/-	10_Effector Tregs	1.38629436111989
+002	18mos	CD70-/-	5_Tfh	3.09104245335832
+002	18mos	CD70-/-	8_Other	NA
+002	18mos	CD70-/-	0_Naïve	1.94591014905531
+002	18mos	CD70-/-	9_NKT	1.09861228866811
+002	18mos	CD70-/-	12_Cycling	NA
+002	18mos	CD70-/-	4a_Exhausted CTLs	1.38629436111989
+002	18mos	CD70-/-	15_IFN-stimulated	1.38629436111989
+002	18mos	CD70-/-	4b_Naïve	1.09861228866811
+002	18mos	CD70-/-	7_Follicular Tregs	NA
+002	18mos	CD70-/-	17_Cycling	NA
+002	18mos	CD70-/-	24_Cycling Tregs	1.38629436111989
+186	18mos	CD70-/-	2_Th1/EM	2.94443897916644
+186	18mos	CD70-/-	1_Exhausted CTLs	3.64627087054908
+186	18mos	CD70-/-	4a_Exhausted CTLs	1.38629436111989
+186	18mos	CD70-/-	0_Naïve	1.38629436111989
+186	18mos	CD70-/-	5_Tfh	3.70261512916756
+186	18mos	CD70-/-	7_Follicular Tregs	3.2864629612968
+186	18mos	CD70-/-	17_Cycling	2.19722457733622
+186	18mos	CD70-/-	6_Activated CTLs	2.61563057702755
+186	18mos	CD70-/-	24_Cycling Tregs	1.79175946922805
+186	18mos	CD70-/-	3_Effector Tregs	2.96501569325651
+186	18mos	CD70-/-	13_Early activated CTLs	2.39789527279837
+186	18mos	CD70-/-	8_Other	NA
+186	18mos	CD70-/-	12_Cycling	2.89037175789616
+186	18mos	CD70-/-	11_Cycling Tregs	1.94591014905531
+186	18mos	CD70-/-	10_Effector Tregs	1.94591014905531
+186	18mos	CD70-/-	9_NKT	1.09861228866811
+186	18mos	CD70-/-	15_IFN-stimulated	1.09861228866811
+186	18mos	CD70-/-	4b_Naïve	NA
+030	18mos	Bcl6tg/+	3_Effector Tregs	2.07944154167984
+030	18mos	Bcl6tg/+	1_Exhausted CTLs	1.52510820673329
+030	18mos	Bcl6tg/+	0_Naïve	2.857102837442
+030	18mos	Bcl6tg/+	13_Early activated CTLs	1.5498260458782
+030	18mos	Bcl6tg/+	2_Th1/EM	2.63905732961526
+030	18mos	Bcl6tg/+	9_NKT	NA
+030	18mos	Bcl6tg/+	5_Tfh	2.16395565688206
+030	18mos	Bcl6tg/+	6_Activated CTLs	0.655975732336547
+030	18mos	Bcl6tg/+	4a_Exhausted CTLs	0.887694275799104
+030	18mos	Bcl6tg/+	8_Other	1.03972077083992
+030	18mos	Bcl6tg/+	11_Cycling Tregs	1.33217904021012
+030	18mos	Bcl6tg/+	10_Effector Tregs	NA
+030	18mos	Bcl6tg/+	7_Follicular Tregs	1.38629436111989
+030	18mos	Bcl6tg/+	15_IFN-stimulated	NA
+030	18mos	Bcl6tg/+	17_Cycling	NA
+030	18mos	Bcl6tg/+	12_Cycling	NA
+030	18mos	Bcl6tg/+	24_Cycling Tregs	NA
+030	18mos	Bcl6tg/+	4b_Naïve	NA
+037	18mos	Bcl6tg/+	2_Th1/EM	2.07944154167984
+037	18mos	Bcl6tg/+	1_Exhausted CTLs	1.99282106460959
+037	18mos	Bcl6tg/+	12_Cycling	1.33217904021012
+037	18mos	Bcl6tg/+	4a_Exhausted CTLs	1.18947362932434
+037	18mos	Bcl6tg/+	0_Naïve	1.5990147122063
+037	18mos	Bcl6tg/+	5_Tfh	1.79175946922805
+037	18mos	Bcl6tg/+	7_Follicular Tregs	NA
+037	18mos	Bcl6tg/+	6_Activated CTLs	0.735621939758795
+037	18mos	Bcl6tg/+	8_Other	0.562335144618808
+037	18mos	Bcl6tg/+	17_Cycling	1.33217904021012
+037	18mos	Bcl6tg/+	3_Effector Tregs	1.64173471218752
+037	18mos	Bcl6tg/+	11_Cycling Tregs	NA
+037	18mos	Bcl6tg/+	15_IFN-stimulated	NA
+037	18mos	Bcl6tg/+	10_Effector Tregs	NA
+037	18mos	Bcl6tg/+	24_Cycling Tregs	1.09861228866811
+037	18mos	Bcl6tg/+	13_Early activated CTLs	1.03972077083992
+037	18mos	Bcl6tg/+	9_NKT	NA
+037	18mos	Bcl6tg/+	4b_Naïve	NA
+201	18mos	Bcl6tg/+	0_Naïve	2.99573227355399
+201	18mos	Bcl6tg/+	2_Th1/EM	2.94443897916644
+201	18mos	Bcl6tg/+	5_Tfh	2.25385758960135
+201	18mos	Bcl6tg/+	4b_Naïve	NA
+201	18mos	Bcl6tg/+	6_Activated CTLs	1.79175946922805
+201	18mos	Bcl6tg/+	9_NKT	NA
+201	18mos	Bcl6tg/+	1_Exhausted CTLs	2.58230634431397
+201	18mos	Bcl6tg/+	3_Effector Tregs	1.38629436111989
+201	18mos	Bcl6tg/+	8_Other	NA
+201	18mos	Bcl6tg/+	7_Follicular Tregs	1.09861228866811
+201	18mos	Bcl6tg/+	11_Cycling Tregs	1.09861228866811
+201	18mos	Bcl6tg/+	15_IFN-stimulated	NA
+201	18mos	Bcl6tg/+	4a_Exhausted CTLs	NA
+201	18mos	Bcl6tg/+	13_Early activated CTLs	NA
+201	18mos	Bcl6tg/+	10_Effector Tregs	NA
+201	18mos	Bcl6tg/+	17_Cycling	NA
+201	18mos	Bcl6tg/+	12_Cycling	NA
+199	18mos	Bcl6tg/+	0_Naïve	2.56494935746154
+199	18mos	Bcl6tg/+	2_Th1/EM	2.484906649788
+199	18mos	Bcl6tg/+	4a_Exhausted CTLs	2.04319187054512
+199	18mos	Bcl6tg/+	9_NKT	1.6094379124341
+199	18mos	Bcl6tg/+	6_Activated CTLs	1.47610404628973
+199	18mos	Bcl6tg/+	1_Exhausted CTLs	1.86292986847284
+199	18mos	Bcl6tg/+	5_Tfh	1.94591014905531
+199	18mos	Bcl6tg/+	3_Effector Tregs	NA
+199	18mos	Bcl6tg/+	11_Cycling Tregs	NA
+199	18mos	Bcl6tg/+	8_Other	1.03972077083992
+199	18mos	Bcl6tg/+	13_Early activated CTLs	1.59416669911802
+199	18mos	Bcl6tg/+	10_Effector Tregs	NA
+199	18mos	Bcl6tg/+	15_IFN-stimulated	NA
+199	18mos	Bcl6tg/+	4b_Naïve	1.38629436111989
+199	18mos	Bcl6tg/+	24_Cycling Tregs	NA
+199	18mos	Bcl6tg/+	12_Cycling	1.03972077083992
+199	18mos	Bcl6tg/+	17_Cycling	NA
+199	18mos	Bcl6tg/+	7_Follicular Tregs	NA
+211b	18mos	Bcl6tg/+	2_Th1/EM	1.07083511301669
+211b	18mos	Bcl6tg/+	1_Exhausted CTLs	0.418140844223347
+211b	18mos	Bcl6tg/+	5_Tfh	2.70805020110221
+211b	18mos	Bcl6tg/+	15_IFN-stimulated	0.470900127917266
+211b	18mos	Bcl6tg/+	8_Other	0
+211b	18mos	Bcl6tg/+	0_Naïve	1.33151681803996
+211b	18mos	Bcl6tg/+	3_Effector Tregs	2.19722457733622
+211b	18mos	Bcl6tg/+	4a_Exhausted CTLs	0.250232596273921
+211b	18mos	Bcl6tg/+	6_Activated CTLs	0.242673481189018
+211b	18mos	Bcl6tg/+	13_Early activated CTLs	0.703131580965568
+211b	18mos	Bcl6tg/+	9_NKT	1.23683897646518
+211b	18mos	Bcl6tg/+	7_Follicular Tregs	NA
+211b	18mos	Bcl6tg/+	10_Effector Tregs	1.79175946922805
+211b	18mos	Bcl6tg/+	17_Cycling	0.562335144618808
+211b	18mos	Bcl6tg/+	11_Cycling Tregs	1.242453324894
+211b	18mos	Bcl6tg/+	4b_Naïve	0
+211b	18mos	Bcl6tg/+	12_Cycling	NA
+211b	18mos	Bcl6tg/+	24_Cycling Tregs	NA
+262b	18mos	Bcl6tg/+	9_NKT	1.6094379124341
+262b	18mos	Bcl6tg/+	4a_Exhausted CTLs	2.61563057702755
+262b	18mos	Bcl6tg/+	1_Exhausted CTLs	4.28927953822863
+262b	18mos	Bcl6tg/+	8_Other	1.38629436111989
+262b	18mos	Bcl6tg/+	2_Th1/EM	2.484906649788
+262b	18mos	Bcl6tg/+	3_Effector Tregs	2.36938211969468
+262b	18mos	Bcl6tg/+	6_Activated CTLs	2.54003630382098
+262b	18mos	Bcl6tg/+	12_Cycling	1.09861228866811
+262b	18mos	Bcl6tg/+	5_Tfh	2.36938211969468
+262b	18mos	Bcl6tg/+	17_Cycling	NA
+262b	18mos	Bcl6tg/+	13_Early activated CTLs	2.04319187054512
+262b	18mos	Bcl6tg/+	7_Follicular Tregs	NA
+262b	18mos	Bcl6tg/+	0_Naïve	2.56494935746154
+262b	18mos	Bcl6tg/+	10_Effector Tregs	1.38629436111989
+262b	18mos	Bcl6tg/+	15_IFN-stimulated	NA
+262b	18mos	Bcl6tg/+	11_Cycling Tregs	1.6094379124341
+262b	18mos	Bcl6tg/+	4b_Naïve	NA
+262b	18mos	Bcl6tg/+	24_Cycling Tregs	NA
+004	18mos	CD70-/-;Bcl6tg/+	0_Naïve	3.49650756146648
+004	18mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	2.44330567110891
+004	18mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.39526007222101
+004	18mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.74806734854609
+004	18mos	CD70-/-;Bcl6tg/+	2_Th1/EM	1.94591014905531
+004	18mos	CD70-/-;Bcl6tg/+	9_NKT	1.09861228866811
+004	18mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	2.4410152780267
+004	18mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.79175946922805
+004	18mos	CD70-/-;Bcl6tg/+	12_Cycling	1.79175946922805
+004	18mos	CD70-/-;Bcl6tg/+	8_Other	NA
+004	18mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.79175946922805
+004	18mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.38629436111989
+004	18mos	CD70-/-;Bcl6tg/+	5_Tfh	1.38629436111989
+004	18mos	CD70-/-;Bcl6tg/+	17_Cycling	1.09861228866811
+004	18mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+004	18mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+004	18mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA
+004	18mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.38629436111989
+084	18mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.6094379124341
+084	18mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	2.73999740657814
+084	18mos	CD70-/-;Bcl6tg/+	8_Other	1.09861228866811
+084	18mos	CD70-/-;Bcl6tg/+	0_Naïve	2.94443897916644
+084	18mos	CD70-/-;Bcl6tg/+	2_Th1/EM	3.27168932232303
+084	18mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	2.857102837442
+084	18mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.09861228866811
+084	18mos	CD70-/-;Bcl6tg/+	5_Tfh	2.857102837442
+084	18mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	1.83102048111352
+084	18mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.47507631105469
+084	18mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.09861228866811
+084	18mos	CD70-/-;Bcl6tg/+	17_Cycling	1.09861228866811
+084	18mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.94591014905531
+084	18mos	CD70-/-;Bcl6tg/+	9_NKT	1.6094379124341
+084	18mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.33217904021012
+084	18mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	NA
+084	18mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+084	18mos	CD70-/-;Bcl6tg/+	12_Cycling	NA
+059	18mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.09786541440998
+059	18mos	CD70-/-;Bcl6tg/+	5_Tfh	NA
+059	18mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	0
+059	18mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	0.609627423596098
+059	18mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	NA
+059	18mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+059	18mos	CD70-/-;Bcl6tg/+	8_Other	NA
+059	18mos	CD70-/-;Bcl6tg/+	0_Naïve	2.07944154167984
+059	18mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.49417513828931
+059	18mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	0.380506218477596
+059	18mos	CD70-/-;Bcl6tg/+	17_Cycling	0.450561208866305
+059	18mos	CD70-/-;Bcl6tg/+	2_Th1/EM	1.38629436111989
+059	18mos	CD70-/-;Bcl6tg/+	12_Cycling	0.89794572485678
+059	18mos	CD70-/-;Bcl6tg/+	9_NKT	NA
+059	18mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.03972077083992
+059	18mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.38629436111989
+059	18mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+059	18mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+086	18mos	CD70-/-;Bcl6tg/+	9_NKT	2.19722457733622
+086	18mos	CD70-/-;Bcl6tg/+	0_Naïve	1.79175946922805
+086	18mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	2.39789527279837
+086	18mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	NA
+086	18mos	CD70-/-;Bcl6tg/+	2_Th1/EM	2.54003630382098
+086	18mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	1.79175946922805
+086	18mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+086	18mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	NA
+086	18mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.6094379124341
+086	18mos	CD70-/-;Bcl6tg/+	5_Tfh	1.94591014905531
+086	18mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.94591014905531
+086	18mos	CD70-/-;Bcl6tg/+	8_Other	NA
+086	18mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	NA
+086	18mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.6094379124341
+086	18mos	CD70-/-;Bcl6tg/+	17_Cycling	NA
+086	18mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+086	18mos	CD70-/-;Bcl6tg/+	12_Cycling	NA
+086	18mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+056	18mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	2.09472904752765
+056	18mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	1.04138000510499
+056	18mos	CD70-/-;Bcl6tg/+	12_Cycling	1.09861228866811
+056	18mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+056	18mos	CD70-/-;Bcl6tg/+	2_Th1/EM	2.857102837442
+056	18mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	0.535961049709069
+056	18mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.09861228866811
+056	18mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	1.38629436111989
+056	18mos	CD70-/-;Bcl6tg/+	0_Naïve	2.30258509299405
+056	18mos	CD70-/-;Bcl6tg/+	9_NKT	1.09861228866811
+056	18mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.01140426470735
+056	18mos	CD70-/-;Bcl6tg/+	17_Cycling	1.33217904021012
+056	18mos	CD70-/-;Bcl6tg/+	8_Other	NA
+056	18mos	CD70-/-;Bcl6tg/+	5_Tfh	1.09861228866811
+056	18mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.09861228866811
+056	18mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA
+056	18mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+058	18mos	CD70-/-;Bcl6tg/+	2_Th1/EM	2.91010296133889
+058	18mos	CD70-/-;Bcl6tg/+	5_Tfh	2.75166661693152
+058	18mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	2.83113855349949
+058	18mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.22752941145721
+058	18mos	CD70-/-;Bcl6tg/+	0_Naïve	2.89037175789616
+058	18mos	CD70-/-;Bcl6tg/+	9_NKT	1.79175946922805
+058	18mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.73286795139986
+058	18mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	2.31142344469197
+058	18mos	CD70-/-;Bcl6tg/+	8_Other	1.09861228866811
+058	18mos	CD70-/-;Bcl6tg/+	12_Cycling	1.6094379124341
+058	18mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+058	18mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.6094379124341
+058	18mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	NA
+058	18mos	CD70-/-;Bcl6tg/+	4b_Naïve	1.09861228866811
+058	18mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.33217904021012
+058	18mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	1.94591014905531
+058	18mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+058	18mos	CD70-/-;Bcl6tg/+	17_Cycling	1.09861228866811
+012	sick	CD70-/-	5_Tfh	2.27830252503913
+012	sick	CD70-/-	2_Th1/EM	3.36729582998647
+012	sick	CD70-/-	1_Exhausted CTLs	2.04319187054512
+012	sick	CD70-/-	13_Early activated CTLs	1.6094379124341
+012	sick	CD70-/-	15_IFN-stimulated	1.6094379124341
+012	sick	CD70-/-	6_Activated CTLs	1.6094379124341
+012	sick	CD70-/-	17_Cycling	NA
+012	sick	CD70-/-	0_Naïve	2.89037175789616
+012	sick	CD70-/-	3_Effector Tregs	2.19722457733622
+012	sick	CD70-/-	4b_Naïve	NA
+012	sick	CD70-/-	12_Cycling	NA
+012	sick	CD70-/-	10_Effector Tregs	1.6094379124341
+012	sick	CD70-/-	11_Cycling Tregs	1.6094379124341
+012	sick	CD70-/-	9_NKT	1.6094379124341
+012	sick	CD70-/-	4a_Exhausted CTLs	1.09861228866811
+012	sick	CD70-/-	7_Follicular Tregs	1.56071040904141
+012	sick	CD70-/-	8_Other	NA
+012	sick	CD70-/-	24_Cycling Tregs	NA
+288	sick	CD70-/-	3_Effector Tregs	3.41248972139861
+288	sick	CD70-/-	1_Exhausted CTLs	3.98134649597613
+288	sick	CD70-/-	17_Cycling	1.94591014905531
+288	sick	CD70-/-	10_Effector Tregs	2.07944154167984
+288	sick	CD70-/-	15_IFN-stimulated	NA
+288	sick	CD70-/-	5_Tfh	3.15145851024303
+288	sick	CD70-/-	4a_Exhausted CTLs	NA
+288	sick	CD70-/-	8_Other	1.38629436111989
+288	sick	CD70-/-	2_Th1/EM	2.61563057702755
+288	sick	CD70-/-	0_Naïve	2.19722457733622
+288	sick	CD70-/-	7_Follicular Tregs	2.73633905110507
+288	sick	CD70-/-	6_Activated CTLs	2.87147611805487
+288	sick	CD70-/-	9_NKT	2.19722457733622
+288	sick	CD70-/-	11_Cycling Tregs	2.30258509299405
+288	sick	CD70-/-	24_Cycling Tregs	2.19722457733622
+288	sick	CD70-/-	12_Cycling	2.30258509299405
+288	sick	CD70-/-	13_Early activated CTLs	2.63905732961526
+288	sick	CD70-/-	4b_Naïve	NA
+177	sick	Bcl6tg/+	7_Follicular Tregs	0.124250837389631
+177	sick	Bcl6tg/+	1_Exhausted CTLs	2.87821830667085
+177	sick	Bcl6tg/+	24_Cycling Tregs	1.01140426470735
+177	sick	Bcl6tg/+	0_Naïve	1.38629436111989
+177	sick	Bcl6tg/+	11_Cycling Tregs	0.950270539233235
+177	sick	Bcl6tg/+	3_Effector Tregs	1.09861228866811
+177	sick	Bcl6tg/+	12_Cycling	1.31143133747324
+177	sick	Bcl6tg/+	10_Effector Tregs	NA
+177	sick	Bcl6tg/+	17_Cycling	1.2130075659799
+177	sick	Bcl6tg/+	8_Other	NA
+177	sick	Bcl6tg/+	5_Tfh	0
+177	sick	Bcl6tg/+	4a_Exhausted CTLs	1.09861228866811
+177	sick	Bcl6tg/+	6_Activated CTLs	NA
+177	sick	Bcl6tg/+	9_NKT	NA
+177	sick	Bcl6tg/+	15_IFN-stimulated	NA
+177	sick	Bcl6tg/+	13_Early activated CTLs	NA
+177	sick	Bcl6tg/+	2_Th1/EM	NA
+177	sick	Bcl6tg/+	4b_Naïve	NA
+195	sick	Bcl6tg/+	4a_Exhausted CTLs	1.09861228866811
+195	sick	Bcl6tg/+	8_Other	NA
+195	sick	Bcl6tg/+	13_Early activated CTLs	1.03972077083992
+195	sick	Bcl6tg/+	6_Activated CTLs	NA
+195	sick	Bcl6tg/+	1_Exhausted CTLs	1.8778155616484
+195	sick	Bcl6tg/+	17_Cycling	1.09861228866811
+195	sick	Bcl6tg/+	9_NKT	NA
+195	sick	Bcl6tg/+	24_Cycling Tregs	1.242453324894
+195	sick	Bcl6tg/+	3_Effector Tregs	NA
+195	sick	Bcl6tg/+	2_Th1/EM	NA
+195	sick	Bcl6tg/+	12_Cycling	1.07354284640852
+195	sick	Bcl6tg/+	5_Tfh	NA
+195	sick	Bcl6tg/+	11_Cycling Tregs	NA
+195	sick	Bcl6tg/+	10_Effector Tregs	NA
+195	sick	Bcl6tg/+	0_Naïve	NA
+195	sick	Bcl6tg/+	15_IFN-stimulated	NA
+026	sick	CD70-/-;Bcl6tg/+	12_Cycling	0.339375449052699
+026	sick	CD70-/-;Bcl6tg/+	17_Cycling	0.355839376737521
+026	sick	CD70-/-;Bcl6tg/+	24_Cycling Tregs	0.127783368877168
+026	sick	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	1.79175946922805
+026	sick	CD70-/-;Bcl6tg/+	0_Naïve	0
+026	sick	CD70-/-;Bcl6tg/+	11_Cycling Tregs	0.0513965054820118
+026	sick	CD70-/-;Bcl6tg/+	3_Effector Tregs	0
+026	sick	CD70-/-;Bcl6tg/+	13_Early activated CTLs	0
+026	sick	CD70-/-;Bcl6tg/+	8_Other	NA
+026	sick	CD70-/-;Bcl6tg/+	9_NKT	0.654255257862992
+026	sick	CD70-/-;Bcl6tg/+	7_Follicular Tregs	0.434944202258259
+026	sick	CD70-/-;Bcl6tg/+	5_Tfh	0
+026	sick	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+026	sick	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	NA
+026	sick	CD70-/-;Bcl6tg/+	2_Th1/EM	NA
+026	sick	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+026	sick	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+179	sick	CD70-/-;Bcl6tg/+	5_Tfh	NA
+179	sick	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	NA
+179	sick	CD70-/-;Bcl6tg/+	2_Th1/EM	1.09861228866811
+179	sick	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+179	sick	CD70-/-;Bcl6tg/+	11_Cycling Tregs	NA
+179	sick	CD70-/-;Bcl6tg/+	12_Cycling	NA
+179	sick	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	1.09861228866811
+179	sick	CD70-/-;Bcl6tg/+	8_Other	NA
+179	sick	CD70-/-;Bcl6tg/+	3_Effector Tregs	NA
+179	sick	CD70-/-;Bcl6tg/+	6_Activated CTLs	NA
+179	sick	CD70-/-;Bcl6tg/+	17_Cycling	NA
+179	sick	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+179	sick	CD70-/-;Bcl6tg/+	9_NKT	NA
+179	sick	CD70-/-;Bcl6tg/+	13_Early activated CTLs	NA
+179	sick	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+179	sick	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA
+179	sick	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+121	sick	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.01529036232403
+121	sick	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.56071040904141
+121	sick	CD70-/-;Bcl6tg/+	5_Tfh	0.636514168294813
+121	sick	CD70-/-;Bcl6tg/+	2_Th1/EM	NA
+121	sick	CD70-/-;Bcl6tg/+	17_Cycling	NA
+121	sick	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.90615474653985
+121	sick	CD70-/-;Bcl6tg/+	3_Effector Tregs	NA
+121	sick	CD70-/-;Bcl6tg/+	0_Naïve	1.38629436111989
+121	sick	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.09861228866811
+121	sick	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+121	sick	CD70-/-;Bcl6tg/+	24_Cycling Tregs	2.19722457733622
+121	sick	CD70-/-;Bcl6tg/+	8_Other	NA
+121	sick	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+121	sick	CD70-/-;Bcl6tg/+	11_Cycling Tregs	NA
+121	sick	CD70-/-;Bcl6tg/+	9_NKT	NA
+121	sick	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+121	sick	CD70-/-;Bcl6tg/+	12_Cycling	1.94591014905531
+062	sick	CD70-/-;Bcl6tg/+	0_Naïve	2.81520492661995
+062	sick	CD70-/-;Bcl6tg/+	5_Tfh	NA
+062	sick	CD70-/-;Bcl6tg/+	13_Early activated CTLs	2.02532622077007
+062	sick	CD70-/-;Bcl6tg/+	17_Cycling	1.6094379124341
+062	sick	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.7957184573645
+062	sick	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.83102048111352
+062	sick	CD70-/-;Bcl6tg/+	3_Effector Tregs	0
+062	sick	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.66633258532833
+062	sick	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+062	sick	CD70-/-;Bcl6tg/+	9_NKT	1.03972077083992
+062	sick	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.09861228866811
+062	sick	CD70-/-;Bcl6tg/+	12_Cycling	2.46657714360494
+062	sick	CD70-/-;Bcl6tg/+	8_Other	1.6094379124341
+062	sick	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA
+062	sick	CD70-/-;Bcl6tg/+	2_Th1/EM	1.6094379124341
+062	sick	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.56071040904141
+062	sick	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+062	sick	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+191	18mos	Bcl6tg/+	0_Naïve	0.218980718777015
+191	18mos	Bcl6tg/+	1_Exhausted CTLs	0.222671699821995
+191	18mos	Bcl6tg/+	4a_Exhausted CTLs	0.0895780266675439
+191	18mos	Bcl6tg/+	5_Tfh	1.6094379124341
+191	18mos	Bcl6tg/+	8_Other	0.214559155176405
+191	18mos	Bcl6tg/+	11_Cycling Tregs	0.636514168294813
+191	18mos	Bcl6tg/+	24_Cycling Tregs	0.191444081957717
+191	18mos	Bcl6tg/+	10_Effector Tregs	1.03972077083992
+191	18mos	Bcl6tg/+	17_Cycling	0.325082973391448
+191	18mos	Bcl6tg/+	3_Effector Tregs	0.858217581050914
+191	18mos	Bcl6tg/+	6_Activated CTLs	0.306829153440971
+191	18mos	Bcl6tg/+	7_Follicular Tregs	0.450561208866305
+191	18mos	Bcl6tg/+	12_Cycling	0.495359881747461
+191	18mos	Bcl6tg/+	2_Th1/EM	0.126930545341402
+191	18mos	Bcl6tg/+	13_Early activated CTLs	0.104732439105087
+191	18mos	Bcl6tg/+	15_IFN-stimulated	0.286835983056161
+191	18mos	Bcl6tg/+	9_NKT	0.837771612639852
+191	18mos	Bcl6tg/+	4b_Naïve	NA
+254	18mos	Bcl6tg/+	2_Th1/EM	2.19722457733622
+254	18mos	Bcl6tg/+	1_Exhausted CTLs	1.7483902410697
+254	18mos	Bcl6tg/+	3_Effector Tregs	2.30348849521927
+254	18mos	Bcl6tg/+	4a_Exhausted CTLs	1.09861228866811
+254	18mos	Bcl6tg/+	6_Activated CTLs	1.79175946922805
+254	18mos	Bcl6tg/+	10_Effector Tregs	1.09861228866811
+254	18mos	Bcl6tg/+	8_Other	NA
+254	18mos	Bcl6tg/+	17_Cycling	1.38629436111989
+254	18mos	Bcl6tg/+	24_Cycling Tregs	1.38629436111989
+254	18mos	Bcl6tg/+	7_Follicular Tregs	NA
+254	18mos	Bcl6tg/+	11_Cycling Tregs	1.56071040904141
+254	18mos	Bcl6tg/+	5_Tfh	2.07944154167984
+254	18mos	Bcl6tg/+	13_Early activated CTLs	1.09861228866811
+254	18mos	Bcl6tg/+	15_IFN-stimulated	1.89378823239114
+254	18mos	Bcl6tg/+	12_Cycling	NA
+254	18mos	Bcl6tg/+	0_Naïve	1.6094379124341
+254	18mos	Bcl6tg/+	4b_Naïve	NA
+254	18mos	Bcl6tg/+	9_NKT	1.38629436111989
+109	18mos	CD70-/-;Bcl6tg/+	8_Other	0
+109	18mos	CD70-/-;Bcl6tg/+	11_Cycling Tregs	0.500402423538188
+109	18mos	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	0.586659063875528
+109	18mos	CD70-/-;Bcl6tg/+	5_Tfh	1.09861228866811
+109	18mos	CD70-/-;Bcl6tg/+	0_Naïve	0.822265337328788
+109	18mos	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	0.562335144618808
+109	18mos	CD70-/-;Bcl6tg/+	3_Effector Tregs	NA
+109	18mos	CD70-/-;Bcl6tg/+	6_Activated CTLs	0.823959216501082
+109	18mos	CD70-/-;Bcl6tg/+	12_Cycling	0.600166073159646
+109	18mos	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+109	18mos	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+109	18mos	CD70-/-;Bcl6tg/+	17_Cycling	0
+109	18mos	CD70-/-;Bcl6tg/+	13_Early activated CTLs	0.535961049709069
+109	18mos	CD70-/-;Bcl6tg/+	2_Th1/EM	0.450561208866305
+109	18mos	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+109	18mos	CD70-/-;Bcl6tg/+	9_NKT	0.636514168294813
+109	18mos	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA
+109	18mos	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+192	sick	Bcl6tg/+	3_Effector Tregs	0
+192	sick	Bcl6tg/+	17_Cycling	0.562335144618808
+192	sick	Bcl6tg/+	10_Effector Tregs	NA
+192	sick	Bcl6tg/+	7_Follicular Tregs	0.139060798454741
+192	sick	Bcl6tg/+	24_Cycling Tregs	0
+192	sick	Bcl6tg/+	0_Naïve	0
+192	sick	Bcl6tg/+	8_Other	NA
+192	sick	Bcl6tg/+	5_Tfh	0.173205206749177
+192	sick	Bcl6tg/+	11_Cycling Tregs	0.683738905848754
+192	sick	Bcl6tg/+	1_Exhausted CTLs	1.53414146394837
+192	sick	Bcl6tg/+	2_Th1/EM	NA
+192	sick	Bcl6tg/+	12_Cycling	0
+192	sick	Bcl6tg/+	6_Activated CTLs	NA
+192	sick	Bcl6tg/+	15_IFN-stimulated	NA
+192	sick	Bcl6tg/+	13_Early activated CTLs	0.562335144618808
+192	sick	Bcl6tg/+	4a_Exhausted CTLs	0.562335144618808
+192	sick	Bcl6tg/+	9_NKT	NA
+192	sick	Bcl6tg/+	4b_Naïve	NA
+184	sick	Bcl6tg/+	12_Cycling	0.485094091302212
+184	sick	Bcl6tg/+	1_Exhausted CTLs	NA
+184	sick	Bcl6tg/+	0_Naïve	0
+184	sick	Bcl6tg/+	3_Effector Tregs	0.34656131202106
+184	sick	Bcl6tg/+	24_Cycling Tregs	0.325082973391448
+184	sick	Bcl6tg/+	7_Follicular Tregs	0.208981746654236
+184	sick	Bcl6tg/+	15_IFN-stimulated	NA
+184	sick	Bcl6tg/+	11_Cycling Tregs	0
+184	sick	Bcl6tg/+	13_Early activated CTLs	0
+184	sick	Bcl6tg/+	8_Other	NA
+184	sick	Bcl6tg/+	2_Th1/EM	0
+184	sick	Bcl6tg/+	10_Effector Tregs	0.376770161256437
+184	sick	Bcl6tg/+	5_Tfh	0
+184	sick	Bcl6tg/+	17_Cycling	0.271189373041844
+184	sick	Bcl6tg/+	6_Activated CTLs	NA
+184	sick	Bcl6tg/+	4a_Exhausted CTLs	NA
+184	sick	Bcl6tg/+	4b_Naïve	NA
+184	sick	Bcl6tg/+	9_NKT	NA
+256	sick	Bcl6tg/+	6_Activated CTLs	1.94591014905531
+256	sick	Bcl6tg/+	15_IFN-stimulated	1.79175946922805
+256	sick	Bcl6tg/+	5_Tfh	2.16395565688206
+256	sick	Bcl6tg/+	1_Exhausted CTLs	3.07623382097034
+256	sick	Bcl6tg/+	2_Th1/EM	3.45345973770266
+256	sick	Bcl6tg/+	0_Naïve	2.39789527279837
+256	sick	Bcl6tg/+	3_Effector Tregs	2.19722457733622
+256	sick	Bcl6tg/+	4b_Naïve	1.09861228866811
+256	sick	Bcl6tg/+	7_Follicular Tregs	1.09861228866811
+256	sick	Bcl6tg/+	13_Early activated CTLs	1.94591014905531
+256	sick	Bcl6tg/+	4a_Exhausted CTLs	1.38629436111989
+256	sick	Bcl6tg/+	10_Effector Tregs	1.6094379124341
+256	sick	Bcl6tg/+	9_NKT	2.63905732961526
+256	sick	Bcl6tg/+	17_Cycling	NA
+256	sick	Bcl6tg/+	8_Other	NA
+256	sick	Bcl6tg/+	11_Cycling Tregs	NA
+256	sick	Bcl6tg/+	12_Cycling	NA
+256	sick	Bcl6tg/+	24_Cycling Tregs	NA
+200	sick	Bcl6tg/+	7_Follicular Tregs	0.261252680278326
+200	sick	Bcl6tg/+	5_Tfh	0.156210171061883
+200	sick	Bcl6tg/+	3_Effector Tregs	0.256503655095859
+200	sick	Bcl6tg/+	2_Th1/EM	0.178844912716848
+200	sick	Bcl6tg/+	12_Cycling	0.53770913012723
+200	sick	Bcl6tg/+	1_Exhausted CTLs	2.95433103627192
+200	sick	Bcl6tg/+	15_IFN-stimulated	0.314492201281411
+200	sick	Bcl6tg/+	17_Cycling	0.237819011056921
+200	sick	Bcl6tg/+	24_Cycling Tregs	0.524448027357857
+200	sick	Bcl6tg/+	4b_Naïve	NA
+200	sick	Bcl6tg/+	4a_Exhausted CTLs	NA
+200	sick	Bcl6tg/+	10_Effector Tregs	0.392674467227552
+200	sick	Bcl6tg/+	11_Cycling Tregs	0.571858962386613
+200	sick	Bcl6tg/+	0_Naïve	0
+200	sick	Bcl6tg/+	8_Other	NA
+200	sick	Bcl6tg/+	13_Early activated CTLs	0.735621939758795
+200	sick	Bcl6tg/+	9_NKT	1.09861228866811
+200	sick	Bcl6tg/+	6_Activated CTLs	NA
+021	sick	CD70-/-;Bcl6tg/+	8_Other	NA
+021	sick	CD70-/-;Bcl6tg/+	11_Cycling Tregs	0.636514168294813
+021	sick	CD70-/-;Bcl6tg/+	17_Cycling	NA
+021	sick	CD70-/-;Bcl6tg/+	12_Cycling	NA
+021	sick	CD70-/-;Bcl6tg/+	9_NKT	NA
+021	sick	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	1.55856176350552
+021	sick	CD70-/-;Bcl6tg/+	2_Th1/EM	0.636514168294813
+021	sick	CD70-/-;Bcl6tg/+	3_Effector Tregs	NA
+021	sick	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+021	sick	CD70-/-;Bcl6tg/+	24_Cycling Tregs	1.09861228866811
+021	sick	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	0.636514168294813
+021	sick	CD70-/-;Bcl6tg/+	0_Naïve	NA
+021	sick	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA
+021	sick	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+021	sick	CD70-/-;Bcl6tg/+	6_Activated CTLs	NA
+021	sick	CD70-/-;Bcl6tg/+	13_Early activated CTLs	NA
+021	sick	CD70-/-;Bcl6tg/+	5_Tfh	NA
+107	sick	CD70-/-;Bcl6tg/+	12_Cycling	2.07944154167984
+107	sick	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.56071040904141
+107	sick	CD70-/-;Bcl6tg/+	8_Other	1.03972077083992
+107	sick	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	3.29982968566709
+107	sick	CD70-/-;Bcl6tg/+	15_IFN-stimulated	1.38629436111989
+107	sick	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.6094379124341
+107	sick	CD70-/-;Bcl6tg/+	17_Cycling	1.09861228866811
+107	sick	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.6094379124341
+107	sick	CD70-/-;Bcl6tg/+	7_Follicular Tregs	1.09861228866811
+107	sick	CD70-/-;Bcl6tg/+	0_Naïve	1.94591014905531
+107	sick	CD70-/-;Bcl6tg/+	9_NKT	NA
+107	sick	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+107	sick	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.6094379124341
+107	sick	CD70-/-;Bcl6tg/+	5_Tfh	NA
+107	sick	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.94591014905531
+107	sick	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+107	sick	CD70-/-;Bcl6tg/+	2_Th1/EM	NA
+107	sick	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+041	sick	CD70-/-;Bcl6tg/+	3_Effector Tregs	0.135793958751594
+041	sick	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	0.659872013784827
+041	sick	CD70-/-;Bcl6tg/+	8_Other	0.636514168294813
+041	sick	CD70-/-;Bcl6tg/+	7_Follicular Tregs	0
+041	sick	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	0.697928647078405
+041	sick	CD70-/-;Bcl6tg/+	2_Th1/EM	1.242453324894
+041	sick	CD70-/-;Bcl6tg/+	0_Naïve	2.13839724634772
+041	sick	CD70-/-;Bcl6tg/+	17_Cycling	0.500402423538188
+041	sick	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.22752941145721
+041	sick	CD70-/-;Bcl6tg/+	10_Effector Tregs	0.376770161256437
+041	sick	CD70-/-;Bcl6tg/+	9_NKT	1.6094379124341
+041	sick	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.23426786607908
+041	sick	CD70-/-;Bcl6tg/+	24_Cycling Tregs	0.661563238157982
+041	sick	CD70-/-;Bcl6tg/+	5_Tfh	1.32966134885476
+041	sick	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.2130075659799
+041	sick	CD70-/-;Bcl6tg/+	12_Cycling	1.49417513828931
+041	sick	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+116	sick	CD70-/-;Bcl6tg/+	11_Cycling Tregs	1.38629436111989
+116	sick	CD70-/-;Bcl6tg/+	3_Effector Tregs	1.6094379124341
+116	sick	CD70-/-;Bcl6tg/+	17_Cycling	1.38629436111989
+116	sick	CD70-/-;Bcl6tg/+	2_Th1/EM	1.38629436111989
+116	sick	CD70-/-;Bcl6tg/+	10_Effector Tregs	NA
+116	sick	CD70-/-;Bcl6tg/+	4a_Exhausted CTLs	1.47080847632211
+116	sick	CD70-/-;Bcl6tg/+	8_Other	NA
+116	sick	CD70-/-;Bcl6tg/+	6_Activated CTLs	1.09861228866811
+116	sick	CD70-/-;Bcl6tg/+	1_Exhausted CTLs	2.57786951865624
+116	sick	CD70-/-;Bcl6tg/+	24_Cycling Tregs	NA
+116	sick	CD70-/-;Bcl6tg/+	12_Cycling	2.07944154167984
+116	sick	CD70-/-;Bcl6tg/+	0_Naïve	1.6094379124341
+116	sick	CD70-/-;Bcl6tg/+	5_Tfh	1.6094379124341
+116	sick	CD70-/-;Bcl6tg/+	9_NKT	0.636514168294813
+116	sick	CD70-/-;Bcl6tg/+	13_Early activated CTLs	1.6094379124341
+116	sick	CD70-/-;Bcl6tg/+	4b_Naïve	NA
+116	sick	CD70-/-;Bcl6tg/+	15_IFN-stimulated	NA
+116	sick	CD70-/-;Bcl6tg/+	7_Follicular Tregs	NA

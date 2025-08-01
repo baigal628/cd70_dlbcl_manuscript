@@ -1,0 +1,2397 @@
+sample_id	age	genotype	new_annotation	richness
+234	6mos	WT	1_Marginal Zone	95
+234	6mos	WT	20_Ig-restricted	28
+234	6mos	WT	6_Follicular	44
+234	6mos	WT	12_Follicular	46
+234	6mos	WT	11_Follicular	44
+234	6mos	WT	10_Follicular IFN-stimulated	62
+234	6mos	WT	9_Follicular Hspa1+	33
+234	6mos	WT	4_Atypical CD21-CD23-	36
+234	6mos	WT	16_Other	6
+234	6mos	WT	0_Follicular	253
+234	6mos	WT	3_Atypical CD21lowCD23low	55
+234	6mos	WT	2_Transitional (T2)	128
+234	6mos	WT	8_Age-associated/autoimmune	21
+234	6mos	WT	7_Age-associated/autoimmune	24
+234	6mos	WT	17_Ig-restricted	16
+234	6mos	WT	24_Follicular	19
+234	6mos	WT	13_Follicular	20
+234	6mos	WT	5_Atypical Marginal Zone	32
+234	6mos	WT	27_Light Zone	10
+234	6mos	WT	14_Follicular Serpina3+	14
+234	6mos	WT	18_Cycling MHCII low	8
+234	6mos	WT	23_Ig-restricted	8
+234	6mos	WT	19_Cycling MHCII low	8
+234	6mos	WT	21_Cycling MHCII low	5
+234	6mos	WT	25_Ig-restricted	8
+234	6mos	WT	15_Plasmablasts	25
+234	6mos	WT	22_Pre-plasmablasts	4
+257	6mos	WT	12_Follicular	30
+257	6mos	WT	0_Follicular	164
+257	6mos	WT	1_Marginal Zone	74
+257	6mos	WT	10_Follicular IFN-stimulated	20
+257	6mos	WT	20_Ig-restricted	27
+257	6mos	WT	8_Age-associated/autoimmune	18
+257	6mos	WT	2_Transitional (T2)	138
+257	6mos	WT	7_Age-associated/autoimmune	18
+257	6mos	WT	6_Follicular	36
+257	6mos	WT	24_Follicular	13
+257	6mos	WT	3_Atypical CD21lowCD23low	47
+257	6mos	WT	23_Ig-restricted	18
+257	6mos	WT	5_Atypical Marginal Zone	17
+257	6mos	WT	17_Ig-restricted	7
+257	6mos	WT	9_Follicular Hspa1+	54
+257	6mos	WT	11_Follicular	35
+257	6mos	WT	14_Follicular Serpina3+	8
+257	6mos	WT	4_Atypical CD21-CD23-	32
+257	6mos	WT	27_Light Zone	9
+257	6mos	WT	13_Follicular	18
+257	6mos	WT	18_Cycling MHCII low	9
+257	6mos	WT	25_Ig-restricted	3
+257	6mos	WT	15_Plasmablasts	11
+257	6mos	WT	19_Cycling MHCII low	NA
+257	6mos	WT	16_Other	4
+257	6mos	WT	22_Pre-plasmablasts	6
+257	6mos	WT	21_Cycling MHCII low	NA
+010	6mos	WT	2_Transitional (T2)	165
+010	6mos	WT	0_Follicular	241
+010	6mos	WT	1_Marginal Zone	99
+010	6mos	WT	10_Follicular IFN-stimulated	73
+010	6mos	WT	17_Ig-restricted	13
+010	6mos	WT	14_Follicular Serpina3+	12
+010	6mos	WT	27_Light Zone	15
+010	6mos	WT	20_Ig-restricted	29
+010	6mos	WT	6_Follicular	46
+010	6mos	WT	3_Atypical CD21lowCD23low	64
+010	6mos	WT	21_Cycling MHCII low	NA
+010	6mos	WT	12_Follicular	52
+010	6mos	WT	25_Ig-restricted	17
+010	6mos	WT	13_Follicular	15
+010	6mos	WT	11_Follicular	41
+010	6mos	WT	9_Follicular Hspa1+	61
+010	6mos	WT	7_Age-associated/autoimmune	18
+010	6mos	WT	4_Atypical CD21-CD23-	36
+010	6mos	WT	15_Plasmablasts	18
+010	6mos	WT	19_Cycling MHCII low	5
+010	6mos	WT	16_Other	4
+010	6mos	WT	23_Ig-restricted	12
+010	6mos	WT	5_Atypical Marginal Zone	28
+010	6mos	WT	18_Cycling MHCII low	7
+010	6mos	WT	24_Follicular	18
+010	6mos	WT	8_Age-associated/autoimmune	19
+010	6mos	WT	22_Pre-plasmablasts	3
+C	6mos	WT	9_Follicular Hspa1+	65
+C	6mos	WT	2_Transitional (T2)	77
+C	6mos	WT	0_Follicular	125
+C	6mos	WT	4_Atypical CD21-CD23-	19
+C	6mos	WT	20_Ig-restricted	14
+C	6mos	WT	1_Marginal Zone	43
+C	6mos	WT	3_Atypical CD21lowCD23low	33
+C	6mos	WT	10_Follicular IFN-stimulated	21
+C	6mos	WT	11_Follicular	34
+C	6mos	WT	6_Follicular	39
+C	6mos	WT	25_Ig-restricted	6
+C	6mos	WT	12_Follicular	23
+C	6mos	WT	13_Follicular	14
+C	6mos	WT	14_Follicular Serpina3+	7
+C	6mos	WT	8_Age-associated/autoimmune	6
+C	6mos	WT	24_Follicular	10
+C	6mos	WT	5_Atypical Marginal Zone	11
+C	6mos	WT	23_Ig-restricted	11
+C	6mos	WT	17_Ig-restricted	8
+C	6mos	WT	21_Cycling MHCII low	NA
+C	6mos	WT	27_Light Zone	5
+C	6mos	WT	15_Plasmablasts	8
+C	6mos	WT	16_Other	4
+C	6mos	WT	18_Cycling MHCII low	NA
+C	6mos	WT	7_Age-associated/autoimmune	10
+C	6mos	WT	19_Cycling MHCII low	NA
+D	6mos	WT	9_Follicular Hspa1+	41
+D	6mos	WT	0_Follicular	90
+D	6mos	WT	1_Marginal Zone	55
+D	6mos	WT	19_Cycling MHCII low	NA
+D	6mos	WT	13_Follicular	12
+D	6mos	WT	2_Transitional (T2)	31
+D	6mos	WT	14_Follicular Serpina3+	9
+D	6mos	WT	7_Age-associated/autoimmune	14
+D	6mos	WT	20_Ig-restricted	6
+D	6mos	WT	10_Follicular IFN-stimulated	23
+D	6mos	WT	12_Follicular	17
+D	6mos	WT	24_Follicular	8
+D	6mos	WT	6_Follicular	22
+D	6mos	WT	23_Ig-restricted	5
+D	6mos	WT	5_Atypical Marginal Zone	22
+D	6mos	WT	3_Atypical CD21lowCD23low	20
+D	6mos	WT	16_Other	3
+D	6mos	WT	17_Ig-restricted	7
+D	6mos	WT	4_Atypical CD21-CD23-	16
+D	6mos	WT	11_Follicular	24
+D	6mos	WT	21_Cycling MHCII low	NA
+D	6mos	WT	25_Ig-restricted	NA
+D	6mos	WT	27_Light Zone	NA
+D	6mos	WT	8_Age-associated/autoimmune	10
+D	6mos	WT	15_Plasmablasts	9
+D	6mos	WT	18_Cycling MHCII low	NA
+D	6mos	WT	22_Pre-plasmablasts	6
+262	6mos	WT	13_Follicular	5
+262	6mos	WT	20_Ig-restricted	6
+262	6mos	WT	3_Atypical CD21lowCD23low	19
+262	6mos	WT	1_Marginal Zone	44
+262	6mos	WT	0_Follicular	65
+262	6mos	WT	9_Follicular Hspa1+	12
+262	6mos	WT	5_Atypical Marginal Zone	24
+262	6mos	WT	8_Age-associated/autoimmune	10
+262	6mos	WT	11_Follicular	14
+262	6mos	WT	2_Transitional (T2)	20
+262	6mos	WT	24_Follicular	4
+262	6mos	WT	6_Follicular	17
+262	6mos	WT	4_Atypical CD21-CD23-	18
+262	6mos	WT	22_Pre-plasmablasts	3
+262	6mos	WT	10_Follicular IFN-stimulated	19
+262	6mos	WT	7_Age-associated/autoimmune	9
+262	6mos	WT	12_Follicular	12
+262	6mos	WT	17_Ig-restricted	5
+262	6mos	WT	27_Light Zone	5
+262	6mos	WT	25_Ig-restricted	NA
+262	6mos	WT	16_Other	NA
+262	6mos	WT	23_Ig-restricted	5
+262	6mos	WT	14_Follicular Serpina3+	5
+262	6mos	WT	19_Cycling MHCII low	3
+262	6mos	WT	21_Cycling MHCII low	NA
+262	6mos	WT	15_Plasmablasts	9
+262	6mos	WT	18_Cycling MHCII low	3
+137	6mos	CD70-/-	0_Follicular	73
+137	6mos	CD70-/-	1_Marginal Zone	90
+137	6mos	CD70-/-	17_Ig-restricted	6
+137	6mos	CD70-/-	6_Follicular	18
+137	6mos	CD70-/-	9_Follicular Hspa1+	33
+137	6mos	CD70-/-	5_Atypical Marginal Zone	12
+137	6mos	CD70-/-	2_Transitional (T2)	48
+137	6mos	CD70-/-	3_Atypical CD21lowCD23low	25
+137	6mos	CD70-/-	8_Age-associated/autoimmune	10
+137	6mos	CD70-/-	19_Cycling MHCII low	5
+137	6mos	CD70-/-	22_Pre-plasmablasts	11
+137	6mos	CD70-/-	13_Follicular	5
+137	6mos	CD70-/-	11_Follicular	23
+137	6mos	CD70-/-	7_Age-associated/autoimmune	23
+137	6mos	CD70-/-	27_Light Zone	4
+137	6mos	CD70-/-	21_Cycling MHCII low	4
+137	6mos	CD70-/-	4_Atypical CD21-CD23-	31
+137	6mos	CD70-/-	10_Follicular IFN-stimulated	18
+137	6mos	CD70-/-	12_Follicular	22
+137	6mos	CD70-/-	15_Plasmablasts	11
+137	6mos	CD70-/-	14_Follicular Serpina3+	9
+137	6mos	CD70-/-	16_Other	NA
+137	6mos	CD70-/-	20_Ig-restricted	6
+137	6mos	CD70-/-	24_Follicular	8
+137	6mos	CD70-/-	18_Cycling MHCII low	12
+137	6mos	CD70-/-	25_Ig-restricted	4
+137	6mos	CD70-/-	23_Ig-restricted	NA
+138	6mos	CD70-/-	8_Age-associated/autoimmune	10
+138	6mos	CD70-/-	0_Follicular	61
+138	6mos	CD70-/-	17_Ig-restricted	6
+138	6mos	CD70-/-	23_Ig-restricted	5
+138	6mos	CD70-/-	2_Transitional (T2)	33
+138	6mos	CD70-/-	6_Follicular	12
+138	6mos	CD70-/-	9_Follicular Hspa1+	27
+138	6mos	CD70-/-	11_Follicular	17
+138	6mos	CD70-/-	16_Other	3
+138	6mos	CD70-/-	5_Atypical Marginal Zone	24
+138	6mos	CD70-/-	4_Atypical CD21-CD23-	23
+138	6mos	CD70-/-	12_Follicular	13
+138	6mos	CD70-/-	13_Follicular	6
+138	6mos	CD70-/-	3_Atypical CD21lowCD23low	18
+138	6mos	CD70-/-	1_Marginal Zone	50
+138	6mos	CD70-/-	7_Age-associated/autoimmune	14
+138	6mos	CD70-/-	21_Cycling MHCII low	4
+138	6mos	CD70-/-	22_Pre-plasmablasts	11
+138	6mos	CD70-/-	10_Follicular IFN-stimulated	11
+138	6mos	CD70-/-	14_Follicular Serpina3+	8
+138	6mos	CD70-/-	20_Ig-restricted	8
+138	6mos	CD70-/-	19_Cycling MHCII low	NA
+138	6mos	CD70-/-	15_Plasmablasts	24
+138	6mos	CD70-/-	27_Light Zone	4
+138	6mos	CD70-/-	25_Ig-restricted	NA
+138	6mos	CD70-/-	18_Cycling MHCII low	NA
+138	6mos	CD70-/-	24_Follicular	3
+140	6mos	CD70-/-	9_Follicular Hspa1+	50
+140	6mos	CD70-/-	0_Follicular	155
+140	6mos	CD70-/-	12_Follicular	30
+140	6mos	CD70-/-	6_Follicular	28
+140	6mos	CD70-/-	19_Cycling MHCII low	4
+140	6mos	CD70-/-	3_Atypical CD21lowCD23low	40
+140	6mos	CD70-/-	1_Marginal Zone	104
+140	6mos	CD70-/-	16_Other	6
+140	6mos	CD70-/-	10_Follicular IFN-stimulated	29
+140	6mos	CD70-/-	4_Atypical CD21-CD23-	18
+140	6mos	CD70-/-	13_Follicular	14
+140	6mos	CD70-/-	11_Follicular	15
+140	6mos	CD70-/-	2_Transitional (T2)	103
+140	6mos	CD70-/-	5_Atypical Marginal Zone	25
+140	6mos	CD70-/-	23_Ig-restricted	16
+140	6mos	CD70-/-	8_Age-associated/autoimmune	12
+140	6mos	CD70-/-	21_Cycling MHCII low	3
+140	6mos	CD70-/-	20_Ig-restricted	18
+140	6mos	CD70-/-	18_Cycling MHCII low	8
+140	6mos	CD70-/-	17_Ig-restricted	9
+140	6mos	CD70-/-	24_Follicular	10
+140	6mos	CD70-/-	25_Ig-restricted	10
+140	6mos	CD70-/-	7_Age-associated/autoimmune	11
+140	6mos	CD70-/-	15_Plasmablasts	9
+140	6mos	CD70-/-	14_Follicular Serpina3+	5
+140	6mos	CD70-/-	22_Pre-plasmablasts	4
+140	6mos	CD70-/-	27_Light Zone	9
+141	6mos	CD70-/-	4_Atypical CD21-CD23-	41
+141	6mos	CD70-/-	0_Follicular	177
+141	6mos	CD70-/-	2_Transitional (T2)	75
+141	6mos	CD70-/-	1_Marginal Zone	84
+141	6mos	CD70-/-	13_Follicular	13
+141	6mos	CD70-/-	6_Follicular	42
+141	6mos	CD70-/-	9_Follicular Hspa1+	90
+141	6mos	CD70-/-	10_Follicular IFN-stimulated	35
+141	6mos	CD70-/-	19_Cycling MHCII low	4
+141	6mos	CD70-/-	3_Atypical CD21lowCD23low	41
+141	6mos	CD70-/-	5_Atypical Marginal Zone	37
+141	6mos	CD70-/-	17_Ig-restricted	11
+141	6mos	CD70-/-	12_Follicular	35
+141	6mos	CD70-/-	27_Light Zone	6
+141	6mos	CD70-/-	25_Ig-restricted	5
+141	6mos	CD70-/-	11_Follicular	29
+141	6mos	CD70-/-	24_Follicular	14
+141	6mos	CD70-/-	14_Follicular Serpina3+	8
+141	6mos	CD70-/-	7_Age-associated/autoimmune	20
+141	6mos	CD70-/-	22_Pre-plasmablasts	NA
+141	6mos	CD70-/-	16_Other	3
+141	6mos	CD70-/-	8_Age-associated/autoimmune	15
+141	6mos	CD70-/-	20_Ig-restricted	19
+141	6mos	CD70-/-	18_Cycling MHCII low	7
+141	6mos	CD70-/-	15_Plasmablasts	11
+141	6mos	CD70-/-	23_Ig-restricted	10
+141	6mos	CD70-/-	21_Cycling MHCII low	3
+110	6mos	CD70-/-	0_Follicular	171
+110	6mos	CD70-/-	9_Follicular Hspa1+	63
+110	6mos	CD70-/-	24_Follicular	8
+110	6mos	CD70-/-	11_Follicular	45
+110	6mos	CD70-/-	7_Age-associated/autoimmune	7
+110	6mos	CD70-/-	4_Atypical CD21-CD23-	29
+110	6mos	CD70-/-	8_Age-associated/autoimmune	9
+110	6mos	CD70-/-	10_Follicular IFN-stimulated	42
+110	6mos	CD70-/-	1_Marginal Zone	92
+110	6mos	CD70-/-	15_Plasmablasts	8
+110	6mos	CD70-/-	12_Follicular	25
+110	6mos	CD70-/-	20_Ig-restricted	28
+110	6mos	CD70-/-	23_Ig-restricted	15
+110	6mos	CD70-/-	2_Transitional (T2)	111
+110	6mos	CD70-/-	3_Atypical CD21lowCD23low	42
+110	6mos	CD70-/-	6_Follicular	21
+110	6mos	CD70-/-	25_Ig-restricted	9
+110	6mos	CD70-/-	16_Other	8
+110	6mos	CD70-/-	13_Follicular	10
+110	6mos	CD70-/-	5_Atypical Marginal Zone	25
+110	6mos	CD70-/-	14_Follicular Serpina3+	4
+110	6mos	CD70-/-	17_Ig-restricted	19
+110	6mos	CD70-/-	27_Light Zone	14
+110	6mos	CD70-/-	18_Cycling MHCII low	5
+110	6mos	CD70-/-	19_Cycling MHCII low	3
+110	6mos	CD70-/-	21_Cycling MHCII low	NA
+110	6mos	CD70-/-	22_Pre-plasmablasts	NA
+111	6mos	CD70-/-	0_Follicular	212
+111	6mos	CD70-/-	1_Marginal Zone	99
+111	6mos	CD70-/-	6_Follicular	44
+111	6mos	CD70-/-	2_Transitional (T2)	99
+111	6mos	CD70-/-	8_Age-associated/autoimmune	22
+111	6mos	CD70-/-	13_Follicular	16
+111	6mos	CD70-/-	11_Follicular	29
+111	6mos	CD70-/-	10_Follicular IFN-stimulated	27
+111	6mos	CD70-/-	4_Atypical CD21-CD23-	21
+111	6mos	CD70-/-	3_Atypical CD21lowCD23low	48
+111	6mos	CD70-/-	5_Atypical Marginal Zone	33
+111	6mos	CD70-/-	16_Other	NA
+111	6mos	CD70-/-	12_Follicular	32
+111	6mos	CD70-/-	25_Ig-restricted	8
+111	6mos	CD70-/-	23_Ig-restricted	12
+111	6mos	CD70-/-	15_Plasmablasts	30
+111	6mos	CD70-/-	27_Light Zone	5
+111	6mos	CD70-/-	14_Follicular Serpina3+	12
+111	6mos	CD70-/-	21_Cycling MHCII low	7
+111	6mos	CD70-/-	24_Follicular	16
+111	6mos	CD70-/-	17_Ig-restricted	8
+111	6mos	CD70-/-	20_Ig-restricted	22
+111	6mos	CD70-/-	18_Cycling MHCII low	7
+111	6mos	CD70-/-	7_Age-associated/autoimmune	22
+111	6mos	CD70-/-	9_Follicular Hspa1+	17
+111	6mos	CD70-/-	19_Cycling MHCII low	3
+111	6mos	CD70-/-	22_Pre-plasmablasts	3
+158	6mos	Bcl6tg/+	6_Follicular	59
+158	6mos	Bcl6tg/+	2_Transitional (T2)	131
+158	6mos	Bcl6tg/+	7_Age-associated/autoimmune	23
+158	6mos	Bcl6tg/+	9_Follicular Hspa1+	49
+158	6mos	Bcl6tg/+	0_Follicular	197
+158	6mos	Bcl6tg/+	27_Light Zone	13
+158	6mos	Bcl6tg/+	20_Ig-restricted	16
+158	6mos	Bcl6tg/+	4_Atypical CD21-CD23-	38
+158	6mos	Bcl6tg/+	23_Ig-restricted	20
+158	6mos	Bcl6tg/+	14_Follicular Serpina3+	10
+158	6mos	Bcl6tg/+	13_Follicular	11
+158	6mos	Bcl6tg/+	3_Atypical CD21lowCD23low	44
+158	6mos	Bcl6tg/+	10_Follicular IFN-stimulated	25
+158	6mos	Bcl6tg/+	12_Follicular	33
+158	6mos	Bcl6tg/+	11_Follicular	37
+158	6mos	Bcl6tg/+	17_Ig-restricted	16
+158	6mos	Bcl6tg/+	16_Other	8
+158	6mos	Bcl6tg/+	8_Age-associated/autoimmune	14
+158	6mos	Bcl6tg/+	19_Cycling MHCII low	5
+158	6mos	Bcl6tg/+	1_Marginal Zone	80
+158	6mos	Bcl6tg/+	22_Pre-plasmablasts	6
+158	6mos	Bcl6tg/+	24_Follicular	16
+158	6mos	Bcl6tg/+	18_Cycling MHCII low	4
+158	6mos	Bcl6tg/+	25_Ig-restricted	13
+158	6mos	Bcl6tg/+	5_Atypical Marginal Zone	16
+158	6mos	Bcl6tg/+	15_Plasmablasts	9
+159	6mos	Bcl6tg/+	1_Marginal Zone	92
+159	6mos	Bcl6tg/+	0_Follicular	226
+159	6mos	Bcl6tg/+	14_Follicular Serpina3+	8
+159	6mos	Bcl6tg/+	16_Other	5
+159	6mos	Bcl6tg/+	6_Follicular	42
+159	6mos	Bcl6tg/+	24_Follicular	10
+159	6mos	Bcl6tg/+	10_Follicular IFN-stimulated	32
+159	6mos	Bcl6tg/+	3_Atypical CD21lowCD23low	29
+159	6mos	Bcl6tg/+	11_Follicular	35
+159	6mos	Bcl6tg/+	12_Follicular	32
+159	6mos	Bcl6tg/+	17_Ig-restricted	13
+159	6mos	Bcl6tg/+	20_Ig-restricted	17
+159	6mos	Bcl6tg/+	25_Ig-restricted	5
+159	6mos	Bcl6tg/+	2_Transitional (T2)	103
+159	6mos	Bcl6tg/+	4_Atypical CD21-CD23-	22
+159	6mos	Bcl6tg/+	13_Follicular	15
+159	6mos	Bcl6tg/+	19_Cycling MHCII low	NA
+159	6mos	Bcl6tg/+	23_Ig-restricted	13
+159	6mos	Bcl6tg/+	18_Cycling MHCII low	4
+159	6mos	Bcl6tg/+	7_Age-associated/autoimmune	19
+159	6mos	Bcl6tg/+	5_Atypical Marginal Zone	20
+159	6mos	Bcl6tg/+	9_Follicular Hspa1+	33
+159	6mos	Bcl6tg/+	15_Plasmablasts	7
+159	6mos	Bcl6tg/+	8_Age-associated/autoimmune	10
+159	6mos	Bcl6tg/+	21_Cycling MHCII low	NA
+159	6mos	Bcl6tg/+	27_Light Zone	10
+159	6mos	Bcl6tg/+	22_Pre-plasmablasts	3
+160	6mos	Bcl6tg/+	12_Follicular	30
+160	6mos	Bcl6tg/+	23_Ig-restricted	16
+160	6mos	Bcl6tg/+	11_Follicular	32
+160	6mos	Bcl6tg/+	6_Follicular	49
+160	6mos	Bcl6tg/+	0_Follicular	152
+160	6mos	Bcl6tg/+	1_Marginal Zone	74
+160	6mos	Bcl6tg/+	8_Age-associated/autoimmune	21
+160	6mos	Bcl6tg/+	4_Atypical CD21-CD23-	31
+160	6mos	Bcl6tg/+	3_Atypical CD21lowCD23low	38
+160	6mos	Bcl6tg/+	10_Follicular IFN-stimulated	35
+160	6mos	Bcl6tg/+	14_Follicular Serpina3+	7
+160	6mos	Bcl6tg/+	9_Follicular Hspa1+	84
+160	6mos	Bcl6tg/+	20_Ig-restricted	27
+160	6mos	Bcl6tg/+	19_Cycling MHCII low	3
+160	6mos	Bcl6tg/+	5_Atypical Marginal Zone	28
+160	6mos	Bcl6tg/+	24_Follicular	9
+160	6mos	Bcl6tg/+	13_Follicular	9
+160	6mos	Bcl6tg/+	17_Ig-restricted	12
+160	6mos	Bcl6tg/+	27_Light Zone	7
+160	6mos	Bcl6tg/+	2_Transitional (T2)	126
+160	6mos	Bcl6tg/+	16_Other	3
+160	6mos	Bcl6tg/+	18_Cycling MHCII low	5
+160	6mos	Bcl6tg/+	7_Age-associated/autoimmune	18
+160	6mos	Bcl6tg/+	25_Ig-restricted	9
+160	6mos	Bcl6tg/+	21_Cycling MHCII low	NA
+160	6mos	Bcl6tg/+	22_Pre-plasmablasts	NA
+160	6mos	Bcl6tg/+	15_Plasmablasts	6
+161	6mos	Bcl6tg/+	2_Transitional (T2)	90
+161	6mos	Bcl6tg/+	14_Follicular Serpina3+	10
+161	6mos	Bcl6tg/+	1_Marginal Zone	79
+161	6mos	Bcl6tg/+	0_Follicular	114
+161	6mos	Bcl6tg/+	10_Follicular IFN-stimulated	36
+161	6mos	Bcl6tg/+	3_Atypical CD21lowCD23low	43
+161	6mos	Bcl6tg/+	12_Follicular	23
+161	6mos	Bcl6tg/+	5_Atypical Marginal Zone	26
+161	6mos	Bcl6tg/+	6_Follicular	24
+161	6mos	Bcl6tg/+	20_Ig-restricted	12
+161	6mos	Bcl6tg/+	11_Follicular	23
+161	6mos	Bcl6tg/+	8_Age-associated/autoimmune	14
+161	6mos	Bcl6tg/+	9_Follicular Hspa1+	30
+161	6mos	Bcl6tg/+	7_Age-associated/autoimmune	18
+161	6mos	Bcl6tg/+	4_Atypical CD21-CD23-	37
+161	6mos	Bcl6tg/+	23_Ig-restricted	6
+161	6mos	Bcl6tg/+	24_Follicular	10
+161	6mos	Bcl6tg/+	18_Cycling MHCII low	4
+161	6mos	Bcl6tg/+	27_Light Zone	6
+161	6mos	Bcl6tg/+	17_Ig-restricted	6
+161	6mos	Bcl6tg/+	15_Plasmablasts	8
+161	6mos	Bcl6tg/+	16_Other	4
+161	6mos	Bcl6tg/+	25_Ig-restricted	5
+161	6mos	Bcl6tg/+	19_Cycling MHCII low	8
+161	6mos	Bcl6tg/+	13_Follicular	11
+161	6mos	Bcl6tg/+	22_Pre-plasmablasts	NA
+161	6mos	Bcl6tg/+	21_Cycling MHCII low	NA
+032	6mos	Bcl6tg/+	22_Pre-plasmablasts	NA
+032	6mos	Bcl6tg/+	0_Follicular	252
+032	6mos	Bcl6tg/+	2_Transitional (T2)	121
+032	6mos	Bcl6tg/+	11_Follicular	53
+032	6mos	Bcl6tg/+	14_Follicular Serpina3+	11
+032	6mos	Bcl6tg/+	1_Marginal Zone	121
+032	6mos	Bcl6tg/+	6_Follicular	60
+032	6mos	Bcl6tg/+	10_Follicular IFN-stimulated	58
+032	6mos	Bcl6tg/+	20_Ig-restricted	29
+032	6mos	Bcl6tg/+	9_Follicular Hspa1+	25
+032	6mos	Bcl6tg/+	17_Ig-restricted	16
+032	6mos	Bcl6tg/+	8_Age-associated/autoimmune	14
+032	6mos	Bcl6tg/+	25_Ig-restricted	9
+032	6mos	Bcl6tg/+	27_Light Zone	7
+032	6mos	Bcl6tg/+	23_Ig-restricted	15
+032	6mos	Bcl6tg/+	12_Follicular	43
+032	6mos	Bcl6tg/+	5_Atypical Marginal Zone	30
+032	6mos	Bcl6tg/+	3_Atypical CD21lowCD23low	48
+032	6mos	Bcl6tg/+	16_Other	11
+032	6mos	Bcl6tg/+	4_Atypical CD21-CD23-	43
+032	6mos	Bcl6tg/+	24_Follicular	18
+032	6mos	Bcl6tg/+	13_Follicular	8
+032	6mos	Bcl6tg/+	7_Age-associated/autoimmune	27
+032	6mos	Bcl6tg/+	21_Cycling MHCII low	3
+032	6mos	Bcl6tg/+	15_Plasmablasts	9
+032	6mos	Bcl6tg/+	18_Cycling MHCII low	3
+032	6mos	Bcl6tg/+	19_Cycling MHCII low	4
+033	6mos	Bcl6tg/+	17_Ig-restricted	17
+033	6mos	Bcl6tg/+	0_Follicular	228
+033	6mos	Bcl6tg/+	1_Marginal Zone	89
+033	6mos	Bcl6tg/+	8_Age-associated/autoimmune	10
+033	6mos	Bcl6tg/+	11_Follicular	44
+033	6mos	Bcl6tg/+	3_Atypical CD21lowCD23low	44
+033	6mos	Bcl6tg/+	9_Follicular Hspa1+	48
+033	6mos	Bcl6tg/+	10_Follicular IFN-stimulated	29
+033	6mos	Bcl6tg/+	16_Other	7
+033	6mos	Bcl6tg/+	14_Follicular Serpina3+	6
+033	6mos	Bcl6tg/+	4_Atypical CD21-CD23-	34
+033	6mos	Bcl6tg/+	2_Transitional (T2)	107
+033	6mos	Bcl6tg/+	24_Follicular	8
+033	6mos	Bcl6tg/+	20_Ig-restricted	27
+033	6mos	Bcl6tg/+	12_Follicular	31
+033	6mos	Bcl6tg/+	6_Follicular	40
+033	6mos	Bcl6tg/+	23_Ig-restricted	17
+033	6mos	Bcl6tg/+	25_Ig-restricted	8
+033	6mos	Bcl6tg/+	13_Follicular	12
+033	6mos	Bcl6tg/+	19_Cycling MHCII low	5
+033	6mos	Bcl6tg/+	7_Age-associated/autoimmune	14
+033	6mos	Bcl6tg/+	27_Light Zone	9
+033	6mos	Bcl6tg/+	21_Cycling MHCII low	3
+033	6mos	Bcl6tg/+	5_Atypical Marginal Zone	15
+033	6mos	Bcl6tg/+	15_Plasmablasts	5
+033	6mos	Bcl6tg/+	18_Cycling MHCII low	5
+033	6mos	Bcl6tg/+	22_Pre-plasmablasts	3
+145	6mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	24
+145	6mos	CD70-/-;Bcl6tg/+	12_Follicular	19
+145	6mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	27
+145	6mos	CD70-/-;Bcl6tg/+	16_Other	3
+145	6mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	34
+145	6mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	50
+145	6mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	9
+145	6mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	16
+145	6mos	CD70-/-;Bcl6tg/+	0_Follicular	81
+145	6mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	19
+145	6mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	25
+145	6mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	28
+145	6mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	3
+145	6mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	41
+145	6mos	CD70-/-;Bcl6tg/+	24_Follicular	5
+145	6mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	5
+145	6mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	25
+145	6mos	CD70-/-;Bcl6tg/+	6_Follicular	20
+145	6mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	21
+145	6mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	9
+145	6mos	CD70-/-;Bcl6tg/+	13_Follicular	14
+145	6mos	CD70-/-;Bcl6tg/+	11_Follicular	17
+145	6mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	6
+145	6mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	17
+145	6mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	4
+145	6mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	6
+145	6mos	CD70-/-;Bcl6tg/+	27_Light Zone	3
+146	6mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	12
+146	6mos	CD70-/-;Bcl6tg/+	12_Follicular	29
+146	6mos	CD70-/-;Bcl6tg/+	0_Follicular	162
+146	6mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	38
+146	6mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	30
+146	6mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	83
+146	6mos	CD70-/-;Bcl6tg/+	6_Follicular	39
+146	6mos	CD70-/-;Bcl6tg/+	16_Other	4
+146	6mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	32
+146	6mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	29
+146	6mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	31
+146	6mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	41
+146	6mos	CD70-/-;Bcl6tg/+	13_Follicular	9
+146	6mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	40
+146	6mos	CD70-/-;Bcl6tg/+	11_Follicular	20
+146	6mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	10
+146	6mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	10
+146	6mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	14
+146	6mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	14
+146	6mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	4
+146	6mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	25
+146	6mos	CD70-/-;Bcl6tg/+	24_Follicular	8
+146	6mos	CD70-/-;Bcl6tg/+	27_Light Zone	4
+146	6mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	4
+146	6mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	6
+146	6mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	7
+146	6mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	4
+211	6mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	23
+211	6mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	3
+211	6mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	19
+211	6mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	20
+211	6mos	CD70-/-;Bcl6tg/+	6_Follicular	14
+211	6mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	4
+211	6mos	CD70-/-;Bcl6tg/+	0_Follicular	60
+211	6mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	63
+211	6mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	10
+211	6mos	CD70-/-;Bcl6tg/+	12_Follicular	17
+211	6mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	4
+211	6mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	6
+211	6mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	29
+211	6mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	5
+211	6mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	5
+211	6mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	12
+211	6mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	33
+211	6mos	CD70-/-;Bcl6tg/+	11_Follicular	20
+211	6mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	6
+211	6mos	CD70-/-;Bcl6tg/+	13_Follicular	12
+211	6mos	CD70-/-;Bcl6tg/+	16_Other	3
+211	6mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	4
+211	6mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	5
+211	6mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	6
+211	6mos	CD70-/-;Bcl6tg/+	27_Light Zone	4
+211	6mos	CD70-/-;Bcl6tg/+	24_Follicular	3
+211	6mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	4
+213	6mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	50
+213	6mos	CD70-/-;Bcl6tg/+	0_Follicular	56
+213	6mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	15
+213	6mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	18
+213	6mos	CD70-/-;Bcl6tg/+	6_Follicular	16
+213	6mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	28
+213	6mos	CD70-/-;Bcl6tg/+	12_Follicular	18
+213	6mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	34
+213	6mos	CD70-/-;Bcl6tg/+	16_Other	NA
+213	6mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	22
+213	6mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	NA
+213	6mos	CD70-/-;Bcl6tg/+	11_Follicular	12
+213	6mos	CD70-/-;Bcl6tg/+	24_Follicular	4
+213	6mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	46
+213	6mos	CD70-/-;Bcl6tg/+	13_Follicular	6
+213	6mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	26
+213	6mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	13
+213	6mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	6
+213	6mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	13
+213	6mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	14
+213	6mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	6
+213	6mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	7
+213	6mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	6
+213	6mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	NA
+213	6mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	6
+213	6mos	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+213	6mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	10
+280	6mos	CD70-/-;Bcl6tg/+	0_Follicular	124
+280	6mos	CD70-/-;Bcl6tg/+	11_Follicular	24
+280	6mos	CD70-/-;Bcl6tg/+	13_Follicular	15
+280	6mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	125
+280	6mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	39
+280	6mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	36
+280	6mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	15
+280	6mos	CD70-/-;Bcl6tg/+	6_Follicular	27
+280	6mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	33
+280	6mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	44
+280	6mos	CD70-/-;Bcl6tg/+	16_Other	5
+280	6mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	8
+280	6mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	21
+280	6mos	CD70-/-;Bcl6tg/+	12_Follicular	26
+280	6mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	16
+280	6mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	14
+280	6mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	6
+280	6mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	22
+280	6mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	8
+280	6mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	6
+280	6mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	13
+280	6mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	8
+280	6mos	CD70-/-;Bcl6tg/+	27_Light Zone	4
+280	6mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	3
+280	6mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	15
+280	6mos	CD70-/-;Bcl6tg/+	24_Follicular	3
+280	6mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	NA
+072	6mos	CD70-/-;Bcl6tg/+	6_Follicular	20
+072	6mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	10
+072	6mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	18
+072	6mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	12
+072	6mos	CD70-/-;Bcl6tg/+	11_Follicular	11
+072	6mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	5
+072	6mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	3
+072	6mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	24
+072	6mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	4
+072	6mos	CD70-/-;Bcl6tg/+	0_Follicular	67
+072	6mos	CD70-/-;Bcl6tg/+	16_Other	6
+072	6mos	CD70-/-;Bcl6tg/+	13_Follicular	10
+072	6mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	19
+072	6mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	61
+072	6mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	27
+072	6mos	CD70-/-;Bcl6tg/+	27_Light Zone	3
+072	6mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	10
+072	6mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	7
+072	6mos	CD70-/-;Bcl6tg/+	24_Follicular	7
+072	6mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	4
+072	6mos	CD70-/-;Bcl6tg/+	12_Follicular	18
+072	6mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	10
+072	6mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	12
+072	6mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	3
+072	6mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	7
+072	6mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	7
+072	6mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	4
+049	14mos	WT	0_Follicular	378
+049	14mos	WT	1_Marginal Zone	160
+049	14mos	WT	9_Follicular Hspa1+	58
+049	14mos	WT	8_Age-associated/autoimmune	30
+049	14mos	WT	7_Age-associated/autoimmune	61
+049	14mos	WT	10_Follicular IFN-stimulated	63
+049	14mos	WT	3_Atypical CD21lowCD23low	88
+049	14mos	WT	12_Follicular	57
+049	14mos	WT	11_Follicular	56
+049	14mos	WT	4_Atypical CD21-CD23-	49
+049	14mos	WT	13_Follicular	20
+049	14mos	WT	5_Atypical Marginal Zone	46
+049	14mos	WT	27_Light Zone	15
+049	14mos	WT	2_Transitional (T2)	207
+049	14mos	WT	6_Follicular	65
+049	14mos	WT	20_Ig-restricted	39
+049	14mos	WT	23_Ig-restricted	17
+049	14mos	WT	22_Pre-plasmablasts	5
+049	14mos	WT	17_Ig-restricted	15
+049	14mos	WT	16_Other	8
+049	14mos	WT	19_Cycling MHCII low	5
+049	14mos	WT	24_Follicular	25
+049	14mos	WT	25_Ig-restricted	12
+049	14mos	WT	15_Plasmablasts	22
+049	14mos	WT	18_Cycling MHCII low	16
+049	14mos	WT	14_Follicular Serpina3+	15
+049	14mos	WT	21_Cycling MHCII low	6
+051	14mos	WT	2_Transitional (T2)	90
+051	14mos	WT	0_Follicular	286
+051	14mos	WT	10_Follicular IFN-stimulated	28
+051	14mos	WT	9_Follicular Hspa1+	74
+051	14mos	WT	12_Follicular	35
+051	14mos	WT	25_Ig-restricted	7
+051	14mos	WT	5_Atypical Marginal Zone	21
+051	14mos	WT	11_Follicular	41
+051	14mos	WT	24_Follicular	14
+051	14mos	WT	6_Follicular	64
+051	14mos	WT	4_Atypical CD21-CD23-	30
+051	14mos	WT	20_Ig-restricted	21
+051	14mos	WT	7_Age-associated/autoimmune	14
+051	14mos	WT	1_Marginal Zone	88
+051	14mos	WT	13_Follicular	25
+051	14mos	WT	14_Follicular Serpina3+	8
+051	14mos	WT	3_Atypical CD21lowCD23low	48
+051	14mos	WT	17_Ig-restricted	11
+051	14mos	WT	27_Light Zone	7
+051	14mos	WT	23_Ig-restricted	14
+051	14mos	WT	16_Other	6
+051	14mos	WT	18_Cycling MHCII low	5
+051	14mos	WT	19_Cycling MHCII low	9
+051	14mos	WT	21_Cycling MHCII low	3
+051	14mos	WT	22_Pre-plasmablasts	NA
+051	14mos	WT	15_Plasmablasts	15
+051	14mos	WT	8_Age-associated/autoimmune	9
+113	14mos	WT	2_Transitional (T2)	76
+113	14mos	WT	0_Follicular	116
+113	14mos	WT	16_Other	16
+113	14mos	WT	20_Ig-restricted	16
+113	14mos	WT	1_Marginal Zone	40
+113	14mos	WT	14_Follicular Serpina3+	9
+113	14mos	WT	5_Atypical Marginal Zone	8
+113	14mos	WT	11_Follicular	27
+113	14mos	WT	6_Follicular	24
+113	14mos	WT	7_Age-associated/autoimmune	16
+113	14mos	WT	13_Follicular	21
+113	14mos	WT	10_Follicular IFN-stimulated	21
+113	14mos	WT	9_Follicular Hspa1+	13
+113	14mos	WT	12_Follicular	21
+113	14mos	WT	24_Follicular	5
+113	14mos	WT	19_Cycling MHCII low	NA
+113	14mos	WT	15_Plasmablasts	8
+113	14mos	WT	3_Atypical CD21lowCD23low	26
+113	14mos	WT	23_Ig-restricted	9
+113	14mos	WT	27_Light Zone	6
+113	14mos	WT	17_Ig-restricted	6
+113	14mos	WT	25_Ig-restricted	5
+113	14mos	WT	8_Age-associated/autoimmune	9
+113	14mos	WT	18_Cycling MHCII low	NA
+113	14mos	WT	4_Atypical CD21-CD23-	10
+113	14mos	WT	22_Pre-plasmablasts	NA
+113	14mos	WT	21_Cycling MHCII low	NA
+115	14mos	WT	0_Follicular	57
+115	14mos	WT	16_Other	14
+115	14mos	WT	9_Follicular Hspa1+	13
+115	14mos	WT	20_Ig-restricted	7
+115	14mos	WT	25_Ig-restricted	NA
+115	14mos	WT	7_Age-associated/autoimmune	9
+115	14mos	WT	18_Cycling MHCII low	NA
+115	14mos	WT	4_Atypical CD21-CD23-	12
+115	14mos	WT	6_Follicular	21
+115	14mos	WT	10_Follicular IFN-stimulated	7
+115	14mos	WT	3_Atypical CD21lowCD23low	18
+115	14mos	WT	2_Transitional (T2)	21
+115	14mos	WT	13_Follicular	9
+115	14mos	WT	24_Follicular	4
+115	14mos	WT	1_Marginal Zone	38
+115	14mos	WT	17_Ig-restricted	5
+115	14mos	WT	14_Follicular Serpina3+	8
+115	14mos	WT	12_Follicular	9
+115	14mos	WT	11_Follicular	10
+115	14mos	WT	5_Atypical Marginal Zone	10
+115	14mos	WT	23_Ig-restricted	NA
+115	14mos	WT	8_Age-associated/autoimmune	8
+115	14mos	WT	15_Plasmablasts	NA
+115	14mos	WT	27_Light Zone	4
+115	14mos	WT	19_Cycling MHCII low	NA
+115	14mos	WT	22_Pre-plasmablasts	NA
+115	14mos	WT	21_Cycling MHCII low	NA
+118	14mos	WT	16_Other	7
+118	14mos	WT	0_Follicular	261
+118	14mos	WT	6_Follicular	47
+118	14mos	WT	11_Follicular	53
+118	14mos	WT	3_Atypical CD21lowCD23low	41
+118	14mos	WT	14_Follicular Serpina3+	8
+118	14mos	WT	1_Marginal Zone	78
+118	14mos	WT	24_Follicular	8
+118	14mos	WT	9_Follicular Hspa1+	35
+118	14mos	WT	15_Plasmablasts	30
+118	14mos	WT	2_Transitional (T2)	130
+118	14mos	WT	10_Follicular IFN-stimulated	37
+118	14mos	WT	12_Follicular	39
+118	14mos	WT	8_Age-associated/autoimmune	31
+118	14mos	WT	13_Follicular	18
+118	14mos	WT	20_Ig-restricted	16
+118	14mos	WT	7_Age-associated/autoimmune	25
+118	14mos	WT	19_Cycling MHCII low	3
+118	14mos	WT	23_Ig-restricted	11
+118	14mos	WT	4_Atypical CD21-CD23-	33
+118	14mos	WT	18_Cycling MHCII low	8
+118	14mos	WT	27_Light Zone	5
+118	14mos	WT	5_Atypical Marginal Zone	21
+118	14mos	WT	17_Ig-restricted	13
+118	14mos	WT	25_Ig-restricted	7
+118	14mos	WT	21_Cycling MHCII low	NA
+118	14mos	WT	22_Pre-plasmablasts	NA
+129	14mos	WT	6_Follicular	37
+129	14mos	WT	2_Transitional (T2)	77
+129	14mos	WT	9_Follicular Hspa1+	26
+129	14mos	WT	1_Marginal Zone	75
+129	14mos	WT	0_Follicular	228
+129	14mos	WT	18_Cycling MHCII low	5
+129	14mos	WT	4_Atypical CD21-CD23-	33
+129	14mos	WT	11_Follicular	42
+129	14mos	WT	8_Age-associated/autoimmune	27
+129	14mos	WT	12_Follicular	31
+129	14mos	WT	13_Follicular	20
+129	14mos	WT	23_Ig-restricted	12
+129	14mos	WT	27_Light Zone	17
+129	14mos	WT	3_Atypical CD21lowCD23low	40
+129	14mos	WT	10_Follicular IFN-stimulated	28
+129	14mos	WT	17_Ig-restricted	8
+129	14mos	WT	20_Ig-restricted	17
+129	14mos	WT	7_Age-associated/autoimmune	36
+129	14mos	WT	14_Follicular Serpina3+	7
+129	14mos	WT	5_Atypical Marginal Zone	17
+129	14mos	WT	16_Other	16
+129	14mos	WT	25_Ig-restricted	4
+129	14mos	WT	24_Follicular	12
+129	14mos	WT	15_Plasmablasts	20
+129	14mos	WT	19_Cycling MHCII low	4
+129	14mos	WT	21_Cycling MHCII low	NA
+129	14mos	WT	22_Pre-plasmablasts	3
+079	14mos	CD70-/-	0_Follicular	394
+079	14mos	CD70-/-	2_Transitional (T2)	212
+079	14mos	CD70-/-	17_Ig-restricted	19
+079	14mos	CD70-/-	13_Follicular	33
+079	14mos	CD70-/-	6_Follicular	75
+079	14mos	CD70-/-	11_Follicular	89
+079	14mos	CD70-/-	27_Light Zone	21
+079	14mos	CD70-/-	3_Atypical CD21lowCD23low	81
+079	14mos	CD70-/-	1_Marginal Zone	142
+079	14mos	CD70-/-	9_Follicular Hspa1+	55
+079	14mos	CD70-/-	10_Follicular IFN-stimulated	60
+079	14mos	CD70-/-	4_Atypical CD21-CD23-	48
+079	14mos	CD70-/-	5_Atypical Marginal Zone	34
+079	14mos	CD70-/-	12_Follicular	59
+079	14mos	CD70-/-	20_Ig-restricted	33
+079	14mos	CD70-/-	7_Age-associated/autoimmune	36
+079	14mos	CD70-/-	8_Age-associated/autoimmune	22
+079	14mos	CD70-/-	18_Cycling MHCII low	10
+079	14mos	CD70-/-	14_Follicular Serpina3+	10
+079	14mos	CD70-/-	16_Other	18
+079	14mos	CD70-/-	15_Plasmablasts	19
+079	14mos	CD70-/-	21_Cycling MHCII low	5
+079	14mos	CD70-/-	25_Ig-restricted	19
+079	14mos	CD70-/-	24_Follicular	18
+079	14mos	CD70-/-	19_Cycling MHCII low	6
+079	14mos	CD70-/-	23_Ig-restricted	22
+079	14mos	CD70-/-	22_Pre-plasmablasts	NA
+010b	14mos	CD70-/-	23_Ig-restricted	12
+010b	14mos	CD70-/-	2_Transitional (T2)	79
+010b	14mos	CD70-/-	0_Follicular	196
+010b	14mos	CD70-/-	4_Atypical CD21-CD23-	39
+010b	14mos	CD70-/-	6_Follicular	57
+010b	14mos	CD70-/-	3_Atypical CD21lowCD23low	43
+010b	14mos	CD70-/-	1_Marginal Zone	82
+010b	14mos	CD70-/-	12_Follicular	33
+010b	14mos	CD70-/-	11_Follicular	39
+010b	14mos	CD70-/-	13_Follicular	20
+010b	14mos	CD70-/-	9_Follicular Hspa1+	73
+010b	14mos	CD70-/-	24_Follicular	11
+010b	14mos	CD70-/-	16_Other	6
+010b	14mos	CD70-/-	20_Ig-restricted	15
+010b	14mos	CD70-/-	10_Follicular IFN-stimulated	21
+010b	14mos	CD70-/-	8_Age-associated/autoimmune	8
+010b	14mos	CD70-/-	15_Plasmablasts	10
+010b	14mos	CD70-/-	7_Age-associated/autoimmune	23
+010b	14mos	CD70-/-	17_Ig-restricted	9
+010b	14mos	CD70-/-	5_Atypical Marginal Zone	27
+010b	14mos	CD70-/-	18_Cycling MHCII low	3
+010b	14mos	CD70-/-	25_Ig-restricted	5
+010b	14mos	CD70-/-	27_Light Zone	6
+010b	14mos	CD70-/-	14_Follicular Serpina3+	8
+010b	14mos	CD70-/-	22_Pre-plasmablasts	3
+010b	14mos	CD70-/-	19_Cycling MHCII low	NA
+010b	14mos	CD70-/-	21_Cycling MHCII low	3
+008	14mos	CD70-/-	1_Marginal Zone	108
+008	14mos	CD70-/-	0_Follicular	221
+008	14mos	CD70-/-	2_Transitional (T2)	168
+008	14mos	CD70-/-	6_Follicular	77
+008	14mos	CD70-/-	12_Follicular	44
+008	14mos	CD70-/-	7_Age-associated/autoimmune	55
+008	14mos	CD70-/-	14_Follicular Serpina3+	13
+008	14mos	CD70-/-	3_Atypical CD21lowCD23low	62
+008	14mos	CD70-/-	22_Pre-plasmablasts	6
+008	14mos	CD70-/-	17_Ig-restricted	13
+008	14mos	CD70-/-	10_Follicular IFN-stimulated	66
+008	14mos	CD70-/-	25_Ig-restricted	14
+008	14mos	CD70-/-	9_Follicular Hspa1+	72
+008	14mos	CD70-/-	11_Follicular	32
+008	14mos	CD70-/-	8_Age-associated/autoimmune	37
+008	14mos	CD70-/-	4_Atypical CD21-CD23-	46
+008	14mos	CD70-/-	13_Follicular	27
+008	14mos	CD70-/-	27_Light Zone	10
+008	14mos	CD70-/-	5_Atypical Marginal Zone	29
+008	14mos	CD70-/-	15_Plasmablasts	27
+008	14mos	CD70-/-	16_Other	8
+008	14mos	CD70-/-	18_Cycling MHCII low	11
+008	14mos	CD70-/-	19_Cycling MHCII low	3
+008	14mos	CD70-/-	24_Follicular	11
+008	14mos	CD70-/-	23_Ig-restricted	17
+008	14mos	CD70-/-	20_Ig-restricted	28
+008	14mos	CD70-/-	21_Cycling MHCII low	3
+075	14mos	CD70-/-	23_Ig-restricted	9
+075	14mos	CD70-/-	18_Cycling MHCII low	9
+075	14mos	CD70-/-	5_Atypical Marginal Zone	6
+075	14mos	CD70-/-	20_Ig-restricted	13
+075	14mos	CD70-/-	0_Follicular	97
+075	14mos	CD70-/-	6_Follicular	11
+075	14mos	CD70-/-	8_Age-associated/autoimmune	31
+075	14mos	CD70-/-	22_Pre-plasmablasts	2
+075	14mos	CD70-/-	2_Transitional (T2)	97
+075	14mos	CD70-/-	3_Atypical CD21lowCD23low	11
+075	14mos	CD70-/-	1_Marginal Zone	6
+075	14mos	CD70-/-	19_Cycling MHCII low	3
+075	14mos	CD70-/-	21_Cycling MHCII low	2
+075	14mos	CD70-/-	12_Follicular	23
+075	14mos	CD70-/-	25_Ig-restricted	3
+075	14mos	CD70-/-	7_Age-associated/autoimmune	35
+075	14mos	CD70-/-	4_Atypical CD21-CD23-	6
+075	14mos	CD70-/-	17_Ig-restricted	9
+075	14mos	CD70-/-	13_Follicular	7
+075	14mos	CD70-/-	14_Follicular Serpina3+	13
+075	14mos	CD70-/-	24_Follicular	6
+075	14mos	CD70-/-	16_Other	3
+075	14mos	CD70-/-	27_Light Zone	7
+075	14mos	CD70-/-	10_Follicular IFN-stimulated	13
+075	14mos	CD70-/-	15_Plasmablasts	2
+075	14mos	CD70-/-	11_Follicular	16
+075	14mos	CD70-/-	9_Follicular Hspa1+	6
+076	14mos	CD70-/-	2_Transitional (T2)	22
+076	14mos	CD70-/-	16_Other	10
+076	14mos	CD70-/-	3_Atypical CD21lowCD23low	9
+076	14mos	CD70-/-	1_Marginal Zone	13
+076	14mos	CD70-/-	8_Age-associated/autoimmune	12
+076	14mos	CD70-/-	11_Follicular	8
+076	14mos	CD70-/-	0_Follicular	27
+076	14mos	CD70-/-	4_Atypical CD21-CD23-	4
+076	14mos	CD70-/-	13_Follicular	7
+076	14mos	CD70-/-	6_Follicular	7
+076	14mos	CD70-/-	7_Age-associated/autoimmune	11
+076	14mos	CD70-/-	12_Follicular	5
+076	14mos	CD70-/-	10_Follicular IFN-stimulated	5
+076	14mos	CD70-/-	15_Plasmablasts	14
+076	14mos	CD70-/-	9_Follicular Hspa1+	3
+076	14mos	CD70-/-	23_Ig-restricted	4
+076	14mos	CD70-/-	14_Follicular Serpina3+	NA
+076	14mos	CD70-/-	24_Follicular	NA
+076	14mos	CD70-/-	25_Ig-restricted	NA
+076	14mos	CD70-/-	5_Atypical Marginal Zone	3
+076	14mos	CD70-/-	19_Cycling MHCII low	NA
+076	14mos	CD70-/-	27_Light Zone	NA
+076	14mos	CD70-/-	18_Cycling MHCII low	NA
+076	14mos	CD70-/-	20_Ig-restricted	NA
+076	14mos	CD70-/-	17_Ig-restricted	NA
+076	14mos	CD70-/-	21_Cycling MHCII low	NA
+076	14mos	CD70-/-	22_Pre-plasmablasts	NA
+126	14mos	CD70-/-	10_Follicular IFN-stimulated	14
+126	14mos	CD70-/-	8_Age-associated/autoimmune	22
+126	14mos	CD70-/-	24_Follicular	9
+126	14mos	CD70-/-	11_Follicular	25
+126	14mos	CD70-/-	25_Ig-restricted	6
+126	14mos	CD70-/-	1_Marginal Zone	53
+126	14mos	CD70-/-	9_Follicular Hspa1+	36
+126	14mos	CD70-/-	2_Transitional (T2)	40
+126	14mos	CD70-/-	0_Follicular	124
+126	14mos	CD70-/-	6_Follicular	27
+126	14mos	CD70-/-	17_Ig-restricted	9
+126	14mos	CD70-/-	3_Atypical CD21lowCD23low	15
+126	14mos	CD70-/-	7_Age-associated/autoimmune	26
+126	14mos	CD70-/-	12_Follicular	17
+126	14mos	CD70-/-	4_Atypical CD21-CD23-	22
+126	14mos	CD70-/-	23_Ig-restricted	4
+126	14mos	CD70-/-	13_Follicular	15
+126	14mos	CD70-/-	22_Pre-plasmablasts	3
+126	14mos	CD70-/-	20_Ig-restricted	11
+126	14mos	CD70-/-	14_Follicular Serpina3+	7
+126	14mos	CD70-/-	5_Atypical Marginal Zone	9
+126	14mos	CD70-/-	16_Other	5
+126	14mos	CD70-/-	15_Plasmablasts	18
+126	14mos	CD70-/-	27_Light Zone	3
+126	14mos	CD70-/-	18_Cycling MHCII low	4
+126	14mos	CD70-/-	19_Cycling MHCII low	2
+126	14mos	CD70-/-	21_Cycling MHCII low	NA
+035	14mos	Bcl6tg/+	5_Atypical Marginal Zone	3
+035	14mos	Bcl6tg/+	6_Follicular	6
+035	14mos	Bcl6tg/+	10_Follicular IFN-stimulated	8
+035	14mos	Bcl6tg/+	9_Follicular Hspa1+	11
+035	14mos	Bcl6tg/+	0_Follicular	25
+035	14mos	Bcl6tg/+	11_Follicular	4
+035	14mos	Bcl6tg/+	14_Follicular Serpina3+	20
+035	14mos	Bcl6tg/+	8_Age-associated/autoimmune	3
+035	14mos	Bcl6tg/+	18_Cycling MHCII low	NA
+035	14mos	Bcl6tg/+	3_Atypical CD21lowCD23low	3
+035	14mos	Bcl6tg/+	13_Follicular	3
+035	14mos	Bcl6tg/+	21_Cycling MHCII low	NA
+035	14mos	Bcl6tg/+	20_Ig-restricted	NA
+035	14mos	Bcl6tg/+	12_Follicular	7
+035	14mos	Bcl6tg/+	17_Ig-restricted	NA
+035	14mos	Bcl6tg/+	1_Marginal Zone	12
+035	14mos	Bcl6tg/+	4_Atypical CD21-CD23-	NA
+035	14mos	Bcl6tg/+	22_Pre-plasmablasts	NA
+035	14mos	Bcl6tg/+	2_Transitional (T2)	3
+035	14mos	Bcl6tg/+	19_Cycling MHCII low	NA
+035	14mos	Bcl6tg/+	23_Ig-restricted	NA
+035	14mos	Bcl6tg/+	16_Other	3
+035	14mos	Bcl6tg/+	15_Plasmablasts	NA
+035	14mos	Bcl6tg/+	7_Age-associated/autoimmune	NA
+035	14mos	Bcl6tg/+	27_Light Zone	3
+035	14mos	Bcl6tg/+	25_Ig-restricted	NA
+035	14mos	Bcl6tg/+	24_Follicular	NA
+031	14mos	Bcl6tg/+	2_Transitional (T2)	27
+031	14mos	Bcl6tg/+	8_Age-associated/autoimmune	2
+031	14mos	Bcl6tg/+	1_Marginal Zone	17
+031	14mos	Bcl6tg/+	14_Follicular Serpina3+	29
+031	14mos	Bcl6tg/+	9_Follicular Hspa1+	10
+031	14mos	Bcl6tg/+	24_Follicular	NA
+031	14mos	Bcl6tg/+	10_Follicular IFN-stimulated	11
+031	14mos	Bcl6tg/+	13_Follicular	3
+031	14mos	Bcl6tg/+	16_Other	NA
+031	14mos	Bcl6tg/+	11_Follicular	4
+031	14mos	Bcl6tg/+	6_Follicular	5
+031	14mos	Bcl6tg/+	4_Atypical CD21-CD23-	4
+031	14mos	Bcl6tg/+	7_Age-associated/autoimmune	2
+031	14mos	Bcl6tg/+	20_Ig-restricted	NA
+031	14mos	Bcl6tg/+	0_Follicular	33
+031	14mos	Bcl6tg/+	5_Atypical Marginal Zone	7
+031	14mos	Bcl6tg/+	3_Atypical CD21lowCD23low	8
+031	14mos	Bcl6tg/+	22_Pre-plasmablasts	3
+031	14mos	Bcl6tg/+	12_Follicular	NA
+031	14mos	Bcl6tg/+	23_Ig-restricted	NA
+031	14mos	Bcl6tg/+	19_Cycling MHCII low	5
+031	14mos	Bcl6tg/+	21_Cycling MHCII low	2
+031	14mos	Bcl6tg/+	18_Cycling MHCII low	2
+031	14mos	Bcl6tg/+	27_Light Zone	NA
+031	14mos	Bcl6tg/+	17_Ig-restricted	3
+031	14mos	Bcl6tg/+	15_Plasmablasts	7
+031	14mos	Bcl6tg/+	25_Ig-restricted	NA
+032b	14mos	Bcl6tg/+	8_Age-associated/autoimmune	2
+032b	14mos	Bcl6tg/+	14_Follicular Serpina3+	10
+032b	14mos	Bcl6tg/+	17_Ig-restricted	NA
+032b	14mos	Bcl6tg/+	1_Marginal Zone	4
+032b	14mos	Bcl6tg/+	2_Transitional (T2)	NA
+032b	14mos	Bcl6tg/+	10_Follicular IFN-stimulated	4
+032b	14mos	Bcl6tg/+	0_Follicular	5
+032b	14mos	Bcl6tg/+	7_Age-associated/autoimmune	3
+032b	14mos	Bcl6tg/+	9_Follicular Hspa1+	NA
+032b	14mos	Bcl6tg/+	12_Follicular	5
+032b	14mos	Bcl6tg/+	3_Atypical CD21lowCD23low	2
+032b	14mos	Bcl6tg/+	6_Follicular	NA
+032b	14mos	Bcl6tg/+	21_Cycling MHCII low	2
+032b	14mos	Bcl6tg/+	5_Atypical Marginal Zone	NA
+032b	14mos	Bcl6tg/+	24_Follicular	NA
+032b	14mos	Bcl6tg/+	4_Atypical CD21-CD23-	5
+032b	14mos	Bcl6tg/+	16_Other	NA
+032b	14mos	Bcl6tg/+	25_Ig-restricted	NA
+032b	14mos	Bcl6tg/+	18_Cycling MHCII low	1
+032b	14mos	Bcl6tg/+	23_Ig-restricted	NA
+032b	14mos	Bcl6tg/+	22_Pre-plasmablasts	1
+032b	14mos	Bcl6tg/+	15_Plasmablasts	5
+032b	14mos	Bcl6tg/+	19_Cycling MHCII low	3
+032b	14mos	Bcl6tg/+	27_Light Zone	NA
+032b	14mos	Bcl6tg/+	13_Follicular	NA
+032b	14mos	Bcl6tg/+	20_Ig-restricted	NA
+036	14mos	Bcl6tg/+	0_Follicular	79
+036	14mos	Bcl6tg/+	7_Age-associated/autoimmune	22
+036	14mos	Bcl6tg/+	10_Follicular IFN-stimulated	31
+036	14mos	Bcl6tg/+	18_Cycling MHCII low	5
+036	14mos	Bcl6tg/+	1_Marginal Zone	57
+036	14mos	Bcl6tg/+	2_Transitional (T2)	46
+036	14mos	Bcl6tg/+	9_Follicular Hspa1+	26
+036	14mos	Bcl6tg/+	11_Follicular	13
+036	14mos	Bcl6tg/+	6_Follicular	30
+036	14mos	Bcl6tg/+	3_Atypical CD21lowCD23low	25
+036	14mos	Bcl6tg/+	14_Follicular Serpina3+	64
+036	14mos	Bcl6tg/+	8_Age-associated/autoimmune	9
+036	14mos	Bcl6tg/+	15_Plasmablasts	7
+036	14mos	Bcl6tg/+	12_Follicular	7
+036	14mos	Bcl6tg/+	25_Ig-restricted	NA
+036	14mos	Bcl6tg/+	24_Follicular	7
+036	14mos	Bcl6tg/+	4_Atypical CD21-CD23-	12
+036	14mos	Bcl6tg/+	27_Light Zone	4
+036	14mos	Bcl6tg/+	13_Follicular	10
+036	14mos	Bcl6tg/+	5_Atypical Marginal Zone	22
+036	14mos	Bcl6tg/+	16_Other	11
+036	14mos	Bcl6tg/+	19_Cycling MHCII low	3
+036	14mos	Bcl6tg/+	23_Ig-restricted	4
+036	14mos	Bcl6tg/+	22_Pre-plasmablasts	4
+036	14mos	Bcl6tg/+	17_Ig-restricted	NA
+036	14mos	Bcl6tg/+	20_Ig-restricted	3
+036	14mos	Bcl6tg/+	21_Cycling MHCII low	NA
+083	14mos	Bcl6tg/+	1_Marginal Zone	10
+083	14mos	Bcl6tg/+	14_Follicular Serpina3+	13
+083	14mos	Bcl6tg/+	2_Transitional (T2)	37
+083	14mos	Bcl6tg/+	20_Ig-restricted	4
+083	14mos	Bcl6tg/+	19_Cycling MHCII low	3
+083	14mos	Bcl6tg/+	13_Follicular	4
+083	14mos	Bcl6tg/+	11_Follicular	5
+083	14mos	Bcl6tg/+	8_Age-associated/autoimmune	10
+083	14mos	Bcl6tg/+	5_Atypical Marginal Zone	3
+083	14mos	Bcl6tg/+	0_Follicular	31
+083	14mos	Bcl6tg/+	12_Follicular	10
+083	14mos	Bcl6tg/+	15_Plasmablasts	9
+083	14mos	Bcl6tg/+	6_Follicular	6
+083	14mos	Bcl6tg/+	3_Atypical CD21lowCD23low	4
+083	14mos	Bcl6tg/+	4_Atypical CD21-CD23-	8
+083	14mos	Bcl6tg/+	18_Cycling MHCII low	4
+083	14mos	Bcl6tg/+	21_Cycling MHCII low	2
+083	14mos	Bcl6tg/+	10_Follicular IFN-stimulated	9
+083	14mos	Bcl6tg/+	7_Age-associated/autoimmune	13
+083	14mos	Bcl6tg/+	9_Follicular Hspa1+	NA
+083	14mos	Bcl6tg/+	16_Other	NA
+083	14mos	Bcl6tg/+	27_Light Zone	NA
+083	14mos	Bcl6tg/+	25_Ig-restricted	NA
+083	14mos	Bcl6tg/+	24_Follicular	NA
+083	14mos	Bcl6tg/+	23_Ig-restricted	NA
+083	14mos	Bcl6tg/+	22_Pre-plasmablasts	7
+083	14mos	Bcl6tg/+	17_Ig-restricted	NA
+089	14mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	28
+089	14mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	14
+089	14mos	CD70-/-;Bcl6tg/+	11_Follicular	19
+089	14mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	29
+089	14mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	13
+089	14mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	18
+089	14mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	9
+089	14mos	CD70-/-;Bcl6tg/+	13_Follicular	9
+089	14mos	CD70-/-;Bcl6tg/+	6_Follicular	19
+089	14mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	15
+089	14mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	14
+089	14mos	CD70-/-;Bcl6tg/+	0_Follicular	87
+089	14mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	47
+089	14mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	6
+089	14mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	6
+089	14mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	46
+089	14mos	CD70-/-;Bcl6tg/+	24_Follicular	5
+089	14mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	12
+089	14mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	4
+089	14mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	4
+089	14mos	CD70-/-;Bcl6tg/+	12_Follicular	14
+089	14mos	CD70-/-;Bcl6tg/+	16_Other	4
+089	14mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	3
+089	14mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	3
+089	14mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	10
+089	14mos	CD70-/-;Bcl6tg/+	27_Light Zone	3
+089	14mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	6
+090	14mos	CD70-/-;Bcl6tg/+	6_Follicular	32
+090	14mos	CD70-/-;Bcl6tg/+	13_Follicular	6
+090	14mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	24
+090	14mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	8
+090	14mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	2
+090	14mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	6
+090	14mos	CD70-/-;Bcl6tg/+	0_Follicular	121
+090	14mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	28
+090	14mos	CD70-/-;Bcl6tg/+	12_Follicular	14
+090	14mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	41
+090	14mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	33
+090	14mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	22
+090	14mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	14
+090	14mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	15
+090	14mos	CD70-/-;Bcl6tg/+	27_Light Zone	4
+090	14mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	10
+090	14mos	CD70-/-;Bcl6tg/+	24_Follicular	4
+090	14mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	10
+090	14mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	9
+090	14mos	CD70-/-;Bcl6tg/+	16_Other	4
+090	14mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	3
+090	14mos	CD70-/-;Bcl6tg/+	11_Follicular	18
+090	14mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	7
+090	14mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	6
+090	14mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	5
+090	14mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	4
+090	14mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	3
+087	14mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	42
+087	14mos	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+087	14mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	4
+087	14mos	CD70-/-;Bcl6tg/+	12_Follicular	21
+087	14mos	CD70-/-;Bcl6tg/+	0_Follicular	80
+087	14mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	12
+087	14mos	CD70-/-;Bcl6tg/+	13_Follicular	6
+087	14mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	9
+087	14mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	21
+087	14mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	15
+087	14mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	15
+087	14mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	NA
+087	14mos	CD70-/-;Bcl6tg/+	6_Follicular	20
+087	14mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	9
+087	14mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	4
+087	14mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	29
+087	14mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	15
+087	14mos	CD70-/-;Bcl6tg/+	11_Follicular	13
+087	14mos	CD70-/-;Bcl6tg/+	16_Other	NA
+087	14mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	NA
+087	14mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	3
+087	14mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	8
+087	14mos	CD70-/-;Bcl6tg/+	24_Follicular	3
+087	14mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	NA
+087	14mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	3
+087	14mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	NA
+087	14mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	6
+100	14mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	26
+100	14mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	23
+100	14mos	CD70-/-;Bcl6tg/+	0_Follicular	34
+100	14mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	21
+100	14mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	10
+100	14mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	10
+100	14mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	4
+100	14mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	NA
+100	14mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	18
+100	14mos	CD70-/-;Bcl6tg/+	27_Light Zone	3
+100	14mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	9
+100	14mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	10
+100	14mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	8
+100	14mos	CD70-/-;Bcl6tg/+	13_Follicular	6
+100	14mos	CD70-/-;Bcl6tg/+	11_Follicular	9
+100	14mos	CD70-/-;Bcl6tg/+	12_Follicular	6
+100	14mos	CD70-/-;Bcl6tg/+	16_Other	NA
+100	14mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	NA
+100	14mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	4
+100	14mos	CD70-/-;Bcl6tg/+	6_Follicular	7
+100	14mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	11
+100	14mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+100	14mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	6
+100	14mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	3
+100	14mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	5
+100	14mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	2
+100	14mos	CD70-/-;Bcl6tg/+	24_Follicular	NA
+106	14mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	9
+106	14mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	3
+106	14mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	10
+106	14mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	5
+106	14mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	10
+106	14mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	3
+106	14mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	11
+106	14mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	6
+106	14mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	7
+106	14mos	CD70-/-;Bcl6tg/+	6_Follicular	NA
+106	14mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	4
+106	14mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	9
+106	14mos	CD70-/-;Bcl6tg/+	11_Follicular	6
+106	14mos	CD70-/-;Bcl6tg/+	12_Follicular	3
+106	14mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	4
+106	14mos	CD70-/-;Bcl6tg/+	16_Other	NA
+106	14mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	9
+106	14mos	CD70-/-;Bcl6tg/+	0_Follicular	7
+106	14mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	1
+106	14mos	CD70-/-;Bcl6tg/+	13_Follicular	4
+106	14mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	2
+106	14mos	CD70-/-;Bcl6tg/+	27_Light Zone	3
+106	14mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	NA
+106	14mos	CD70-/-;Bcl6tg/+	24_Follicular	NA
+106	14mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	NA
+106	14mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+220	14mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	4
+220	14mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	3
+220	14mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	5
+220	14mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	8
+220	14mos	CD70-/-;Bcl6tg/+	0_Follicular	18
+220	14mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+220	14mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	8
+220	14mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	3
+220	14mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	2
+220	14mos	CD70-/-;Bcl6tg/+	6_Follicular	4
+220	14mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	6
+220	14mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	12
+220	14mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	12
+220	14mos	CD70-/-;Bcl6tg/+	12_Follicular	3
+220	14mos	CD70-/-;Bcl6tg/+	13_Follicular	2
+220	14mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	22
+220	14mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	1
+220	14mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	4
+220	14mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	7
+220	14mos	CD70-/-;Bcl6tg/+	11_Follicular	3
+220	14mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	NA
+220	14mos	CD70-/-;Bcl6tg/+	24_Follicular	NA
+220	14mos	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+220	14mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	NA
+220	14mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	2
+220	14mos	CD70-/-;Bcl6tg/+	16_Other	NA
+220	14mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	NA
+90b	14mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	8
+90b	14mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	4
+90b	14mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	5
+90b	14mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	6
+90b	14mos	CD70-/-;Bcl6tg/+	0_Follicular	13
+90b	14mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	6
+90b	14mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	5
+90b	14mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	13
+90b	14mos	CD70-/-;Bcl6tg/+	11_Follicular	6
+90b	14mos	CD70-/-;Bcl6tg/+	6_Follicular	NA
+90b	14mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	3
+90b	14mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	19
+90b	14mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	3
+90b	14mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	NA
+90b	14mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	12
+90b	14mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	2
+90b	14mos	CD70-/-;Bcl6tg/+	12_Follicular	5
+90b	14mos	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+90b	14mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	NA
+90b	14mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	12
+90b	14mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	6
+90b	14mos	CD70-/-;Bcl6tg/+	13_Follicular	4
+90b	14mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	3
+90b	14mos	CD70-/-;Bcl6tg/+	16_Other	NA
+90b	14mos	CD70-/-;Bcl6tg/+	24_Follicular	NA
+90b	14mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	NA
+90b	14mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	NA
+207	18mos	WT	1_Marginal Zone	28
+207	18mos	WT	7_Age-associated/autoimmune	16
+207	18mos	WT	11_Follicular	6
+207	18mos	WT	0_Follicular	71
+207	18mos	WT	6_Follicular	9
+207	18mos	WT	3_Atypical CD21lowCD23low	23
+207	18mos	WT	13_Follicular	7
+207	18mos	WT	15_Plasmablasts	10
+207	18mos	WT	2_Transitional (T2)	45
+207	18mos	WT	16_Other	7
+207	18mos	WT	25_Ig-restricted	NA
+207	18mos	WT	5_Atypical Marginal Zone	7
+207	18mos	WT	17_Ig-restricted	3
+207	18mos	WT	14_Follicular Serpina3+	4
+207	18mos	WT	8_Age-associated/autoimmune	11
+207	18mos	WT	9_Follicular Hspa1+	11
+207	18mos	WT	12_Follicular	13
+207	18mos	WT	20_Ig-restricted	7
+207	18mos	WT	10_Follicular IFN-stimulated	11
+207	18mos	WT	18_Cycling MHCII low	4
+207	18mos	WT	4_Atypical CD21-CD23-	10
+207	18mos	WT	19_Cycling MHCII low	4
+207	18mos	WT	27_Light Zone	5
+207	18mos	WT	23_Ig-restricted	4
+207	18mos	WT	22_Pre-plasmablasts	NA
+207	18mos	WT	24_Follicular	4
+207	18mos	WT	21_Cycling MHCII low	NA
+217	18mos	WT	1_Marginal Zone	40
+217	18mos	WT	16_Other	7
+217	18mos	WT	6_Follicular	16
+217	18mos	WT	2_Transitional (T2)	34
+217	18mos	WT	11_Follicular	20
+217	18mos	WT	25_Ig-restricted	2
+217	18mos	WT	0_Follicular	99
+217	18mos	WT	18_Cycling MHCII low	3
+217	18mos	WT	9_Follicular Hspa1+	15
+217	18mos	WT	15_Plasmablasts	93
+217	18mos	WT	10_Follicular IFN-stimulated	19
+217	18mos	WT	8_Age-associated/autoimmune	7
+217	18mos	WT	19_Cycling MHCII low	NA
+217	18mos	WT	24_Follicular	9
+217	18mos	WT	3_Atypical CD21lowCD23low	22
+217	18mos	WT	4_Atypical CD21-CD23-	11
+217	18mos	WT	27_Light Zone	NA
+217	18mos	WT	13_Follicular	12
+217	18mos	WT	7_Age-associated/autoimmune	15
+217	18mos	WT	5_Atypical Marginal Zone	11
+217	18mos	WT	12_Follicular	14
+217	18mos	WT	20_Ig-restricted	NA
+217	18mos	WT	23_Ig-restricted	4
+217	18mos	WT	17_Ig-restricted	5
+217	18mos	WT	14_Follicular Serpina3+	NA
+217	18mos	WT	22_Pre-plasmablasts	9
+217	18mos	WT	21_Cycling MHCII low	3
+219	18mos	WT	2_Transitional (T2)	71
+219	18mos	WT	0_Follicular	97
+219	18mos	WT	1_Marginal Zone	30
+219	18mos	WT	9_Follicular Hspa1+	33
+219	18mos	WT	4_Atypical CD21-CD23-	18
+219	18mos	WT	16_Other	5
+219	18mos	WT	17_Ig-restricted	4
+219	18mos	WT	12_Follicular	25
+219	18mos	WT	11_Follicular	33
+219	18mos	WT	6_Follicular	20
+219	18mos	WT	3_Atypical CD21lowCD23low	32
+219	18mos	WT	10_Follicular IFN-stimulated	12
+219	18mos	WT	20_Ig-restricted	11
+219	18mos	WT	7_Age-associated/autoimmune	29
+219	18mos	WT	13_Follicular	10
+219	18mos	WT	25_Ig-restricted	4
+219	18mos	WT	24_Follicular	7
+219	18mos	WT	8_Age-associated/autoimmune	15
+219	18mos	WT	27_Light Zone	4
+219	18mos	WT	18_Cycling MHCII low	3
+219	18mos	WT	21_Cycling MHCII low	NA
+219	18mos	WT	5_Atypical Marginal Zone	9
+219	18mos	WT	14_Follicular Serpina3+	5
+219	18mos	WT	22_Pre-plasmablasts	NA
+219	18mos	WT	19_Cycling MHCII low	4
+219	18mos	WT	15_Plasmablasts	12
+219	18mos	WT	23_Ig-restricted	9
+055	18mos	WT	5_Atypical Marginal Zone	16
+055	18mos	WT	4_Atypical CD21-CD23-	18
+055	18mos	WT	2_Transitional (T2)	72
+055	18mos	WT	0_Follicular	160
+055	18mos	WT	6_Follicular	23
+055	18mos	WT	7_Age-associated/autoimmune	30
+055	18mos	WT	16_Other	9
+055	18mos	WT	1_Marginal Zone	72
+055	18mos	WT	23_Ig-restricted	12
+055	18mos	WT	8_Age-associated/autoimmune	17
+055	18mos	WT	3_Atypical CD21lowCD23low	33
+055	18mos	WT	14_Follicular Serpina3+	7
+055	18mos	WT	10_Follicular IFN-stimulated	20
+055	18mos	WT	11_Follicular	28
+055	18mos	WT	12_Follicular	24
+055	18mos	WT	9_Follicular Hspa1+	46
+055	18mos	WT	27_Light Zone	11
+055	18mos	WT	13_Follicular	9
+055	18mos	WT	17_Ig-restricted	4
+055	18mos	WT	20_Ig-restricted	21
+055	18mos	WT	24_Follicular	11
+055	18mos	WT	25_Ig-restricted	8
+055	18mos	WT	19_Cycling MHCII low	3
+055	18mos	WT	21_Cycling MHCII low	NA
+055	18mos	WT	18_Cycling MHCII low	6
+055	18mos	WT	15_Plasmablasts	9
+055	18mos	WT	22_Pre-plasmablasts	NA
+050	18mos	WT	2_Transitional (T2)	96
+050	18mos	WT	12_Follicular	32
+050	18mos	WT	10_Follicular IFN-stimulated	37
+050	18mos	WT	7_Age-associated/autoimmune	24
+050	18mos	WT	13_Follicular	13
+050	18mos	WT	11_Follicular	35
+050	18mos	WT	16_Other	11
+050	18mos	WT	6_Follicular	28
+050	18mos	WT	4_Atypical CD21-CD23-	25
+050	18mos	WT	3_Atypical CD21lowCD23low	35
+050	18mos	WT	24_Follicular	18
+050	18mos	WT	1_Marginal Zone	57
+050	18mos	WT	0_Follicular	177
+050	18mos	WT	25_Ig-restricted	3
+050	18mos	WT	5_Atypical Marginal Zone	19
+050	18mos	WT	14_Follicular Serpina3+	7
+050	18mos	WT	8_Age-associated/autoimmune	14
+050	18mos	WT	9_Follicular Hspa1+	19
+050	18mos	WT	23_Ig-restricted	6
+050	18mos	WT	20_Ig-restricted	17
+050	18mos	WT	27_Light Zone	NA
+050	18mos	WT	22_Pre-plasmablasts	NA
+050	18mos	WT	18_Cycling MHCII low	8
+050	18mos	WT	17_Ig-restricted	8
+050	18mos	WT	21_Cycling MHCII low	NA
+050	18mos	WT	19_Cycling MHCII low	4
+050	18mos	WT	15_Plasmablasts	9
+189	18mos	WT	3_Atypical CD21lowCD23low	48
+189	18mos	WT	2_Transitional (T2)	91
+189	18mos	WT	0_Follicular	126
+189	18mos	WT	1_Marginal Zone	98
+189	18mos	WT	24_Follicular	14
+189	18mos	WT	11_Follicular	39
+189	18mos	WT	13_Follicular	20
+189	18mos	WT	4_Atypical CD21-CD23-	12
+189	18mos	WT	7_Age-associated/autoimmune	43
+189	18mos	WT	20_Ig-restricted	13
+189	18mos	WT	8_Age-associated/autoimmune	31
+189	18mos	WT	12_Follicular	34
+189	18mos	WT	10_Follicular IFN-stimulated	25
+189	18mos	WT	6_Follicular	19
+189	18mos	WT	16_Other	6
+189	18mos	WT	15_Plasmablasts	22
+189	18mos	WT	14_Follicular Serpina3+	8
+189	18mos	WT	9_Follicular Hspa1+	41
+189	18mos	WT	17_Ig-restricted	10
+189	18mos	WT	5_Atypical Marginal Zone	28
+189	18mos	WT	25_Ig-restricted	11
+189	18mos	WT	18_Cycling MHCII low	8
+189	18mos	WT	27_Light Zone	7
+189	18mos	WT	23_Ig-restricted	11
+189	18mos	WT	21_Cycling MHCII low	NA
+189	18mos	WT	22_Pre-plasmablasts	3
+189	18mos	WT	19_Cycling MHCII low	4
+011	18mos	CD70-/-	12_Follicular	16
+011	18mos	CD70-/-	4_Atypical CD21-CD23-	15
+011	18mos	CD70-/-	0_Follicular	53
+011	18mos	CD70-/-	25_Ig-restricted	NA
+011	18mos	CD70-/-	24_Follicular	NA
+011	18mos	CD70-/-	7_Age-associated/autoimmune	14
+011	18mos	CD70-/-	19_Cycling MHCII low	5
+011	18mos	CD70-/-	3_Atypical CD21lowCD23low	18
+011	18mos	CD70-/-	10_Follicular IFN-stimulated	17
+011	18mos	CD70-/-	9_Follicular Hspa1+	5
+011	18mos	CD70-/-	5_Atypical Marginal Zone	9
+011	18mos	CD70-/-	11_Follicular	9
+011	18mos	CD70-/-	18_Cycling MHCII low	8
+011	18mos	CD70-/-	15_Plasmablasts	46
+011	18mos	CD70-/-	2_Transitional (T2)	28
+011	18mos	CD70-/-	13_Follicular	6
+011	18mos	CD70-/-	8_Age-associated/autoimmune	19
+011	18mos	CD70-/-	16_Other	3
+011	18mos	CD70-/-	1_Marginal Zone	28
+011	18mos	CD70-/-	27_Light Zone	6
+011	18mos	CD70-/-	14_Follicular Serpina3+	18
+011	18mos	CD70-/-	20_Ig-restricted	3
+011	18mos	CD70-/-	6_Follicular	5
+011	18mos	CD70-/-	17_Ig-restricted	NA
+011	18mos	CD70-/-	21_Cycling MHCII low	NA
+011	18mos	CD70-/-	23_Ig-restricted	NA
+011	18mos	CD70-/-	22_Pre-plasmablasts	NA
+152	18mos	CD70-/-	12_Follicular	25
+152	18mos	CD70-/-	0_Follicular	124
+152	18mos	CD70-/-	2_Transitional (T2)	80
+152	18mos	CD70-/-	23_Ig-restricted	16
+152	18mos	CD70-/-	3_Atypical CD21lowCD23low	30
+152	18mos	CD70-/-	9_Follicular Hspa1+	30
+152	18mos	CD70-/-	11_Follicular	23
+152	18mos	CD70-/-	14_Follicular Serpina3+	3
+152	18mos	CD70-/-	10_Follicular IFN-stimulated	29
+152	18mos	CD70-/-	19_Cycling MHCII low	3
+152	18mos	CD70-/-	1_Marginal Zone	69
+152	18mos	CD70-/-	6_Follicular	31
+152	18mos	CD70-/-	24_Follicular	9
+152	18mos	CD70-/-	20_Ig-restricted	13
+152	18mos	CD70-/-	16_Other	12
+152	18mos	CD70-/-	5_Atypical Marginal Zone	22
+152	18mos	CD70-/-	15_Plasmablasts	24
+152	18mos	CD70-/-	7_Age-associated/autoimmune	30
+152	18mos	CD70-/-	13_Follicular	8
+152	18mos	CD70-/-	8_Age-associated/autoimmune	14
+152	18mos	CD70-/-	4_Atypical CD21-CD23-	21
+152	18mos	CD70-/-	17_Ig-restricted	6
+152	18mos	CD70-/-	27_Light Zone	5
+152	18mos	CD70-/-	25_Ig-restricted	7
+152	18mos	CD70-/-	22_Pre-plasmablasts	NA
+152	18mos	CD70-/-	18_Cycling MHCII low	3
+152	18mos	CD70-/-	21_Cycling MHCII low	2
+292	18mos	CD70-/-	13_Follicular	21
+292	18mos	CD70-/-	10_Follicular IFN-stimulated	38
+292	18mos	CD70-/-	6_Follicular	41
+292	18mos	CD70-/-	0_Follicular	246
+292	18mos	CD70-/-	3_Atypical CD21lowCD23low	51
+292	18mos	CD70-/-	11_Follicular	46
+292	18mos	CD70-/-	9_Follicular Hspa1+	62
+292	18mos	CD70-/-	12_Follicular	35
+292	18mos	CD70-/-	25_Ig-restricted	8
+292	18mos	CD70-/-	7_Age-associated/autoimmune	23
+292	18mos	CD70-/-	1_Marginal Zone	92
+292	18mos	CD70-/-	2_Transitional (T2)	105
+292	18mos	CD70-/-	4_Atypical CD21-CD23-	32
+292	18mos	CD70-/-	16_Other	6
+292	18mos	CD70-/-	14_Follicular Serpina3+	39
+292	18mos	CD70-/-	20_Ig-restricted	15
+292	18mos	CD70-/-	5_Atypical Marginal Zone	20
+292	18mos	CD70-/-	8_Age-associated/autoimmune	20
+292	18mos	CD70-/-	18_Cycling MHCII low	11
+292	18mos	CD70-/-	24_Follicular	19
+292	18mos	CD70-/-	23_Ig-restricted	15
+292	18mos	CD70-/-	15_Plasmablasts	28
+292	18mos	CD70-/-	21_Cycling MHCII low	4
+292	18mos	CD70-/-	17_Ig-restricted	11
+292	18mos	CD70-/-	19_Cycling MHCII low	8
+292	18mos	CD70-/-	27_Light Zone	11
+292	18mos	CD70-/-	22_Pre-plasmablasts	NA
+225	18mos	CD70-/-	14_Follicular Serpina3+	8
+225	18mos	CD70-/-	3_Atypical CD21lowCD23low	56
+225	18mos	CD70-/-	8_Age-associated/autoimmune	30
+225	18mos	CD70-/-	0_Follicular	145
+225	18mos	CD70-/-	16_Other	NA
+225	18mos	CD70-/-	2_Transitional (T2)	108
+225	18mos	CD70-/-	6_Follicular	28
+225	18mos	CD70-/-	1_Marginal Zone	119
+225	18mos	CD70-/-	7_Age-associated/autoimmune	64
+225	18mos	CD70-/-	11_Follicular	27
+225	18mos	CD70-/-	12_Follicular	23
+225	18mos	CD70-/-	20_Ig-restricted	18
+225	18mos	CD70-/-	13_Follicular	15
+225	18mos	CD70-/-	27_Light Zone	16
+225	18mos	CD70-/-	10_Follicular IFN-stimulated	23
+225	18mos	CD70-/-	5_Atypical Marginal Zone	17
+225	18mos	CD70-/-	21_Cycling MHCII low	NA
+225	18mos	CD70-/-	19_Cycling MHCII low	10
+225	18mos	CD70-/-	15_Plasmablasts	36
+225	18mos	CD70-/-	17_Ig-restricted	7
+225	18mos	CD70-/-	4_Atypical CD21-CD23-	29
+225	18mos	CD70-/-	24_Follicular	10
+225	18mos	CD70-/-	23_Ig-restricted	9
+225	18mos	CD70-/-	25_Ig-restricted	10
+225	18mos	CD70-/-	9_Follicular Hspa1+	16
+225	18mos	CD70-/-	22_Pre-plasmablasts	5
+225	18mos	CD70-/-	18_Cycling MHCII low	10
+002	18mos	CD70-/-	13_Follicular	10
+002	18mos	CD70-/-	9_Follicular Hspa1+	10
+002	18mos	CD70-/-	0_Follicular	68
+002	18mos	CD70-/-	1_Marginal Zone	69
+002	18mos	CD70-/-	4_Atypical CD21-CD23-	22
+002	18mos	CD70-/-	7_Age-associated/autoimmune	17
+002	18mos	CD70-/-	2_Transitional (T2)	33
+002	18mos	CD70-/-	18_Cycling MHCII low	5
+002	18mos	CD70-/-	8_Age-associated/autoimmune	18
+002	18mos	CD70-/-	12_Follicular	16
+002	18mos	CD70-/-	24_Follicular	6
+002	18mos	CD70-/-	6_Follicular	16
+002	18mos	CD70-/-	3_Atypical CD21lowCD23low	18
+002	18mos	CD70-/-	10_Follicular IFN-stimulated	14
+002	18mos	CD70-/-	14_Follicular Serpina3+	7
+002	18mos	CD70-/-	11_Follicular	12
+002	18mos	CD70-/-	5_Atypical Marginal Zone	10
+002	18mos	CD70-/-	27_Light Zone	10
+002	18mos	CD70-/-	20_Ig-restricted	7
+002	18mos	CD70-/-	17_Ig-restricted	8
+002	18mos	CD70-/-	15_Plasmablasts	22
+002	18mos	CD70-/-	21_Cycling MHCII low	NA
+002	18mos	CD70-/-	23_Ig-restricted	4
+002	18mos	CD70-/-	16_Other	NA
+002	18mos	CD70-/-	25_Ig-restricted	5
+002	18mos	CD70-/-	22_Pre-plasmablasts	NA
+002	18mos	CD70-/-	19_Cycling MHCII low	4
+186	18mos	CD70-/-	0_Follicular	42
+186	18mos	CD70-/-	6_Follicular	13
+186	18mos	CD70-/-	1_Marginal Zone	29
+186	18mos	CD70-/-	7_Age-associated/autoimmune	21
+186	18mos	CD70-/-	20_Ig-restricted	3
+186	18mos	CD70-/-	10_Follicular IFN-stimulated	12
+186	18mos	CD70-/-	2_Transitional (T2)	45
+186	18mos	CD70-/-	12_Follicular	19
+186	18mos	CD70-/-	22_Pre-plasmablasts	4
+186	18mos	CD70-/-	3_Atypical CD21lowCD23low	20
+186	18mos	CD70-/-	15_Plasmablasts	39
+186	18mos	CD70-/-	11_Follicular	8
+186	18mos	CD70-/-	19_Cycling MHCII low	12
+186	18mos	CD70-/-	13_Follicular	6
+186	18mos	CD70-/-	18_Cycling MHCII low	9
+186	18mos	CD70-/-	8_Age-associated/autoimmune	23
+186	18mos	CD70-/-	14_Follicular Serpina3+	18
+186	18mos	CD70-/-	4_Atypical CD21-CD23-	5
+186	18mos	CD70-/-	17_Ig-restricted	NA
+186	18mos	CD70-/-	23_Ig-restricted	NA
+186	18mos	CD70-/-	16_Other	3
+186	18mos	CD70-/-	9_Follicular Hspa1+	6
+186	18mos	CD70-/-	25_Ig-restricted	3
+186	18mos	CD70-/-	24_Follicular	4
+186	18mos	CD70-/-	21_Cycling MHCII low	6
+186	18mos	CD70-/-	5_Atypical Marginal Zone	10
+186	18mos	CD70-/-	27_Light Zone	6
+030	18mos	Bcl6tg/+	0_Follicular	11
+030	18mos	Bcl6tg/+	22_Pre-plasmablasts	4
+030	18mos	Bcl6tg/+	4_Atypical CD21-CD23-	2
+030	18mos	Bcl6tg/+	6_Follicular	NA
+030	18mos	Bcl6tg/+	8_Age-associated/autoimmune	8
+030	18mos	Bcl6tg/+	5_Atypical Marginal Zone	9
+030	18mos	Bcl6tg/+	24_Follicular	NA
+030	18mos	Bcl6tg/+	1_Marginal Zone	9
+030	18mos	Bcl6tg/+	12_Follicular	NA
+030	18mos	Bcl6tg/+	27_Light Zone	NA
+030	18mos	Bcl6tg/+	13_Follicular	NA
+030	18mos	Bcl6tg/+	7_Age-associated/autoimmune	3
+030	18mos	Bcl6tg/+	21_Cycling MHCII low	NA
+030	18mos	Bcl6tg/+	14_Follicular Serpina3+	NA
+030	18mos	Bcl6tg/+	19_Cycling MHCII low	4
+030	18mos	Bcl6tg/+	2_Transitional (T2)	NA
+030	18mos	Bcl6tg/+	15_Plasmablasts	18
+030	18mos	Bcl6tg/+	25_Ig-restricted	NA
+030	18mos	Bcl6tg/+	3_Atypical CD21lowCD23low	NA
+030	18mos	Bcl6tg/+	9_Follicular Hspa1+	NA
+030	18mos	Bcl6tg/+	18_Cycling MHCII low	NA
+030	18mos	Bcl6tg/+	16_Other	NA
+030	18mos	Bcl6tg/+	11_Follicular	NA
+030	18mos	Bcl6tg/+	10_Follicular IFN-stimulated	3
+030	18mos	Bcl6tg/+	23_Ig-restricted	NA
+030	18mos	Bcl6tg/+	17_Ig-restricted	NA
+030	18mos	Bcl6tg/+	20_Ig-restricted	NA
+037	18mos	Bcl6tg/+	19_Cycling MHCII low	2
+037	18mos	Bcl6tg/+	8_Age-associated/autoimmune	7
+037	18mos	Bcl6tg/+	22_Pre-plasmablasts	2
+037	18mos	Bcl6tg/+	5_Atypical Marginal Zone	3
+037	18mos	Bcl6tg/+	10_Follicular IFN-stimulated	2
+037	18mos	Bcl6tg/+	3_Atypical CD21lowCD23low	5
+037	18mos	Bcl6tg/+	18_Cycling MHCII low	1
+037	18mos	Bcl6tg/+	6_Follicular	NA
+037	18mos	Bcl6tg/+	4_Atypical CD21-CD23-	4
+037	18mos	Bcl6tg/+	7_Age-associated/autoimmune	4
+037	18mos	Bcl6tg/+	11_Follicular	NA
+037	18mos	Bcl6tg/+	15_Plasmablasts	6
+037	18mos	Bcl6tg/+	12_Follicular	NA
+037	18mos	Bcl6tg/+	0_Follicular	2
+037	18mos	Bcl6tg/+	1_Marginal Zone	4
+037	18mos	Bcl6tg/+	2_Transitional (T2)	1
+037	18mos	Bcl6tg/+	14_Follicular Serpina3+	4
+037	18mos	Bcl6tg/+	9_Follicular Hspa1+	NA
+037	18mos	Bcl6tg/+	21_Cycling MHCII low	3
+037	18mos	Bcl6tg/+	25_Ig-restricted	NA
+037	18mos	Bcl6tg/+	27_Light Zone	NA
+037	18mos	Bcl6tg/+	16_Other	NA
+037	18mos	Bcl6tg/+	17_Ig-restricted	NA
+037	18mos	Bcl6tg/+	13_Follicular	NA
+037	18mos	Bcl6tg/+	24_Follicular	NA
+037	18mos	Bcl6tg/+	23_Ig-restricted	NA
+037	18mos	Bcl6tg/+	20_Ig-restricted	NA
+201	18mos	Bcl6tg/+	4_Atypical CD21-CD23-	7
+201	18mos	Bcl6tg/+	1_Marginal Zone	14
+201	18mos	Bcl6tg/+	24_Follicular	NA
+201	18mos	Bcl6tg/+	0_Follicular	60
+201	18mos	Bcl6tg/+	10_Follicular IFN-stimulated	20
+201	18mos	Bcl6tg/+	25_Ig-restricted	4
+201	18mos	Bcl6tg/+	5_Atypical Marginal Zone	4
+201	18mos	Bcl6tg/+	8_Age-associated/autoimmune	11
+201	18mos	Bcl6tg/+	9_Follicular Hspa1+	9
+201	18mos	Bcl6tg/+	12_Follicular	8
+201	18mos	Bcl6tg/+	3_Atypical CD21lowCD23low	8
+201	18mos	Bcl6tg/+	11_Follicular	10
+201	18mos	Bcl6tg/+	23_Ig-restricted	5
+201	18mos	Bcl6tg/+	15_Plasmablasts	7
+201	18mos	Bcl6tg/+	2_Transitional (T2)	15
+201	18mos	Bcl6tg/+	7_Age-associated/autoimmune	28
+201	18mos	Bcl6tg/+	18_Cycling MHCII low	3
+201	18mos	Bcl6tg/+	27_Light Zone	2
+201	18mos	Bcl6tg/+	16_Other	4
+201	18mos	Bcl6tg/+	6_Follicular	8
+201	18mos	Bcl6tg/+	14_Follicular Serpina3+	6
+201	18mos	Bcl6tg/+	20_Ig-restricted	6
+201	18mos	Bcl6tg/+	21_Cycling MHCII low	NA
+201	18mos	Bcl6tg/+	22_Pre-plasmablasts	5
+201	18mos	Bcl6tg/+	13_Follicular	5
+201	18mos	Bcl6tg/+	19_Cycling MHCII low	4
+201	18mos	Bcl6tg/+	17_Ig-restricted	3
+199	18mos	Bcl6tg/+	8_Age-associated/autoimmune	3
+199	18mos	Bcl6tg/+	7_Age-associated/autoimmune	3
+199	18mos	Bcl6tg/+	6_Follicular	5
+199	18mos	Bcl6tg/+	4_Atypical CD21-CD23-	7
+199	18mos	Bcl6tg/+	14_Follicular Serpina3+	13
+199	18mos	Bcl6tg/+	16_Other	NA
+199	18mos	Bcl6tg/+	3_Atypical CD21lowCD23low	5
+199	18mos	Bcl6tg/+	0_Follicular	17
+199	18mos	Bcl6tg/+	1_Marginal Zone	8
+199	18mos	Bcl6tg/+	5_Atypical Marginal Zone	5
+199	18mos	Bcl6tg/+	19_Cycling MHCII low	2
+199	18mos	Bcl6tg/+	18_Cycling MHCII low	2
+199	18mos	Bcl6tg/+	10_Follicular IFN-stimulated	8
+199	18mos	Bcl6tg/+	22_Pre-plasmablasts	2
+199	18mos	Bcl6tg/+	9_Follicular Hspa1+	NA
+199	18mos	Bcl6tg/+	13_Follicular	4
+199	18mos	Bcl6tg/+	21_Cycling MHCII low	2
+199	18mos	Bcl6tg/+	12_Follicular	NA
+199	18mos	Bcl6tg/+	11_Follicular	2
+199	18mos	Bcl6tg/+	24_Follicular	NA
+199	18mos	Bcl6tg/+	17_Ig-restricted	NA
+199	18mos	Bcl6tg/+	2_Transitional (T2)	10
+199	18mos	Bcl6tg/+	15_Plasmablasts	6
+199	18mos	Bcl6tg/+	23_Ig-restricted	NA
+199	18mos	Bcl6tg/+	25_Ig-restricted	NA
+199	18mos	Bcl6tg/+	20_Ig-restricted	NA
+199	18mos	Bcl6tg/+	27_Light Zone	NA
+211b	18mos	Bcl6tg/+	23_Ig-restricted	NA
+211b	18mos	Bcl6tg/+	1_Marginal Zone	9
+211b	18mos	Bcl6tg/+	5_Atypical Marginal Zone	2
+211b	18mos	Bcl6tg/+	3_Atypical CD21lowCD23low	NA
+211b	18mos	Bcl6tg/+	15_Plasmablasts	3
+211b	18mos	Bcl6tg/+	14_Follicular Serpina3+	NA
+211b	18mos	Bcl6tg/+	7_Age-associated/autoimmune	3
+211b	18mos	Bcl6tg/+	8_Age-associated/autoimmune	NA
+211b	18mos	Bcl6tg/+	18_Cycling MHCII low	NA
+211b	18mos	Bcl6tg/+	2_Transitional (T2)	4
+211b	18mos	Bcl6tg/+	13_Follicular	NA
+211b	18mos	Bcl6tg/+	17_Ig-restricted	NA
+211b	18mos	Bcl6tg/+	0_Follicular	7
+211b	18mos	Bcl6tg/+	9_Follicular Hspa1+	NA
+211b	18mos	Bcl6tg/+	16_Other	3
+211b	18mos	Bcl6tg/+	6_Follicular	NA
+211b	18mos	Bcl6tg/+	11_Follicular	NA
+211b	18mos	Bcl6tg/+	10_Follicular IFN-stimulated	NA
+211b	18mos	Bcl6tg/+	4_Atypical CD21-CD23-	3
+211b	18mos	Bcl6tg/+	20_Ig-restricted	NA
+211b	18mos	Bcl6tg/+	12_Follicular	NA
+211b	18mos	Bcl6tg/+	24_Follicular	NA
+211b	18mos	Bcl6tg/+	19_Cycling MHCII low	NA
+211b	18mos	Bcl6tg/+	27_Light Zone	NA
+211b	18mos	Bcl6tg/+	21_Cycling MHCII low	NA
+262b	18mos	Bcl6tg/+	3_Atypical CD21lowCD23low	19
+262b	18mos	Bcl6tg/+	1_Marginal Zone	53
+262b	18mos	Bcl6tg/+	4_Atypical CD21-CD23-	11
+262b	18mos	Bcl6tg/+	20_Ig-restricted	11
+262b	18mos	Bcl6tg/+	2_Transitional (T2)	29
+262b	18mos	Bcl6tg/+	7_Age-associated/autoimmune	13
+262b	18mos	Bcl6tg/+	0_Follicular	71
+262b	18mos	Bcl6tg/+	9_Follicular Hspa1+	18
+262b	18mos	Bcl6tg/+	14_Follicular Serpina3+	66
+262b	18mos	Bcl6tg/+	27_Light Zone	5
+262b	18mos	Bcl6tg/+	10_Follicular IFN-stimulated	30
+262b	18mos	Bcl6tg/+	5_Atypical Marginal Zone	13
+262b	18mos	Bcl6tg/+	6_Follicular	16
+262b	18mos	Bcl6tg/+	11_Follicular	19
+262b	18mos	Bcl6tg/+	21_Cycling MHCII low	2
+262b	18mos	Bcl6tg/+	12_Follicular	14
+262b	18mos	Bcl6tg/+	8_Age-associated/autoimmune	15
+262b	18mos	Bcl6tg/+	15_Plasmablasts	12
+262b	18mos	Bcl6tg/+	22_Pre-plasmablasts	4
+262b	18mos	Bcl6tg/+	18_Cycling MHCII low	2
+262b	18mos	Bcl6tg/+	16_Other	NA
+262b	18mos	Bcl6tg/+	23_Ig-restricted	4
+262b	18mos	Bcl6tg/+	24_Follicular	13
+262b	18mos	Bcl6tg/+	13_Follicular	NA
+262b	18mos	Bcl6tg/+	19_Cycling MHCII low	2
+262b	18mos	Bcl6tg/+	17_Ig-restricted	NA
+262b	18mos	Bcl6tg/+	25_Ig-restricted	NA
+004	18mos	CD70-/-;Bcl6tg/+	16_Other	NA
+004	18mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	4
+004	18mos	CD70-/-;Bcl6tg/+	13_Follicular	3
+004	18mos	CD70-/-;Bcl6tg/+	12_Follicular	2
+004	18mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	3
+004	18mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	2
+004	18mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	3
+004	18mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	4
+004	18mos	CD70-/-;Bcl6tg/+	0_Follicular	1
+004	18mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	3
+004	18mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	5
+004	18mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	2
+004	18mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	4
+004	18mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	2
+004	18mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	6
+004	18mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	NA
+004	18mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	4
+004	18mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	3
+004	18mos	CD70-/-;Bcl6tg/+	6_Follicular	2
+004	18mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	NA
+004	18mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+004	18mos	CD70-/-;Bcl6tg/+	11_Follicular	NA
+004	18mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	NA
+004	18mos	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+004	18mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	NA
+004	18mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	NA
+004	18mos	CD70-/-;Bcl6tg/+	24_Follicular	NA
+084	18mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	6
+084	18mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	31
+084	18mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	17
+084	18mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	3
+084	18mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	10
+084	18mos	CD70-/-;Bcl6tg/+	12_Follicular	28
+084	18mos	CD70-/-;Bcl6tg/+	0_Follicular	117
+084	18mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	7
+084	18mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	10
+084	18mos	CD70-/-;Bcl6tg/+	6_Follicular	23
+084	18mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	27
+084	18mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	9
+084	18mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	22
+084	18mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	3
+084	18mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	38
+084	18mos	CD70-/-;Bcl6tg/+	11_Follicular	19
+084	18mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	6
+084	18mos	CD70-/-;Bcl6tg/+	16_Other	5
+084	18mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	35
+084	18mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	3
+084	18mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	7
+084	18mos	CD70-/-;Bcl6tg/+	24_Follicular	7
+084	18mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	6
+084	18mos	CD70-/-;Bcl6tg/+	13_Follicular	5
+084	18mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	4
+084	18mos	CD70-/-;Bcl6tg/+	27_Light Zone	4
+084	18mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	NA
+059	18mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	7
+059	18mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	6
+059	18mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	5
+059	18mos	CD70-/-;Bcl6tg/+	0_Follicular	5
+059	18mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	4
+059	18mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	5
+059	18mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	6
+059	18mos	CD70-/-;Bcl6tg/+	13_Follicular	1
+059	18mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	5
+059	18mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	3
+059	18mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	3
+059	18mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	1
+059	18mos	CD70-/-;Bcl6tg/+	12_Follicular	1
+059	18mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	2
+059	18mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	5
+059	18mos	CD70-/-;Bcl6tg/+	11_Follicular	4
+059	18mos	CD70-/-;Bcl6tg/+	6_Follicular	1
+059	18mos	CD70-/-;Bcl6tg/+	27_Light Zone	2
+059	18mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	2
+059	18mos	CD70-/-;Bcl6tg/+	16_Other	NA
+059	18mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	1
+059	18mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	6
+059	18mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	3
+059	18mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	1
+059	18mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+059	18mos	CD70-/-;Bcl6tg/+	24_Follicular	NA
+086	18mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	11
+086	18mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	10
+086	18mos	CD70-/-;Bcl6tg/+	16_Other	5
+086	18mos	CD70-/-;Bcl6tg/+	12_Follicular	6
+086	18mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	14
+086	18mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	9
+086	18mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	6
+086	18mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	8
+086	18mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	16
+086	18mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	5
+086	18mos	CD70-/-;Bcl6tg/+	11_Follicular	11
+086	18mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	20
+086	18mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	25
+086	18mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	5
+086	18mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	2
+086	18mos	CD70-/-;Bcl6tg/+	0_Follicular	22
+086	18mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	3
+086	18mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	12
+086	18mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	6
+086	18mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	2
+086	18mos	CD70-/-;Bcl6tg/+	13_Follicular	3
+086	18mos	CD70-/-;Bcl6tg/+	6_Follicular	8
+086	18mos	CD70-/-;Bcl6tg/+	24_Follicular	5
+086	18mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	NA
+086	18mos	CD70-/-;Bcl6tg/+	27_Light Zone	6
+086	18mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	5
+086	18mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	15
+056	18mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	3
+056	18mos	CD70-/-;Bcl6tg/+	0_Follicular	44
+056	18mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	4
+056	18mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	2
+056	18mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	5
+056	18mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	8
+056	18mos	CD70-/-;Bcl6tg/+	11_Follicular	4
+056	18mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	1
+056	18mos	CD70-/-;Bcl6tg/+	24_Follicular	2
+056	18mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	1
+056	18mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	2
+056	18mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	2
+056	18mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	4
+056	18mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	11
+056	18mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	2
+056	18mos	CD70-/-;Bcl6tg/+	6_Follicular	6
+056	18mos	CD70-/-;Bcl6tg/+	12_Follicular	5
+056	18mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	6
+056	18mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	9
+056	18mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	6
+056	18mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	6
+056	18mos	CD70-/-;Bcl6tg/+	16_Other	NA
+056	18mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	3
+056	18mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+056	18mos	CD70-/-;Bcl6tg/+	13_Follicular	3
+056	18mos	CD70-/-;Bcl6tg/+	27_Light Zone	1
+056	18mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	1
+058	18mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	34
+058	18mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	17
+058	18mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	13
+058	18mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	25
+058	18mos	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	5
+058	18mos	CD70-/-;Bcl6tg/+	17_Ig-restricted	7
+058	18mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	30
+058	18mos	CD70-/-;Bcl6tg/+	13_Follicular	7
+058	18mos	CD70-/-;Bcl6tg/+	6_Follicular	8
+058	18mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	15
+058	18mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	17
+058	18mos	CD70-/-;Bcl6tg/+	0_Follicular	39
+058	18mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	33
+058	18mos	CD70-/-;Bcl6tg/+	12_Follicular	15
+058	18mos	CD70-/-;Bcl6tg/+	11_Follicular	20
+058	18mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	7
+058	18mos	CD70-/-;Bcl6tg/+	16_Other	4
+058	18mos	CD70-/-;Bcl6tg/+	24_Follicular	2
+058	18mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	10
+058	18mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	4
+058	18mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	11
+058	18mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	17
+058	18mos	CD70-/-;Bcl6tg/+	23_Ig-restricted	3
+058	18mos	CD70-/-;Bcl6tg/+	20_Ig-restricted	7
+058	18mos	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+058	18mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	4
+058	18mos	CD70-/-;Bcl6tg/+	25_Ig-restricted	2
+012	sick	CD70-/-	0_Follicular	80
+012	sick	CD70-/-	1_Marginal Zone	79
+012	sick	CD70-/-	7_Age-associated/autoimmune	68
+012	sick	CD70-/-	11_Follicular	17
+012	sick	CD70-/-	16_Other	4
+012	sick	CD70-/-	5_Atypical Marginal Zone	27
+012	sick	CD70-/-	17_Ig-restricted	4
+012	sick	CD70-/-	15_Plasmablasts	65
+012	sick	CD70-/-	10_Follicular IFN-stimulated	16
+012	sick	CD70-/-	8_Age-associated/autoimmune	28
+012	sick	CD70-/-	13_Follicular	7
+012	sick	CD70-/-	3_Atypical CD21lowCD23low	52
+012	sick	CD70-/-	25_Ig-restricted	3
+012	sick	CD70-/-	4_Atypical CD21-CD23-	25
+012	sick	CD70-/-	23_Ig-restricted	4
+012	sick	CD70-/-	12_Follicular	23
+012	sick	CD70-/-	2_Transitional (T2)	31
+012	sick	CD70-/-	27_Light Zone	7
+012	sick	CD70-/-	6_Follicular	10
+012	sick	CD70-/-	9_Follicular Hspa1+	6
+012	sick	CD70-/-	14_Follicular Serpina3+	3
+012	sick	CD70-/-	22_Pre-plasmablasts	3
+012	sick	CD70-/-	24_Follicular	NA
+012	sick	CD70-/-	19_Cycling MHCII low	3
+012	sick	CD70-/-	18_Cycling MHCII low	6
+012	sick	CD70-/-	21_Cycling MHCII low	6
+012	sick	CD70-/-	20_Ig-restricted	4
+288	sick	CD70-/-	14_Follicular Serpina3+	19
+288	sick	CD70-/-	1_Marginal Zone	13
+288	sick	CD70-/-	15_Plasmablasts	46
+288	sick	CD70-/-	5_Atypical Marginal Zone	5
+288	sick	CD70-/-	0_Follicular	43
+288	sick	CD70-/-	7_Age-associated/autoimmune	8
+288	sick	CD70-/-	3_Atypical CD21lowCD23low	5
+288	sick	CD70-/-	19_Cycling MHCII low	NA
+288	sick	CD70-/-	2_Transitional (T2)	9
+288	sick	CD70-/-	8_Age-associated/autoimmune	9
+288	sick	CD70-/-	6_Follicular	5
+288	sick	CD70-/-	24_Follicular	NA
+288	sick	CD70-/-	4_Atypical CD21-CD23-	11
+288	sick	CD70-/-	21_Cycling MHCII low	NA
+288	sick	CD70-/-	13_Follicular	NA
+288	sick	CD70-/-	18_Cycling MHCII low	NA
+288	sick	CD70-/-	16_Other	NA
+288	sick	CD70-/-	23_Ig-restricted	3
+288	sick	CD70-/-	10_Follicular IFN-stimulated	5
+288	sick	CD70-/-	11_Follicular	6
+288	sick	CD70-/-	27_Light Zone	NA
+288	sick	CD70-/-	9_Follicular Hspa1+	NA
+288	sick	CD70-/-	22_Pre-plasmablasts	2
+288	sick	CD70-/-	12_Follicular	4
+288	sick	CD70-/-	25_Ig-restricted	NA
+288	sick	CD70-/-	20_Ig-restricted	NA
+288	sick	CD70-/-	17_Ig-restricted	NA
+177	sick	Bcl6tg/+	22_Pre-plasmablasts	3
+177	sick	Bcl6tg/+	8_Age-associated/autoimmune	3
+177	sick	Bcl6tg/+	19_Cycling MHCII low	3
+177	sick	Bcl6tg/+	23_Ig-restricted	3
+177	sick	Bcl6tg/+	18_Cycling MHCII low	3
+177	sick	Bcl6tg/+	1_Marginal Zone	5
+177	sick	Bcl6tg/+	4_Atypical CD21-CD23-	2
+177	sick	Bcl6tg/+	3_Atypical CD21lowCD23low	4
+177	sick	Bcl6tg/+	15_Plasmablasts	6
+177	sick	Bcl6tg/+	14_Follicular Serpina3+	5
+177	sick	Bcl6tg/+	12_Follicular	3
+177	sick	Bcl6tg/+	7_Age-associated/autoimmune	2
+177	sick	Bcl6tg/+	21_Cycling MHCII low	3
+177	sick	Bcl6tg/+	0_Follicular	NA
+177	sick	Bcl6tg/+	11_Follicular	NA
+177	sick	Bcl6tg/+	5_Atypical Marginal Zone	3
+177	sick	Bcl6tg/+	9_Follicular Hspa1+	NA
+177	sick	Bcl6tg/+	6_Follicular	NA
+177	sick	Bcl6tg/+	13_Follicular	1
+177	sick	Bcl6tg/+	27_Light Zone	NA
+177	sick	Bcl6tg/+	10_Follicular IFN-stimulated	NA
+177	sick	Bcl6tg/+	2_Transitional (T2)	NA
+177	sick	Bcl6tg/+	16_Other	NA
+177	sick	Bcl6tg/+	20_Ig-restricted	NA
+195	sick	Bcl6tg/+	4_Atypical CD21-CD23-	1
+195	sick	Bcl6tg/+	21_Cycling MHCII low	1
+195	sick	Bcl6tg/+	19_Cycling MHCII low	1
+195	sick	Bcl6tg/+	22_Pre-plasmablasts	2
+195	sick	Bcl6tg/+	8_Age-associated/autoimmune	1
+195	sick	Bcl6tg/+	11_Follicular	NA
+195	sick	Bcl6tg/+	15_Plasmablasts	2
+195	sick	Bcl6tg/+	5_Atypical Marginal Zone	1
+195	sick	Bcl6tg/+	7_Age-associated/autoimmune	1
+195	sick	Bcl6tg/+	0_Follicular	NA
+195	sick	Bcl6tg/+	6_Follicular	1
+195	sick	Bcl6tg/+	18_Cycling MHCII low	1
+195	sick	Bcl6tg/+	2_Transitional (T2)	NA
+195	sick	Bcl6tg/+	12_Follicular	NA
+195	sick	Bcl6tg/+	25_Ig-restricted	NA
+195	sick	Bcl6tg/+	9_Follicular Hspa1+	NA
+195	sick	Bcl6tg/+	1_Marginal Zone	4
+195	sick	Bcl6tg/+	14_Follicular Serpina3+	NA
+195	sick	Bcl6tg/+	13_Follicular	NA
+195	sick	Bcl6tg/+	3_Atypical CD21lowCD23low	2
+195	sick	Bcl6tg/+	16_Other	NA
+195	sick	Bcl6tg/+	27_Light Zone	NA
+195	sick	Bcl6tg/+	10_Follicular IFN-stimulated	NA
+026	sick	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	1
+026	sick	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	NA
+026	sick	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	4
+026	sick	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	3
+026	sick	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	NA
+026	sick	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	1
+026	sick	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	1
+026	sick	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	2
+026	sick	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	1
+026	sick	CD70-/-;Bcl6tg/+	12_Follicular	NA
+026	sick	CD70-/-;Bcl6tg/+	15_Plasmablasts	1
+026	sick	CD70-/-;Bcl6tg/+	0_Follicular	NA
+026	sick	CD70-/-;Bcl6tg/+	6_Follicular	NA
+026	sick	CD70-/-;Bcl6tg/+	2_Transitional (T2)	NA
+179	sick	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	2
+179	sick	CD70-/-;Bcl6tg/+	24_Follicular	NA
+179	sick	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	2
+179	sick	CD70-/-;Bcl6tg/+	0_Follicular	2
+179	sick	CD70-/-;Bcl6tg/+	16_Other	NA
+179	sick	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	NA
+179	sick	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	2
+179	sick	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	2
+179	sick	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	2
+179	sick	CD70-/-;Bcl6tg/+	11_Follicular	NA
+179	sick	CD70-/-;Bcl6tg/+	12_Follicular	NA
+179	sick	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	NA
+179	sick	CD70-/-;Bcl6tg/+	1_Marginal Zone	NA
+179	sick	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	NA
+179	sick	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	3
+179	sick	CD70-/-;Bcl6tg/+	6_Follicular	NA
+179	sick	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+179	sick	CD70-/-;Bcl6tg/+	15_Plasmablasts	3
+179	sick	CD70-/-;Bcl6tg/+	20_Ig-restricted	NA
+179	sick	CD70-/-;Bcl6tg/+	2_Transitional (T2)	NA
+179	sick	CD70-/-;Bcl6tg/+	25_Ig-restricted	NA
+179	sick	CD70-/-;Bcl6tg/+	13_Follicular	NA
+179	sick	CD70-/-;Bcl6tg/+	17_Ig-restricted	NA
+179	sick	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	NA
+179	sick	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	NA
+179	sick	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	NA
+179	sick	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+121	sick	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	2
+121	sick	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	NA
+121	sick	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	1
+121	sick	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	2
+121	sick	CD70-/-;Bcl6tg/+	6_Follicular	NA
+121	sick	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	1
+121	sick	CD70-/-;Bcl6tg/+	15_Plasmablasts	10
+121	sick	CD70-/-;Bcl6tg/+	13_Follicular	NA
+121	sick	CD70-/-;Bcl6tg/+	12_Follicular	NA
+121	sick	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	1
+121	sick	CD70-/-;Bcl6tg/+	0_Follicular	NA
+121	sick	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	2
+121	sick	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	NA
+121	sick	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+121	sick	CD70-/-;Bcl6tg/+	1_Marginal Zone	3
+121	sick	CD70-/-;Bcl6tg/+	17_Ig-restricted	NA
+121	sick	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	3
+121	sick	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	NA
+121	sick	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	NA
+121	sick	CD70-/-;Bcl6tg/+	2_Transitional (T2)	NA
+121	sick	CD70-/-;Bcl6tg/+	16_Other	NA
+121	sick	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	2
+121	sick	CD70-/-;Bcl6tg/+	24_Follicular	NA
+121	sick	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+062	sick	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	1
+062	sick	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	2
+062	sick	CD70-/-;Bcl6tg/+	6_Follicular	NA
+062	sick	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	1
+062	sick	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	1
+062	sick	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	NA
+062	sick	CD70-/-;Bcl6tg/+	1_Marginal Zone	NA
+062	sick	CD70-/-;Bcl6tg/+	12_Follicular	NA
+062	sick	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	3
+062	sick	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	2
+062	sick	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	2
+062	sick	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	2
+062	sick	CD70-/-;Bcl6tg/+	16_Other	NA
+062	sick	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	1
+062	sick	CD70-/-;Bcl6tg/+	13_Follicular	NA
+062	sick	CD70-/-;Bcl6tg/+	15_Plasmablasts	1
+062	sick	CD70-/-;Bcl6tg/+	0_Follicular	NA
+062	sick	CD70-/-;Bcl6tg/+	2_Transitional (T2)	NA
+062	sick	CD70-/-;Bcl6tg/+	24_Follicular	NA
+062	sick	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+062	sick	CD70-/-;Bcl6tg/+	20_Ig-restricted	NA
+062	sick	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+062	sick	CD70-/-;Bcl6tg/+	11_Follicular	NA
+191	18mos	Bcl6tg/+	4_Atypical CD21-CD23-	2
+191	18mos	Bcl6tg/+	7_Age-associated/autoimmune	3
+191	18mos	Bcl6tg/+	5_Atypical Marginal Zone	4
+191	18mos	Bcl6tg/+	22_Pre-plasmablasts	3
+191	18mos	Bcl6tg/+	8_Age-associated/autoimmune	6
+191	18mos	Bcl6tg/+	14_Follicular Serpina3+	8
+191	18mos	Bcl6tg/+	15_Plasmablasts	5
+191	18mos	Bcl6tg/+	21_Cycling MHCII low	2
+191	18mos	Bcl6tg/+	1_Marginal Zone	5
+191	18mos	Bcl6tg/+	12_Follicular	NA
+191	18mos	Bcl6tg/+	19_Cycling MHCII low	2
+191	18mos	Bcl6tg/+	6_Follicular	2
+191	18mos	Bcl6tg/+	11_Follicular	1
+191	18mos	Bcl6tg/+	10_Follicular IFN-stimulated	2
+191	18mos	Bcl6tg/+	18_Cycling MHCII low	1
+191	18mos	Bcl6tg/+	3_Atypical CD21lowCD23low	1
+191	18mos	Bcl6tg/+	0_Follicular	NA
+191	18mos	Bcl6tg/+	2_Transitional (T2)	2
+191	18mos	Bcl6tg/+	16_Other	NA
+191	18mos	Bcl6tg/+	13_Follicular	NA
+191	18mos	Bcl6tg/+	17_Ig-restricted	NA
+191	18mos	Bcl6tg/+	9_Follicular Hspa1+	NA
+191	18mos	Bcl6tg/+	27_Light Zone	NA
+191	18mos	Bcl6tg/+	20_Ig-restricted	NA
+191	18mos	Bcl6tg/+	23_Ig-restricted	NA
+191	18mos	Bcl6tg/+	24_Follicular	NA
+191	18mos	Bcl6tg/+	25_Ig-restricted	NA
+254	18mos	Bcl6tg/+	4_Atypical CD21-CD23-	2
+254	18mos	Bcl6tg/+	10_Follicular IFN-stimulated	4
+254	18mos	Bcl6tg/+	18_Cycling MHCII low	2
+254	18mos	Bcl6tg/+	19_Cycling MHCII low	3
+254	18mos	Bcl6tg/+	8_Age-associated/autoimmune	3
+254	18mos	Bcl6tg/+	6_Follicular	3
+254	18mos	Bcl6tg/+	3_Atypical CD21lowCD23low	5
+254	18mos	Bcl6tg/+	16_Other	NA
+254	18mos	Bcl6tg/+	25_Ig-restricted	NA
+254	18mos	Bcl6tg/+	22_Pre-plasmablasts	NA
+254	18mos	Bcl6tg/+	5_Atypical Marginal Zone	2
+254	18mos	Bcl6tg/+	11_Follicular	NA
+254	18mos	Bcl6tg/+	1_Marginal Zone	2
+254	18mos	Bcl6tg/+	15_Plasmablasts	3
+254	18mos	Bcl6tg/+	0_Follicular	7
+254	18mos	Bcl6tg/+	2_Transitional (T2)	NA
+254	18mos	Bcl6tg/+	14_Follicular Serpina3+	NA
+254	18mos	Bcl6tg/+	13_Follicular	NA
+254	18mos	Bcl6tg/+	12_Follicular	NA
+254	18mos	Bcl6tg/+	21_Cycling MHCII low	1
+254	18mos	Bcl6tg/+	7_Age-associated/autoimmune	1
+254	18mos	Bcl6tg/+	27_Light Zone	NA
+254	18mos	Bcl6tg/+	9_Follicular Hspa1+	NA
+254	18mos	Bcl6tg/+	17_Ig-restricted	NA
+254	18mos	Bcl6tg/+	24_Follicular	NA
+254	18mos	Bcl6tg/+	20_Ig-restricted	NA
+254	18mos	Bcl6tg/+	23_Ig-restricted	NA
+109	18mos	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	3
+109	18mos	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	NA
+109	18mos	CD70-/-;Bcl6tg/+	13_Follicular	NA
+109	18mos	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	2
+109	18mos	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	NA
+109	18mos	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	1
+109	18mos	CD70-/-;Bcl6tg/+	1_Marginal Zone	NA
+109	18mos	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	1
+109	18mos	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	NA
+109	18mos	CD70-/-;Bcl6tg/+	15_Plasmablasts	3
+109	18mos	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	1
+109	18mos	CD70-/-;Bcl6tg/+	16_Other	NA
+109	18mos	CD70-/-;Bcl6tg/+	11_Follicular	NA
+109	18mos	CD70-/-;Bcl6tg/+	12_Follicular	NA
+109	18mos	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	2
+109	18mos	CD70-/-;Bcl6tg/+	0_Follicular	NA
+109	18mos	CD70-/-;Bcl6tg/+	6_Follicular	NA
+109	18mos	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	NA
+109	18mos	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	NA
+109	18mos	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+109	18mos	CD70-/-;Bcl6tg/+	2_Transitional (T2)	NA
+192	sick	Bcl6tg/+	22_Pre-plasmablasts	8
+192	sick	Bcl6tg/+	7_Age-associated/autoimmune	5
+192	sick	Bcl6tg/+	15_Plasmablasts	8
+192	sick	Bcl6tg/+	21_Cycling MHCII low	7
+192	sick	Bcl6tg/+	0_Follicular	4
+192	sick	Bcl6tg/+	10_Follicular IFN-stimulated	1
+192	sick	Bcl6tg/+	18_Cycling MHCII low	5
+192	sick	Bcl6tg/+	19_Cycling MHCII low	4
+192	sick	Bcl6tg/+	3_Atypical CD21lowCD23low	5
+192	sick	Bcl6tg/+	5_Atypical Marginal Zone	8
+192	sick	Bcl6tg/+	16_Other	3
+192	sick	Bcl6tg/+	8_Age-associated/autoimmune	9
+192	sick	Bcl6tg/+	4_Atypical CD21-CD23-	5
+192	sick	Bcl6tg/+	13_Follicular	3
+192	sick	Bcl6tg/+	1_Marginal Zone	4
+192	sick	Bcl6tg/+	2_Transitional (T2)	5
+192	sick	Bcl6tg/+	6_Follicular	2
+192	sick	Bcl6tg/+	12_Follicular	4
+192	sick	Bcl6tg/+	11_Follicular	4
+192	sick	Bcl6tg/+	23_Ig-restricted	NA
+192	sick	Bcl6tg/+	14_Follicular Serpina3+	NA
+192	sick	Bcl6tg/+	27_Light Zone	1
+192	sick	Bcl6tg/+	24_Follicular	NA
+192	sick	Bcl6tg/+	20_Ig-restricted	NA
+192	sick	Bcl6tg/+	9_Follicular Hspa1+	NA
+192	sick	Bcl6tg/+	25_Ig-restricted	NA
+184	sick	Bcl6tg/+	15_Plasmablasts	5
+184	sick	Bcl6tg/+	21_Cycling MHCII low	3
+184	sick	Bcl6tg/+	7_Age-associated/autoimmune	7
+184	sick	Bcl6tg/+	18_Cycling MHCII low	2
+184	sick	Bcl6tg/+	1_Marginal Zone	2
+184	sick	Bcl6tg/+	6_Follicular	3
+184	sick	Bcl6tg/+	0_Follicular	5
+184	sick	Bcl6tg/+	23_Ig-restricted	NA
+184	sick	Bcl6tg/+	3_Atypical CD21lowCD23low	4
+184	sick	Bcl6tg/+	8_Age-associated/autoimmune	9
+184	sick	Bcl6tg/+	5_Atypical Marginal Zone	3
+184	sick	Bcl6tg/+	13_Follicular	4
+184	sick	Bcl6tg/+	19_Cycling MHCII low	2
+184	sick	Bcl6tg/+	9_Follicular Hspa1+	1
+184	sick	Bcl6tg/+	22_Pre-plasmablasts	5
+184	sick	Bcl6tg/+	11_Follicular	NA
+184	sick	Bcl6tg/+	2_Transitional (T2)	NA
+184	sick	Bcl6tg/+	12_Follicular	2
+184	sick	Bcl6tg/+	4_Atypical CD21-CD23-	4
+184	sick	Bcl6tg/+	16_Other	NA
+184	sick	Bcl6tg/+	27_Light Zone	NA
+184	sick	Bcl6tg/+	10_Follicular IFN-stimulated	NA
+184	sick	Bcl6tg/+	20_Ig-restricted	NA
+184	sick	Bcl6tg/+	14_Follicular Serpina3+	NA
+184	sick	Bcl6tg/+	24_Follicular	NA
+256	sick	Bcl6tg/+	0_Follicular	54
+256	sick	Bcl6tg/+	25_Ig-restricted	3
+256	sick	Bcl6tg/+	7_Age-associated/autoimmune	19
+256	sick	Bcl6tg/+	6_Follicular	14
+256	sick	Bcl6tg/+	1_Marginal Zone	20
+256	sick	Bcl6tg/+	4_Atypical CD21-CD23-	17
+256	sick	Bcl6tg/+	27_Light Zone	NA
+256	sick	Bcl6tg/+	2_Transitional (T2)	8
+256	sick	Bcl6tg/+	8_Age-associated/autoimmune	3
+256	sick	Bcl6tg/+	3_Atypical CD21lowCD23low	10
+256	sick	Bcl6tg/+	11_Follicular	6
+256	sick	Bcl6tg/+	14_Follicular Serpina3+	18
+256	sick	Bcl6tg/+	12_Follicular	11
+256	sick	Bcl6tg/+	13_Follicular	6
+256	sick	Bcl6tg/+	17_Ig-restricted	NA
+256	sick	Bcl6tg/+	10_Follicular IFN-stimulated	21
+256	sick	Bcl6tg/+	16_Other	4
+256	sick	Bcl6tg/+	18_Cycling MHCII low	3
+256	sick	Bcl6tg/+	9_Follicular Hspa1+	10
+256	sick	Bcl6tg/+	20_Ig-restricted	5
+256	sick	Bcl6tg/+	15_Plasmablasts	6
+256	sick	Bcl6tg/+	5_Atypical Marginal Zone	11
+256	sick	Bcl6tg/+	21_Cycling MHCII low	4
+256	sick	Bcl6tg/+	24_Follicular	9
+256	sick	Bcl6tg/+	19_Cycling MHCII low	3
+256	sick	Bcl6tg/+	22_Pre-plasmablasts	NA
+256	sick	Bcl6tg/+	23_Ig-restricted	NA
+200	sick	Bcl6tg/+	21_Cycling MHCII low	2
+200	sick	Bcl6tg/+	1_Marginal Zone	1
+200	sick	Bcl6tg/+	4_Atypical CD21-CD23-	2
+200	sick	Bcl6tg/+	7_Age-associated/autoimmune	2
+200	sick	Bcl6tg/+	12_Follicular	3
+200	sick	Bcl6tg/+	15_Plasmablasts	1
+200	sick	Bcl6tg/+	19_Cycling MHCII low	1
+200	sick	Bcl6tg/+	6_Follicular	NA
+200	sick	Bcl6tg/+	3_Atypical CD21lowCD23low	1
+200	sick	Bcl6tg/+	8_Age-associated/autoimmune	4
+200	sick	Bcl6tg/+	5_Atypical Marginal Zone	3
+200	sick	Bcl6tg/+	2_Transitional (T2)	1
+200	sick	Bcl6tg/+	16_Other	1
+200	sick	Bcl6tg/+	18_Cycling MHCII low	1
+200	sick	Bcl6tg/+	0_Follicular	2
+200	sick	Bcl6tg/+	11_Follicular	1
+200	sick	Bcl6tg/+	13_Follicular	2
+200	sick	Bcl6tg/+	22_Pre-plasmablasts	1
+200	sick	Bcl6tg/+	25_Ig-restricted	NA
+200	sick	Bcl6tg/+	14_Follicular Serpina3+	1
+200	sick	Bcl6tg/+	9_Follicular Hspa1+	NA
+200	sick	Bcl6tg/+	10_Follicular IFN-stimulated	NA
+200	sick	Bcl6tg/+	27_Light Zone	NA
+200	sick	Bcl6tg/+	23_Ig-restricted	NA
+200	sick	Bcl6tg/+	17_Ig-restricted	NA
+021	sick	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	2
+021	sick	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	1
+021	sick	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	2
+021	sick	CD70-/-;Bcl6tg/+	16_Other	1
+021	sick	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	1
+021	sick	CD70-/-;Bcl6tg/+	15_Plasmablasts	1
+021	sick	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	1
+021	sick	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	1
+021	sick	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	1
+021	sick	CD70-/-;Bcl6tg/+	1_Marginal Zone	1
+021	sick	CD70-/-;Bcl6tg/+	0_Follicular	1
+021	sick	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	2
+021	sick	CD70-/-;Bcl6tg/+	12_Follicular	1
+021	sick	CD70-/-;Bcl6tg/+	2_Transitional (T2)	1
+021	sick	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	1
+021	sick	CD70-/-;Bcl6tg/+	13_Follicular	1
+021	sick	CD70-/-;Bcl6tg/+	6_Follicular	1
+021	sick	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	1
+021	sick	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	1
+021	sick	CD70-/-;Bcl6tg/+	11_Follicular	1
+021	sick	CD70-/-;Bcl6tg/+	24_Follicular	NA
+021	sick	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+107	sick	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	3
+107	sick	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	7
+107	sick	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	6
+107	sick	CD70-/-;Bcl6tg/+	2_Transitional (T2)	2
+107	sick	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	2
+107	sick	CD70-/-;Bcl6tg/+	11_Follicular	3
+107	sick	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	8
+107	sick	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	8
+107	sick	CD70-/-;Bcl6tg/+	12_Follicular	3
+107	sick	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	7
+107	sick	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	8
+107	sick	CD70-/-;Bcl6tg/+	6_Follicular	3
+107	sick	CD70-/-;Bcl6tg/+	0_Follicular	NA
+107	sick	CD70-/-;Bcl6tg/+	16_Other	NA
+107	sick	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	6
+107	sick	CD70-/-;Bcl6tg/+	15_Plasmablasts	6
+107	sick	CD70-/-;Bcl6tg/+	13_Follicular	NA
+107	sick	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	NA
+107	sick	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	4
+107	sick	CD70-/-;Bcl6tg/+	1_Marginal Zone	3
+107	sick	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+107	sick	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+107	sick	CD70-/-;Bcl6tg/+	17_Ig-restricted	NA
+041	sick	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	3
+041	sick	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	2
+041	sick	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	4
+041	sick	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	NA
+041	sick	CD70-/-;Bcl6tg/+	1_Marginal Zone	NA
+041	sick	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	1
+041	sick	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	2
+041	sick	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	3
+041	sick	CD70-/-;Bcl6tg/+	11_Follicular	NA
+041	sick	CD70-/-;Bcl6tg/+	15_Plasmablasts	4
+041	sick	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	1
+041	sick	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	NA
+041	sick	CD70-/-;Bcl6tg/+	0_Follicular	NA
+041	sick	CD70-/-;Bcl6tg/+	6_Follicular	NA
+041	sick	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	1
+041	sick	CD70-/-;Bcl6tg/+	12_Follicular	NA
+041	sick	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	NA
+041	sick	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+041	sick	CD70-/-;Bcl6tg/+	2_Transitional (T2)	NA
+041	sick	CD70-/-;Bcl6tg/+	13_Follicular	NA
+041	sick	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	NA
+116	sick	CD70-/-;Bcl6tg/+	5_Atypical Marginal Zone	2
+116	sick	CD70-/-;Bcl6tg/+	12_Follicular	NA
+116	sick	CD70-/-;Bcl6tg/+	19_Cycling MHCII low	2
+116	sick	CD70-/-;Bcl6tg/+	7_Age-associated/autoimmune	1
+116	sick	CD70-/-;Bcl6tg/+	3_Atypical CD21lowCD23low	2
+116	sick	CD70-/-;Bcl6tg/+	8_Age-associated/autoimmune	1
+116	sick	CD70-/-;Bcl6tg/+	21_Cycling MHCII low	1
+116	sick	CD70-/-;Bcl6tg/+	1_Marginal Zone	2
+116	sick	CD70-/-;Bcl6tg/+	18_Cycling MHCII low	1
+116	sick	CD70-/-;Bcl6tg/+	22_Pre-plasmablasts	3
+116	sick	CD70-/-;Bcl6tg/+	4_Atypical CD21-CD23-	2
+116	sick	CD70-/-;Bcl6tg/+	13_Follicular	NA
+116	sick	CD70-/-;Bcl6tg/+	6_Follicular	NA
+116	sick	CD70-/-;Bcl6tg/+	15_Plasmablasts	6
+116	sick	CD70-/-;Bcl6tg/+	2_Transitional (T2)	NA
+116	sick	CD70-/-;Bcl6tg/+	0_Follicular	NA
+116	sick	CD70-/-;Bcl6tg/+	16_Other	NA
+116	sick	CD70-/-;Bcl6tg/+	14_Follicular Serpina3+	NA
+116	sick	CD70-/-;Bcl6tg/+	25_Ig-restricted	NA
+116	sick	CD70-/-;Bcl6tg/+	27_Light Zone	NA
+116	sick	CD70-/-;Bcl6tg/+	17_Ig-restricted	NA
+116	sick	CD70-/-;Bcl6tg/+	10_Follicular IFN-stimulated	NA
+116	sick	CD70-/-;Bcl6tg/+	9_Follicular Hspa1+	NA
+116	sick	CD70-/-;Bcl6tg/+	23_Ig-restricted	NA
+116	sick	CD70-/-;Bcl6tg/+	11_Follicular	NA
+116	sick	CD70-/-;Bcl6tg/+	24_Follicular	NA
