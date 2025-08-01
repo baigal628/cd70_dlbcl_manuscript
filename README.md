@@ -1,14 +1,17 @@
-# Bcl6 Cd70 DLBCL manuscript github repository
+# Bcl6-driven Cd70-deficient Diffuse Large B-cell Lymphomas Originate from Innate-like Precursors and Have Blunted CD4⁺ Cytotoxic T-cell Immune Surveillance
 
-## Content
+## Repository Overview
+This repository contains the data, analysis scripts, and generated figures used in the study.
+
+## Folder Structure
 - data/
-    
-    data used as input for analysis in jupyter notebooks.
+
+    Contains input datasets and output files used or generated during the Jupyter Notebook analyses.
 
 - scripts/
 
-    jupyter notebooks for reproducing data and figures used in the paper.
+    Contains Bash scripts, helper functions, and Jupyter Notebooks for reproducing analyses and generating figures presented in the paper.
 
 - results/figures/
 
-    figures produced from the jupyter notebooks.
+    Contains publication-ready figures generated from the analyses.
